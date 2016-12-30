@@ -1,0 +1,43 @@
+Setting up the environment
+--------------------------
+
+Install MongoDB
+Tutorial: https://www.youtube.com/watch?v=aur91YNXgVE
+Reference: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/):
+
+brew update
+brew install mongodb
+mkdir -p ./data/db
+
+Instal RomboDB GUI:
+Download from: https://robomongo.org/download
+Setup using the tutorial video above.
+
+Install PyMongo:
+Download from: https://pypi.python.org/pypi/pymongo/#downloads
+Run:
+sudo easy_install ../packages/pymongo-3.4.0-py2.7-macosx-10.12-intel.egg
+
+Start MongoDB daemon (from working directory):
+mongod --dbpath ./data/db/
+or use the startmondodb.sh script
+
+Download Yahoo stock symbols data:
+cd yss
+pt get_yahoo_stock_symbols.py -v -c 3 (or 4 or 5)
+
+Clean the "N/A" entries:
+cat yahoo_stock_symbols_3.csv |grep -v 'N/A' > yahoo_stock_symbols_3_clean.csv
+
+Import the CSV file to the MongoDB:
+mongoimport -d mydb -c things --type csv --file <location>.csv --headerline
+
+MongoDB commands:
+db.dropDatabase() --> Delete the DB
+use test --> Create new new "test" DB
+show dbs --> Shows the available DBs (wont show DB without any data)
+show collections --> shows all collections in the current DB
+db.things.find() --> shows data in current DB in collection "things"
+
+Installing data science for mac:
+http://quantlabs.net/blog/2015/12/instruction-to-get-python-data-science-working-on-mac/

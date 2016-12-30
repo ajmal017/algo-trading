@@ -1,0 +1,3722 @@
+Ticker, Name, Type, StockExchange
+A,Agilent Technologies, Inc. Comm,NYQ
+B,Barnes Group, Inc. Common Stock,NYQ
+C,Citigroup, Inc. Common Stock,NYQ
+D,Dominion Resources, Inc. Common,NYQ
+E,ENI S.p.A. Common Stock,NYQ
+F,Ford Motor Company Common Stock,NYQ
+G,Genpact Limited Common Stock,NYQ
+H,Hyatt Hotels Corporation Class ,NYQ
+I,Intelsat S.A. Common Shares,NYQ
+K,Kellogg Company Common Stock,NYQ
+L,Loews Corporation Common Stock,NYQ
+M,Macy's Inc Common Stock,NYQ
+N,Netsuite Inc,NYQ
+O,Realty Income Corporation Commo,NYQ
+P,Pandora Media, Inc. Common Stoc,NYQ
+Q,Quintiles IMS Holdings, Inc. Co,NYQ
+R,Ryder System, Inc. Common Stock,NYQ
+S,Sprint Corporation Common Stock,NYQ
+T,AT&T Inc.,NYQ
+V,Visa Inc.,NYQ
+W,Wayfair Inc. Class A Common Sto,NYQ
+X,United States Steel Corporation,NYQ
+Y,Alleghany Corporation Common St,NYQ
+Z,Zillow Group, Inc.,NMS
+AA,Alcoa Corporation Common Stock ,NYQ
+AB,AllianceBernstein Holding L.P. ,NYQ
+AC,Associated Capital Group, Inc. ,NYQ
+AE,Adams Resources & Energy, Inc. ,ASE
+AF,Astoria Financial Corporation C,NYQ
+AG,First Majestic Silver Corp. Ord,NYQ
+AI,Arlington Asset Investment Corp,NYQ
+AL,Air Lease Corporation Class A C,NYQ
+AM,Antero Midstream Partners LP Co,NYQ
+AN,AutoNation, Inc. Common Stock,NYQ
+AP,Ampco-Pittsburgh Corporation Co,NYQ
+AR,Antero Resources Corporation Co,NYQ
+AT,Atlantic Power Corporation Ordi,NYQ
+AU,AngloGold Ashanti Limited Commo,NYQ
+AV,Aviva plc Unsponsored ADR (UK),NYQ
+BA,Boeing Company (The) Common Sto,NYQ
+BC,Brunswick Corporation Common St,NYQ
+BG,Bunge Limited Bunge Limited,NYQ
+BH,Biglari Holdings Inc.,NYQ
+BK,Bank of New York Mellon Corpora,NYQ
+BL,BLACKLINE, INC.,NMS
+BP,BP p.l.c. Common Stock,NYQ
+BR,Broadridge Financial Solutions,,NYQ
+BT,BT Group plc American Depositar,NYQ
+BV,Bazaarvoice, Inc.,NMS
+BW,Babcock & Wilcox Enterprises, I,NYQ
+BX,The Blackstone Group L.P. Commo,NYQ
+CA,CA Inc.,NMS
+CB,D/B/A Chubb Limited New Common ,NYQ
+CC,Chemours Company (The) Common S,NYQ
+CE,Celanese Corporation Celanese C,NYQ
+CF,CF Industries Holdings, Inc. Co,NYQ
+CG,The Carlyle Group L.P.,NMS
+CH,Aberdeen Chile Fund, Inc. (The),ASE
+CI,Cigna Corporation Common Stock,NYQ
+CL,Colgate-Palmolive Company Commo,NYQ
+CM,Canadian Imperial Bank of Comme,NYQ
+CN,Deutsche X-trackers MSCI All Ch,PCX
+CO,China Cord Blood Corporation Co,NYQ
+CP,Canadian Pacific Railway Limite,NYQ
+CR,Crane Company Common Stock,NYQ
+CS,Credit Suisse Group American De,NYQ
+CU,First Trust ISE Global Copper I,NGM
+CW,Curtiss-Wright Corporation Comm,NYQ
+CX,Cemex, S.A.B. de C.V. Sponsored,NYQ
+CY,Cypress Semiconductor Corporati,NMS
+DB,Deutsche Bank AG Common Stock,NYQ
+DD,E.I. du Pont de Nemours and Com,NYQ
+DE,Deere & Company Common Stock,NYQ
+DF,Dean Foods Company Common Stock,NYQ
+DG,Dollar General Corporation Comm,NYQ
+DI,PIMCO Diversified Income Active,PCX
+DK,Delek US Holdings, Inc. Common ,NYQ
+DL,China Distance Education Holdin,NYQ
+DM,Dominion Midstream Partners, LP,NYQ
+DO,Diamond Offshore Drilling, Inc.,NYQ
+DQ,DAQO New Energy Corp. American ,NYQ
+DV,DeVry Education Group Inc. Comm,NYQ
+DW,Drew Industries Incorporated Co,NYQ
+DX,Dynex Capital, Inc. Common Stoc,NYQ
+DY,Dycom Industries, Inc. Common S,NYQ
+EA,Electronic Arts Inc.,NMS
+EC,Ecopetrol S.A. American Deposit,NYQ
+ED,Consolidated Edison, Inc. Commo,NYQ
+EE,El Paso Electric Company Common,NYQ
+EJ,E-House (China) Holdings Limite,NYQ
+EL,Estee Lauder Companies, Inc. (T,NYQ
+ES,Eversource Energy (D/B/A) Commo,NYQ
+EU,WisdomTree Euro Debt  Fund,PCX
+EV,Eaton Vance Corporation Common ,NYQ
+EW,Edwards Lifesciences Corporatio,NYQ
+FB,Facebook, Inc.,NMS
+FC,Franklin Covey Company Common S,NYQ
+FE,FirstEnergy Corporation Common ,NYQ
+FF,FutureFuel Corp.  Common shares,NYQ
+FH,FORM Holdings Corp.,NCM
+FI,Frank's International N.V. Comm,NYQ
+FL,Foot Locker, Inc.,NYQ
+FM,iShares MSCI Frontier 100 Fund,PCX
+FN,Fabrinet Ordinary Shares,NYQ
+FR,First Industrial Realty Trust, ,NYQ
+FT,Franklin Universal Trust Common,NYQ
+FV,First Trust Dorsey Wright Focus,NGM
+GB,Greatbatch, Inc.,NYQ
+GD,General Dynamics Corporation Co,NYQ
+GE,General Electric Company Common,NYQ
+GF,New Germany Fund, Inc. (The) Co,NYQ
+GG,Goldcorp Inc. Common Stock,NYQ
+GI,EndoChoice Holdings, Inc.,NYQ
+GK,G&K Services, Inc.,NMS
+GM,General Motors Company Common S,NYQ
+GS,Goldman Sachs Group, Inc. (The),NYQ
+GT,The Goodyear Tire & Rubber Comp,NMS
+GV,Goldfield Corporation (The) Com,ASE
+HA,Hawaiian Holdings, Inc.,NMS
+HD,Home Depot, Inc. (The) Common S,NYQ
+HE,Hawaiian Electric Industries, I,NYQ
+HF,HFF, Inc. Common Stock, Class A,NYQ
+HH,Hooper Holmes, Inc. Common Stoc,ASE
+HI,Hillenbrand Inc Common Stock,NYQ
+HK,Halcon Resources Corporation Co,NYQ
+HL,Hecla Mining Company Common Sto,NYQ
+HP,Helmerich & Payne, Inc. Common ,NYQ
+HR,Healthcare Realty Trust Incorpo,NYQ
+HT,Hersha Hospitality Trust Class ,NYQ
+HW,Headwaters Incorporated Common ,NYQ
+HY,Hyster-Yale Materials Handling,,NYQ
+IF,Aberdeen Indonesia Fund, Inc. (,ASE
+IG,IGI, Laboratories Inc. Common S,ASE
+IL,IntraLinks Holdings, Inc. Commo,NYQ
+IM,Ingram Micro Inc.,NYQ
+IO,Ion Geophysical Corporation Com,NYQ
+IP,International Paper Company Com,NYQ
+IR,Ingersoll-Rand plc (Ireland),NYQ
+IT,Gartner, Inc. Common Stock,NYQ
+IX,Orix Corp Ads Common Stock,NYQ
+JD,JD.com, Inc. - American Deposit,NMS
+JE,Just Energy Group, Inc. Ordinar,NYQ
+JO,iPath Bloomberg Coffee Subindex,PCX
+JP,Jupai Holdings Limited American,NYQ
+KB,KB Financial Group Inc,NYQ
+KE,Kimball Electronics, Inc.,NMS
+KF,Korea Fund, Inc. (The) New Comm,NYQ
+KN,Knowles Corporation Common Stoc,NYQ
+KO,Coca-Cola Company (The) Common ,NYQ
+KR,Kroger Company (The) Common Sto,NYQ
+KS,KapStone Paper and Packaging Co,NYQ
+KT,KT Corporation Common Stock,NYQ
+KW,Kennedy-Wilson Holdings Inc. Co,NYQ
+KZ,KongZhong Corporation - America,NMS
+LB,L Brands, Inc.,NYQ
+LC,LendingClub Corporation Common ,NYQ
+LD,iPath Bloomberg Lead Subindex T,PCX
+LE,Lands' End, Inc.,NCM
+LF,Leapfrog Enterprises Inc,NYQ
+LG,SPIRE INC,NYQ
+LH,Laboratory Corporation of Ameri,NYQ
+LL,Lumber Liquidators Holdings, In,NYQ
+LM,Legg Mason, Inc. Common Stock,NYQ
+LN,LINE Corporation American Depos,NYQ
+LQ,La Quinta Holdings Inc. Common ,NYQ
+LW,Lamb Weston Holdings, Inc. Comm,NYQ
+MA,Mastercard Incorporated Common ,NYQ
+MB,MINDBODY, Inc.,NGM
+MC,Moelis & Company Class A Common,NYQ
+MD,Mednax, Inc. Common Stock,NYQ
+MG,Mistras Group Inc Common Stock,NYQ
+MN,Manning & Napier, Inc. Class A ,NYQ
+MO,Altria Group, Inc.,NYQ
+MS,Morgan Stanley Common Stock,NYQ
+MT,Arcelor Mittal NY Registry Shar,NYQ
+MU,Micron Technology, Inc.,NMS
+MX,MagnaChip Semiconductor Corpora,NYQ
+MY,China Ming Yang Wind Power Grou,NYQ
+NC,NACCO Industries, Inc. Common S,NYQ
+NE,Noble Corporation Ordinary Shar,NYQ
+NG,Novagold Resources Inc.,ASE
+NH,NantHealth, Inc.,NMS
+NI,NiSource Inc Common Stock,NYQ
+NJ,Nidec Corporation (Nihon Densan,NYQ
+NK,NantKwest, Inc.,NMS
+NL,NL Industries, Inc. Common Stoc,NYQ
+NM,Navios Maritime Holdings Inc. C,NYQ
+NP,Neenah Paper, Inc. Common Stock,NYQ
+NQ,NQ Mobile Inc. American Deposit,NYQ
+NR,Newpark Resources, Inc. Common ,NYQ
+NS,Nustar Energy L.P.  Common Unit,NYQ
+NX,Quanex Building Products Corpor,NYQ
+NY,iShares NYSE 100 ETF,PCX
+OA,Orbital ATK, Inc. Common Stock,NYQ
+OB,OneBeacon Insurance Group, Ltd.,NYQ
+OC,Owens Corning Inc Common Stock ,NYQ
+OI,Owens-Illinois, Inc. Common Sto,NYQ
+ON,ON Semiconductor Corporation,NMS
+OR,Osisko Gold Royalties Ltd Commo,NYQ
+PB,Prosperity Bancshares, Inc. Com,NYQ
+PE,Parsley Energy, Inc. Class A Co,NYQ
+PF,Pinnacle Foods, Inc. Common Sto,NYQ
+PG,Procter & Gamble Company (The) ,NYQ
+PH,Parker-Hannifin Corporation Com,NYQ
+PI,Impinj, Inc.,NMS
+PM,Philip Morris International Inc,NYQ
+PN,Patriot National, Inc. Common S,NYQ
+PQ,Petroquest Energy Inc Common St,NYQ
+PW,Power REIT (MD) Common Stock,ASE
+PX,Praxair, Inc. Common Stock,NYQ
+PY,Principal Shareholder Yield Ind,NGM
+RA,Brookfield Real Assets Income F,NYQ
+RE,Everest Re Group, Ltd. Common S,NYQ
+RF,Regions Financial Corporation C,NYQ
+RH,Restoration Hardware Holdings I,NYQ
+RL,Ralph Lauren Corporation Common,NYQ
+RM,Regional Management Corp. Commo,NYQ
+RP,RealPage, Inc.,NMS
+RS,Reliance Steel & Aluminum Co. C,NYQ
+RT,Ruby Tuesday, Inc. Common Stock,NYQ
+RY,Royal Bank Of Canada Common Sto,NYQ
+SA,Seabridge Gold, Inc. Ordinary S,NYQ
+SB,Safe Bulkers, Inc Common Stock ,NYQ
+SC,Santander Consumer USA Holdings,NYQ
+SD,SandRidge Energy, Inc. Common S,NYQ
+SE,Spectra Energy Corp Common Stoc,NYQ
+SF,Stifel Financial Corporation Co,NYQ
+SH,ProShares Short S&P500,PCX
+SM,SM Energy Company Common Stock,NYQ
+SN,Sanchez Energy Corporation Comm,NYQ
+SO,Southern Company (The) Common S,NYQ
+SP,SP Plus Corporation,NMS
+SQ,Square, Inc. Class A Common Sto,NYQ
+SR,Spire Inc. Common Stock,NYQ
+ST,Sensata Technologies Holding N.,NYQ
+SU,Suncor Energy  Inc. Common Stoc,NYQ
+TA,TravelCenters of America LLC,NMS
+TD,Toronto Dominion Bank (The) Com,NYQ
+TE,TECO Energy, Inc.,NYQ
+TG,Tredegar Corporation Common Sto,NYQ
+TI,Telecom Italia S.P.A. New,NYQ
+TK,Teekay Corporation Common Stock,NYQ
+TM,Toyota Motor Corporation Common,NYQ
+TR,Tootsie Roll Industries, Inc. C,NYQ
+TS,Tenaris S.A. American Depositar,NYQ
+TU,Telus Corporation Ordinary Shar,NYQ
+TV,Grupo Televisa S.A. Common Stoc,NYQ
+TW,Towers Watson & Co.,NMS
+TX,Ternium S.A. Ternium S.A. Ameri,NYQ
+TY,Tri Continental Corporation Com,NYQ
+UA,Under Armour, Inc. Class C Comm,NYQ
+UE,Urban Edge Properties Common Sh,NYQ
+UG,United-Guardian, Inc.,NGM
+UK,Recon Capital FTSE 100 ETF,NMS
+UL,Unilever PLC Common Stock,NYQ
+UN,Unilever NV Common Stock,NYQ
+VA,Virgin America Inc.,NMS
+VB,Vanguard Small-Cap ETF - DNQ,PCX
+VC,Visteon Corporation Common Stoc,NYQ
+VG,Vonage Holdings Corp. Common St,NYQ
+VO,Vanguard Mid-Cap ETF - DNQ,PCX
+VR,Validus Holdings, Ltd. Common S,NYQ
+VT,Vanguard Total World Stock Inde,PCX
+VV,Vanguard Large-Cap ETF - DNQ,PCX
+VZ,Verizon Communications Inc. Com,NYQ
+WB,Weibo Corporation - American De,NMS
+WD,Walker & Dunlop, Inc Common Sto,NYQ
+WF,Woori Bank American Depositary ,NYQ
+WG,Willbros Group, Inc. (DE) Commo,NYQ
+WK,Workiva Inc. Class A Common Sto,NYQ
+WM,Waste Management, Inc. Common S,NYQ
+WR,Westar Energy, Inc. Common Stoc,NYQ
+WU,Western Union Company (The) Com,NYQ
+WY,Weyerhaeuser Company Common Sto,NYQ
+XL,XL Group Ltd.,NYQ
+XT,iShares Exponential Technologie,PCX
+YY,YY Inc. - American Depositary S,NMS
+ZF,Zweig Fund, Inc. (The) Common S,NYQ
+ZG,Zillow Group, Inc.,NMS
+ZN,Zion Oil & Gas Inc,NGM
+ZU,zulily, inc.,NMS
+ZX,China Zenix Auto International ,NYQ
+AAC,AAC Holdings, Inc. Common Stock,NYQ
+AAL,American Airlines Group, Inc.,NMS
+AAN,Aaron's, Inc. Common Stock,NYQ
+AAP,Advance Auto Parts Inc Advance ,NYQ
+AAT,American Assets Trust, Inc. Com,NYQ
+AAU,Almaden Minerals, Ltd. Common S,ASE
+AAV,Advantage Oil & Gas Ltd  Ordina,NYQ
+ABB,ABB Ltd Common Stock,NYQ
+ABC,AmerisourceBergen Corporation C,NYQ
+ABE,Aberdeen Emerging Markets Compa,ASE
+ABG,Asbury Automotive Group Inc Com,NYQ
+ABM,ABM Industries Incorporated Com,NYQ
+ABR,Arbor Realty Trust Common Stock,NYQ
+ABT,Abbott Laboratories Common Stoc,NYQ
+ABX,Barrick Gold Corporation Common,NYQ
+ABY,Atlantica Yield plc - Ordinary ,NMS
+ACC,American Campus Communities Inc,NYQ
+ACG,Alliancebernstein Income Fund,NYQ
+ACH,Aluminum Corporation of China L,NYQ
+ACM,AECOM Common Stock,NYQ
+ACN,Accenture plc Class A Ordinary ,NYQ
+ACP,Avenue Income Credit Strategies,NYQ
+ACU,Acme United Corporation. Common,ASE
+ACV,AllianzGI Diversified Income & ,NYQ
+ACW,Accuride Corporation,NYQ
+ACY,AeroCentury Corp. Common Stock,ASE
+ADC,Agree Realty Corporation Common,NYQ
+ADI,Analog Devices, Inc.,NMS
+ADK,Adcare Health Systems Inc Commo,ASE
+ADM,Archer-Daniels-Midland Company ,NYQ
+ADP,Automatic Data Processing, Inc.,NMS
+ADS,Alliance Data Systems Corporati,NYQ
+ADT,ADT Corporation,NYQ
+ADX,Adams Diversified Equity Fund I,NYQ
+ADZ,DB Agriculture Short ETN due Ap,PCX
+AEB,AEGON N.V. Perp. Cap. Secs. Flo,NYQ
+AED,AEGON N.V. Perp. Cap. Securitie,NYQ
+AEE,Ameren Corporation Common Stock,NYQ
+AEG,AEGON N.V. Common Stock,NYQ
+AEH,AEGON N.V. Perp. Cap Secs.,NYQ
+AEK,Aegon NV 8.00% Non-Cumulative S,NYQ
+AEL,American Equity Investment Life,NYQ
+AEM,Agnico Eagle Mines Limited Comm,NYQ
+AEO,American Eagle Outfitters, Inc.,NYQ
+AEP,American Electric Power Company,NYQ
+AER,Aercap Holdings N.V. Ordinary S,NYQ
+AES,The AES Corporation Common Stoc,NYQ
+AET,Aetna Inc. Common Stock,NYQ
+AEY,ADDvantage Technologies Group, ,NGM
+AFA,American Financial Group, Inc. ,NYQ
+AFB,AllianceBernstein National Muni,NYQ
+AFC,Allied Capital Corporation Alli,NYQ
+AFG,American Financial Group, Inc. ,NYQ
+AFH,Atlas Financial Holdings, Inc. ,NCM
+AFI,Armstrong Flooring, Inc. Common,NYQ
+AFK,VanEck Vectors-Africa Index ETF,PCX
+AFL,AFLAC Incorporated Common Stock,NYQ
+AFM,** SEE<AFM-CL>,NYQ
+AFQ,** SEE<AFQ-CL>,NYQ
+AFT,Apollo Senior Floating Rate Fun,NYQ
+AFW,American Financial Group, Inc. ,NYQ
+AGA,DB Agriculture Double Short ETN,PCX
+AGC,Advent Claymore Convertible Sec,NYQ
+AGD,Alpine Global Dynamic Dividend ,NYQ
+AGF,DB Agriculture Long ETN due Apr,PCX
+AGG,iShares Core U.S. Aggregate Bon,PCX
+AGI,Alamos Gold Inc. Class A Common,NYQ
+AGM,Federal Agricultural Mortgage C,NYQ
+AGN,Allergan plc Ordinary Shares,NYQ
+AGO,Assured Guaranty Ltd. Common St,NYQ
+AGQ,ProShares Ultra Silver,PCX
+AGR,Avangrid, Inc. Common Stock,NYQ
+AGU,Agrium Inc. Common Stock,NYQ
+AGX,Argan, Inc. Common Stock,NYQ
+AGZ,iShares  Agency Bond ETF,PCX
+AHC,A.H. Belo Corporation Common St,NYQ
+AHH,Armada Hoffler Properties, Inc.,NYQ
+AHL,Aspen Insurance Holdings Limite,NYQ
+AHP,Ashford Hospitality Prime, Inc.,NYQ
+AHS,AMN Healthcare Services Inc AMN,NYQ
+AHT,Ashford Hospitality Trust Inc C,NYQ
+AIA,iShares Asia 50 ETF,NGM
+AIB,Apollo Investment Corporation 6,NYQ
+AIC,Arlington Asset Investment Corp,NYQ
+AIF,Apollo Tactical Income Fund Inc,NYQ
+AIG,American International Group, I,NYQ
+AIN,Albany International Corporatio,NYQ
+AIQ,Alliance HealthCare Services, I,NGM
+AIR,AAR Corp. Common Stock,NYQ
+AIT,Applied Industrial Technologies,NYQ
+AIV,Apartment Investment and Manage,NYQ
+AIW,Arlington Asset Investment Corp,NYQ
+AIY,Apollo Investment Corporation 6,NYQ
+AIZ,Assurant, Inc. Common Stock,NYQ
+AJG,Arthur J. Gallagher & Co. Commo,NYQ
+AJX,Great Ajax Corp. Common Stock,NYQ
+AKG,Asanko Gold Inc.,ASE
+AKP,Alliance California Municipal I,NYQ
+AKR,Acadia Realty Trust Common Stoc,NYQ
+AKS,AK Steel Holding Corporation Co,NYQ
+ALB,Albemarle Corporation Common St,NYQ
+ALD,WisdomTree Asia Local Debt Fund,PCX
+ALE,Allete, Inc.,NYQ
+ALG,Alamo Group, Inc. Common Stock,NYQ
+ALJ,Alon USA Energy, Inc. common st,NYQ
+ALK,Alaska Air Group, Inc. Common S,NYQ
+ALL,Allstate Corporation (The) Comm,NYQ
+ALN,American Lorain Corporation Com,ASE
+ALR,Alere Inc. Common Stock,NYQ
+ALV,Autoliv, Inc. Common Stock,NYQ
+ALX,Alexander's, Inc. Common Stock,NYQ
+AMC,AMC Entertainment Holdings, Inc,NYQ
+AMD,Advanced Micro Devices, Inc.,NCM
+AME,AMETEK, Inc.,NYQ
+AMG,Affiliated Managers Group, Inc.,NYQ
+AMH,American Homes 4 Rent Common Sh,NYQ
+AMJ,JPMorgan Chase Capital XVI JP M,PCX
+AMN,AMN Healthcare Services Inc AMN,NYQ
+AMP,Ameriprise Financial, Inc. Comm,NYQ
+AMS,American Shared Hospital Servic,ASE
+AMT,American Tower Corporation (REI,NYQ
+AMU,ETRACS Alerian MLP Index ETN,PCX
+AMX,America Movil, S.A.B. de C.V. A,NYQ
+AND,Global X FTSE Andean 40 ETF,PCX
+ANF,Abercrombie & Fitch Company Com,NYQ
+ANH,Anworth Mortgage Asset Corporat,NYQ
+ANR,Alpha Natural Resources, inc. c,NYQ
+ANW,Aegean Marine Petroleum Network,NYQ
+ANY,Sphere 3D Corp.,NGM
+AOA,iShares Core Aggressive Allocat,PCX
+AOD,Alpine Total Dynamic Dividend F,NYQ
+AOI,Alliance One International, Inc,NYQ
+AOK,iShares Core Conservative Alloc,PCX
+AOM,iShares Core Moderate Allocatio,PCX
+AON,Aon plc Class A Ordinary Shares,NYQ
+AOR,iShares Core Growth Allocation ,PCX
+AOS,A.O. Smith Corporation Common S,NYQ
+APA,Apache Corporation Common Stock,NYQ
+APB,Asia Pacific Fund, Inc. (The),NYQ
+APC,Anadarko Petroleum Corporation ,NYQ
+APD,Air Products and Chemicals, Inc,NYQ
+APF,Morgan Stanley Asia-Pacific Fun,NYQ
+APH,Amphenol Corporation Common Sto,NYQ
+APO,Apollo Global Management, LLC C,NYQ
+APP,American Apparel Inc Common Sto,ASE
+APT,Alpha Pro Tech, Ltd. Common Sto,ASE
+APU,AmeriGas Partners, L.P. Common ,NYQ
+AQN,Algonquin Power & Utilities Cor,NYQ
+ARA,American Renal Associates Holdi,NYQ
+ARC,ARC Document Solutions, Inc. Co,NYQ
+ARE,Alexandria Real Estate Equities,NYQ
+ARG,Airgas, Inc.,NYQ
+ARI,Apollo Commercial Real Estate F,NYQ
+ARL,American Realty Investors, Inc.,NYQ
+ARO,Aeropostale Inc,NYQ
+ARP,Atlas Resource Partners, L.P. C,NYQ
+ARR,ARMOUR Residential REIT, Inc.,NYQ
+ARU,Ares Capital Corporation 5.875%,NYQ
+ARW,Arrow Electronics, Inc. Common ,NYQ
+ARY,** SEE<ARY-CL>,NYQ
+ASA,ASA  Gold and Precious Metals L,NYQ
+ASB,Associated Banc-Corp Common Sto,NYQ
+ASC,Ardmore Shipping Corporation Co,NYQ
+ASG,Liberty All-Star Growth Fund, I,NYQ
+ASH,Ashland Global Holdings Inc. Co,NYQ
+ASM,Avino Silver & Gold Mines Ltd. ,ASE
+ASR,Grupo Aeroportuario del Sureste,NYQ
+AST,Asterias Biotherapeutics, Inc. ,ASE
+ASX,Advanced Semiconductor Engineer,NYQ
+ATE,Advantest Corporation (Kabushik,NYQ
+ATH,Athene Holding Ltd. Class A Com,NYQ
+ATI,Allegheny Technologies Incorpor,NYQ
+ATL,Atlatsa Resources Corporation,PNK
+ATO,Atmos Energy Corporation Common,NYQ
+ATR,AptarGroup, Inc. Common Stock,NYQ
+ATU,Actuant Corporation Common Stoc,NYQ
+ATV,Acorn International, Inc. ADS,NYQ
+ATW,Atwood Oceanics, Inc. Common St,NYQ
+AUD,Pimco Australia Bond Index Exch,PCX
+AUO,AU Optronics Corp American Depo,NYQ
+AUQ,AuRico Gold Inc. Ordinary Share,NYQ
+AUY,Yamana Gold Inc. Ordinary Share,NYQ
+AVA,Avista Corporation Common Stock,NYQ
+AVB,AvalonBay Communities, Inc. Com,NYQ
+AVD,American Vanguard Corporation C,NYQ
+AVG,AVG Technologies N.V. Ordinary ,NYQ
+AVH,Avianca Holdings S.A. American ,NYQ
+AVK,Advent Claymore Convertible Sec,NYQ
+AVL,Avalon Rare Metals, Inc. Ordina,ASE
+AVP,Avon Products, Inc. Common Stoc,NYQ
+AVT,Avnet, Inc. Common Stock,NYQ
+AVV,Aviva plc Subordinated Capital ,NYQ
+AVX,AVX Corporation Common Stock,NYQ
+AVY,Avery Dennison Corporation Comm,NYQ
+AWF,Alliancebernstein Global High I,NYQ
+AWH,Allied World Assurance Company ,NYQ
+AWI,Armstrong World Industries Inc ,NYQ
+AWK,American Water Works Company, I,NYQ
+AWP,Alpine Global Premier Propertie,NYQ
+AWR,American States Water Company C,NYQ
+AWX,Avalon Holdings Corporation Com,ASE
+AXE,Anixter International Inc. Comm,NYQ
+AXL,American Axle & Manufacturing H,NYQ
+AXN,Aoxing Pharmaceutical Company, ,ASE
+AXP,American Express Company Common,NYQ
+AXR,AMREP Corporation Common Stock,NYQ
+AXS,Axis Capital Holdings Limited C,NYQ
+AXU,Alexco Resource Corp Common Sha,ASE
+AXX,Alderon Iron Ore Corp. Ordinary,ASE
+AYA,Amaya Inc.,NMS
+AYI,Acuity Brands Inc (Holding Comp,NYQ
+AYR,Aircastle Limited Common Stock,NYQ
+AYT,iPath GEMS Asia 8 ETN,PCX
+AZN,Astrazeneca PLC Common Stock,NYQ
+AZO,AutoZone, Inc. Common Stock,NYQ
+AZZ,AZZ Inc.,NYQ
+BAA,BANRO CORPORATION Ordinary Shar,ASE
+BAB,PowerShares Build America Bond ,PCX
+BAC,Bank of America Corporation Com,NYQ
+BAF,BlackRock Municipal Income Inve,NYQ
+BAH,Booz Allen Hamilton Holding Cor,NYQ
+BAK,Braskem SA ADR,NYQ
+BAL,iPath Bloomberg Cotton Subindex,PCX
+BAM,Brookfield Asset Management Inc,NYQ
+BAP,Credicorp Ltd. Common Stock,NYQ
+BAR,Direxion Daily Gold Bull 3X Sha,PCX
+BAS,Basic Energy Services, Inc. Com,NYQ
+BAX,Baxter International Inc. Commo,NYQ
+BBC,BioShares Biotechnology Clinica,NGM
+BBD,Banco Bradesco Sa American Depo,NYQ
+BBF,BlackRock Municipal Income Inve,NYQ
+BBG,Bill Barrett Corporation Common,NYQ
+BBH,VanEck Vectors Biotech ETF,NGM
+BBK,Blackrock Municipal Bond Trust,NYQ
+BBL,BHP Billiton plc Sponsored ADR,NYQ
+BBN,BlackRock Taxable Municipal Bon,NYQ
+BBP,BioShares Biotechnology Product,NGM
+BBT,BB&T Corporation Common Stock,NYQ
+BBU,Brookfield Business Partners L.,NYQ
+BBW,Build-A-Bear Workshop, Inc. Com,NYQ
+BBX,BBX Capital Corporation,NYQ
+BBY,Best Buy Co., Inc. Common Stock,NYQ
+BCA,Corpbanca Sponsored Reg S GDR r,NYQ
+BCC,Boise Cascade, L.L.C. Common St,NYQ
+BCE,BCE, Inc. Common Stock,NYQ
+BCH,Banco De Chile Banco De Chile A,NYQ
+BCM,iPath Pure Beta Broad Commodity,PCX
+BCO,Brinks Company (The) Common Sto,NYQ
+BCR,C.R. Bard, Inc. Common Stock,NYQ
+BCS,Barclays PLC Common Stock,NYQ
+BCV,Bancroft Fund, Ltd.,ASE
+BCX,BlackRock Resources Common Shar,NYQ
+BDC,Belden Inc Common Stock,NYQ
+BDD,DB Base Metals Double Long Exch,PCX
+BDE,Black Diamond, Inc.,NMS
+BDG,DB Base Metals Long Exchange Tr,PCX
+BDJ,Blackrock Enhanced Equity Divid,NYQ
+BDL,Flanigan's Enterprises, Inc. Co,ASE
+BDN,Brandywine Realty Trust Common ,NYQ
+BDR,Blonder Tongue Laboratories, In,ASE
+BDX,Becton, Dickinson and Company C,NYQ
+BEL,Belmond Ltd. Class A Common Sto,NYQ
+BEN,Franklin Resources, Inc. Common,NYQ
+BEP,Brookfield Renewable Partners L,NYQ
+BFA,Brown Forman Inc Class A Common,NYQ
+BFB,Brown Forman Inc Class B Common,NYQ
+BFK,BlackRock Municipal Income Trus,NYQ
+BFO,Blackrock Florida Municipal 202,NYQ
+BFR,BBVA Banco Frances S.A. Common ,NYQ
+BFS,Saul Centers, Inc. Common Stock,NYQ
+BFY,BlackRock New York Municipal In,ASE
+BFZ,BlackRock California Municipal ,NYQ
+BGB,Blackstone / GSO Strategic Cred,NYQ
+BGC,General Cable Corporation Commo,NYQ
+BGG,Briggs & Stratton Corporation C,NYQ
+BGH,Barings Global Short Duration H,NYQ
+BGI,Birks Group Inc. Common Stock,ASE
+BGR,BlackRock Energy and Resources ,NYQ
+BGS,B&G Foods, Inc. B&G Foods, Inc.,NYQ
+BGT,BlackRock Floating Rate Income ,NYQ
+BGX,Blackstone GSO Long Short Credi,NYQ
+BGY,BLACKROCK INTERNATIONAL, LTD. B,NYQ
+BHB,Bar Harbor Bankshares, Inc. Com,ASE
+BHE,Benchmark Electronics, Inc. Com,NYQ
+BHI,Baker Hughes Incorporated Commo,NYQ
+BHK,Blackrock Core Bond Trust Black,NYQ
+BHL,Blackrock Defined Opportunity C,NYQ
+BHP,BHP Billiton Limited Common Sto,NYQ
+BHV,BlackRock Virginia Municipal Bo,ASE
+BIB,ProShares Ultra Nasdaq Biotechn,NGM
+BID,Sotheby's Common Stock,NYQ
+BIE,BlackRock Municipal Bond Invest,NYQ
+BIF,Boulder Growth & Income Fund, I,NYQ
+BIG,Big Lots, Inc. Common Stock,NYQ
+BIK,SPDR S&P BRIC 40,PCX
+BIL,SPDR Bloomberg Barclays 1-3 Mon,PCX
+BIN,PROGRESSIVE WASTE SOLUTIONS LTD,NYQ
+BIO,Bio-Rad Laboratories, Inc. Clas,NYQ
+BIP,Brookfield Infrastructure Partn,NYQ
+BIS,ProShares UltraShort Nasdaq Bio,NGM
+BIT,BlackRock Multi-Sector Income T,NYQ
+BIV,Vanguard Intermediate-Term Bond,PCX
+BJK,VanEck Vectors Gaming ETF,PCX
+BJZ,Blackrock California Municipal ,NYQ
+BKD,Brookdale Senior Living Inc. Co,NYQ
+BKE,Buckle, Inc. (The) Common Stock,NYQ
+BKF,iShares MSCI BRIC Index Fund,PCX
+BKH,Black Hills Corporation Common ,NYQ
+BKJ,Bancorp of New Jersey, Inc Comm,ASE
+BKK,Blackrock Municipal 2020 Term T,NYQ
+BKN,BlackRock Investment Quality Mu,NYQ
+BKS,Barnes & Noble, Inc. Common Sto,NYQ
+BKT,BlackRock Income Trust Inc. (Th,NYQ
+BKU,BankUnited, Inc. Common Stock,NYQ
+BLD,TopBuild Corp. Common Stock,NYQ
+BLE,BlackRock Municipal Income Trus,ASE
+BLH,Blackrock New York Municipal 20,NYQ
+BLJ,Blackrock New Jersey Municipal ,ASE
+BLK,BlackRock, Inc. Common Stock,NYQ
+BLL,Ball Corporation Common Stock,NYQ
+BLT,Blount International, Inc.,NYQ
+BLV,Vanguard Long-Term Bond ETF,PCX
+BLW,Blackrock Limited Duration Inco,NYQ
+BLX,Banco Latinoamericano de Comerc,NYQ
+BMA,Banco Macro S.A.  ADR (represen,NYQ
+BME,Blackrock Health Sciences Trust,NYQ
+BMI,Badger Meter, Inc. Common Stock,NYQ
+BMO,Bank Of Montreal Common Stock,NYQ
+BMS,Bemis Company, Inc. Common Stoc,NYQ
+BMY,Bristol-Myers Squibb Company Co,NYQ
+BND,Vanguard Total Bond Market ETF,PCX
+BNJ,BlackRock New Jersey Municipal ,NYQ
+BNK,C1 Financial, Inc.,NYQ
+BNO,United States Brent Oil Fund, L,PCX
+BNS,Bank Nova Scotia Halifax Pfd 3 ,NYQ
+BNY,BlackRock New York Municipal In,NYQ
+BOE,Blackrock Global Blackrock Glob,NYQ
+BOH,Bank of Hawaii Corporation Comm,NYQ
+BOI,Brookfield Mortgage Opportunity,NYQ
+BOM,DB Base Metals Double Short Exc,PCX
+BOS,DB Base Metals Short Exchange T,PCX
+BOX,Box, Inc. Class A Common Stock,NYQ
+BPI,Bridgepoint Education, Inc.,NYQ
+BPK,Blackrock Municipal 2018 Term T,NYQ
+BPL,Buckeye Partners L.P. Common St,NYQ
+BPT,BP Prudhoe Bay Royalty Trust Co,NYQ
+BPY,Brookfield Property Partners L.,NYQ
+BQH,Blackrock New York Municipal Bo,NYQ
+BRC,Brady Corporation Common Stock,NYQ
+BRF,VanEck Vectors Brazil Small-Cap,PCX
+BRG,Bluerock Residential Growth REI,ASE
+BRN,Barnwell Industries, Inc. Commo,ASE
+BRO,Brown & Brown, Inc. Common Stoc,NYQ
+BRS,Bristow Group Inc. Common Stock,NYQ
+BRT,BRT Realty Trust Common Stock,NYQ
+BRX,Brixmor Property Group Inc. Com,NYQ
+BSD,BlackRock Strategic Municipal T,NYQ
+BSE,Blackrock New York Municipal In,NYQ
+BSF,Bear State Financial, Inc.,NGM
+BSI,Alon Blue Square Israel Ltd.,NYQ
+BSL,Blackstone GSO Senior Floating ,NYQ
+BSM,Black Stone Minerals, L.P. Comm,NYQ
+BST,BlackRock Science and Technolog,NYQ
+BSV,Vanguard Short-Term Bond ETF,PCX
+BSX,Boston Scientific Corporation C,NYQ
+BTA,BlackRock Long-Term Municipal A,NYQ
+BTE,Baytex Energy Corp,NYQ
+BTG,B2Gold Corp Common shares (Cana,ASE
+BTI,British American Tobacco  Indus,ASE
+BTN,Ballantyne Strong, Inc. Common ,ASE
+BTO,John Hancock Financial Opportun,NYQ
+BTT,BlackRock Municipal 2030 Target,NYQ
+BTU,Peabody Energy Corporation,NYQ
+BTX,BioTime, Inc. Common Stock,ASE
+BTZ,BlackRock Credit Allocation Inc,NYQ
+BUD,Anheuser-Busch Inbev SA Sponsor,NYQ
+BUI,BlackRock Utility and Infrastru,NYQ
+BUR,Burcon NutraScience Corp - Ordi,NGM
+BUZ,Sprott Buzz Social Media Insigh,PCX
+BVA,Cordia Bancorp Inc.,NCM
+BVN,Buenaventura Mining Company Inc,NYQ
+BVX,Bovie Medical Corporation Commo,ASE
+BWA,BorgWarner Inc. Common Stock,NYQ
+BWC,Babcock Common Stock,NYQ
+BWG,Legg Mason BW Global Income Opp,NYQ
+BWP,Boardwalk Pipeline Partners LP ,NYQ
+BWV,iPath Goldman Sachs Barclays Ba,PCX
+BWX,SPDR Bloomberg Barclays Intl Tr,PCX
+BWZ,SPDR Bloomberg Barclays Short T,PCX
+BXC,Bluelinx Holdings Inc. Common S,NYQ
+BXE,Bellatrix Exploration Ltd Ordin,NYQ
+BXP,Boston Properties, Inc. Common ,NYQ
+BXS,BancorpSouth, Inc. Common Stock,NYQ
+BYD,Boyd Gaming Corporation Common ,NYQ
+BYM,Blackrock Municipal Income Qual,NYQ
+BZC,Breeze-Eastern Corporation,ASE
+BZF,WisdomTree Brazilian Real Strat,PCX
+BZH,Beazer Homes USA, Inc. Common S,NYQ
+BZM,BlackRock Maryland Municipal Bo,ASE
+BZQ,ProShares UltraShort MSCI Brazi,PCX
+BZT,Beazer Homes USA, Inc. Tangible,NYQ
+CAA,CalAtlantic Group, Inc. Common ,NYQ
+CAB,Cabela's Inc Class A Common Sto,NYQ
+CAC,Camden National Corporation,NMS
+CAD,PIMCO Canada Bond Index Exchang,PCX
+CAE,CAE Inc. Ordinary Shares,NYQ
+CAF,Morgan Stanley China A Share Fu,NYQ
+CAG,ConAgra Brands, Inc. Common Sto,NYQ
+CAH,Cardinal Health, Inc. Common St,NYQ
+CAI,CAI International, Inc. Common ,NYQ
+CAJ,Canon, Inc. American Depositary,NYQ
+CAL,Caleres, Inc. Common Stock,NYQ
+CAM,Cameron International Corporati,NYQ
+CAP,** SEE<CAI>,NYQ
+CAR,Avis Budget Group, Inc.,NMS
+CAS,Castle (A.M.) & Co.,NYQ
+CAT,Caterpillar, Inc. Common Stock,NYQ
+CAW,CCA Industries, Inc. Common Sto,ASE
+CBA,ClearBridge American Energy MLP,NYQ
+CBB,Cincinnati Bell Inc. Common Sto,NYQ
+CBD,Companhia Brasileira de Distrib,NYQ
+CBF,Capital Bank Financial Corp.,NMS
+CBG,CBRE Group Inc Common Stock Cla,NYQ
+CBI,Chicago Bridge & Iron Company N,NYQ
+CBK,Christopher & Banks Corporation,NYQ
+CBL,CBL & Associates Properties, In,NYQ
+CBM,Cambrex Corporation Common Stoc,NYQ
+CBO,CBO (Listing Market - NYSE - Ne,NYQ
+CBR,Ciber, Inc. Common Stock,NYQ
+CBS,CBS Corporation Class B Common ,NYQ
+CBT,Cabot Corporation Common Stock,NYQ
+CBU,Community Bank System, Inc. Com,NYQ
+CBX,CBX (Listing Market NYSE Networ,NYQ
+CBZ,CBIZ, Inc. Common Stock,NYQ
+CCA,MFS California Municipal Fund C,ASE
+CCC,Calgon Carbon Corporation Commo,NYQ
+CCD,Calamos Dynamic Convertible & I,NMS
+CCE,Coca-Cola European Partners plc,NYQ
+CCF,Chase Corporation Common Stock,ASE
+CCI,Crown Castle International Corp,NYQ
+CCJ,Cameco Corporation Common Stock,NYQ
+CCK,Crown Holdings, Inc.,NYQ
+CCL,Carnival Corporation Common Sto,NYQ
+CCM,Concord Medical Services Holdin,NYQ
+CCN,CardConnect Corp.,NCM
+CCO,Clear Channel Outdoor Holdings,,NYQ
+CCP,Care Capital Properties, Inc. C,NYQ
+CCS,Century Communities, Inc. Commo,NYQ
+CCU,Compania Cervecerias Unidas, S.,NYQ
+CCV,Comcast Corporation 5.00% Notes,NYQ
+CCX,WisdomTree Commodity Currency S,PCX
+CCZ,Comcast Holdings ZONES,NYQ
+CDC,Victory CEMP US EQ Income Enhan,NGM
+CDE,Coeur Mining, Inc. Common Stock,NYQ
+CDI,CDI Corporation Common Stock,NYQ
+CDK,CDK Global, Inc.,NMS
+CDL,Victory CEMP US Large Cap High ,NGM
+CDR,Cedar Realty Trust, Inc. Common,NYQ
+CDW,CDW Corporation,NMS
+CEA,China Eastern Airlines Corporat,NYQ
+CEB,CEB Inc. Common Stock,NYQ
+CEE,Central Europe, Russia and Turk,NYQ
+CEF,Central Fund of Canada Limited ,ASE
+CEL,Cellcom Israel, Ltd. Ordinary S,NYQ
+CEM,ClearBridge Energy MLP Fund Inc,NYQ
+CEN,Center Coast MLP & Infrastructu,NYQ
+CEO,CNOOC Limited Common Stock,NYQ
+CET,Central Securities Corporation ,ASE
+CEV,Eaton Vance California Municipa,ASE
+CEW,WisdomTree Emerging Currency St,PCX
+CEZ,Victory CEMP Emerging Market Vo,NGM
+CFA,Victory CEMP US 500 Volatility ,NGM
+CFD,Nuveen Diversified Commodity Fu,ASE
+CFG,Citizens Financial Group, Inc. ,NYQ
+CFI,Culp, Inc. Common Stock,NYQ
+CFO,Victory CEMP US 500 Enhanced Vo,NGM
+CFP,Cornerstone Progressive Return ,ASE
+CFR,Cullen/Frost Bankers, Inc. Comm,NYQ
+CFT,iShares Credit Bond ETF,PCX
+CFX,Colfax Corporation Common Stock,NYQ
+CGA,China Green Agriculture, Inc. C,NYQ
+CGG,CGG,NYQ
+CGI,Celadon Group, Inc. Common Stoc,NYQ
+CGO,Calamos Global Total Return Fun,NMS
+CGW,Guggenheim S&P Global Water,PCX
+CHA,China Telecom Corp Ltd ADS,NYQ
+CHD,Church & Dwight Company, Inc. C,NYQ
+CHE,Chemed Corp,NYQ
+CHH,Choice Hotels International, In,NYQ
+CHI,Calamos Convertible Opportuniti,NMS
+CHK,Chesapeake Energy Corporation C,NYQ
+CHL,China Mobile Limited Common Sto,NYQ
+CHN,China Fund, Inc. (The) Common S,NYQ
+CHS,Chico's FAS, Inc. Common Stock,NYQ
+CHT,Chunghwa Telecom Co., Ltd.,NYQ
+CHU,China Unicom (Hong Kong) Ltd Co,NYQ
+CHW,Calamos Global Dynamic Income F,NMS
+CHY,Calamos Convertible and High In,NMS
+CIA,Citizens, Inc. Class A Common S,NYQ
+CIB,BanColombia S.A. Common Stock,NYQ
+CID,Victory CEMP International High,NGM
+CIE,Cobalt International Energy, In,NYQ
+CIF,MFS Intermediate High Income Fu,NYQ
+CIG,Comp En De Mn Cemig ADS America,NYQ
+CII,Blackrock Capital and Income Fu,NYQ
+CIK,Credit Suisse Asset Management ,ASE
+CIL,Victory CEMP International Vola,NGM
+CIM,Chimera Investment Corporation ,NYQ
+CIO,City Office REIT, Inc. Common S,NYQ
+CIR,CIRCOR International, Inc. Comm,NYQ
+CIT,CIT Group Inc (DEL) Common Stoc,NYQ
+CIU,iShares Intermediate Credit Bon,PCX
+CIX,CompX International Inc. Common,ASE
+CIZ,Victory CEMP Developed Enhanced,NGM
+CKH,SEACOR Holdings Inc. Common Sto,NYQ
+CKP,Checkpoint Systms, Inc.,NYQ
+CKX,CKX Lands, Inc. Common Stock,ASE
+CLA,Capitala Finance Corp. 7.125% N,NYQ
+CLB,Core Laboratories N.V. Common S,NYQ
+CLC,CLARCOR Inc. Common Stock,NYQ
+CLD,Cloud Peak Energy Inc Common St,NYQ
+CLF,Cliffs Natural Resources Inc Co,NYQ
+CLH,Clean Harbors, Inc. Common Stoc,NYQ
+CLI,Mack-Cali Realty Corporation Co,NYQ
+CLM,Cornerstone Strategic Value Fun,ASE
+CLR,Continental Resources, Inc. Com,NYQ
+CLS,Celestica, Inc. Common Stock,NYQ
+CLW,Clearwater Paper Corporation Co,NYQ
+CLX,Clorox Company (The) Common Sto,NYQ
+CLY,iShares 10  Year Credit Bond ET,PCX
+CMA,Comerica Incorporated Common St,NYQ
+CMC,Commercial Metals Company Commo,NYQ
+CMD,Cantel Medical Corp. Common Sto,NYQ
+CME,CME Group Inc.,NMS
+CMF,iShares California Muni Bond ET,PCX
+CMG,Chipotle Mexican Grill, Inc. Co,NYQ
+CMI,Cummins Inc. Common Stock,NYQ
+CMN,Cantel Medical Corp.,NYQ
+CMO,Capstead Mortgage Corporation C,NYQ
+CMP,Compass Minerals Intl Inc Commo,NYQ
+CMS,CMS Energy Corporation Common S,NYQ
+CMT,Core Molding Technologies Inc C,ASE
+CMU,MFS Municipal Income Trust Comm,NYQ
+CNA,CNA Financial Corporation Commo,NYQ
+CNC,Centene Corporation Common Stoc,NYQ
+CNI,Canadian National Railway Compa,NYQ
+CNK,Cinemark Holdings Inc Cinemark ,NYQ
+CNL,Cleco Corporation,NYQ
+CNO,CNO Financial Group, Inc. Commo,NYQ
+CNP,CenterPoint Energy, Inc (Holdin,NYQ
+CNQ,Canadian Natural Resources Limi,NYQ
+CNR,China Metro-Rural Holdings Limi,ASE
+CNS,Cohen & Steers Inc Common Stock,NYQ
+CNV,Cnova N.V. - Ordinary Shares,NMS
+CNX,CONSOL Energy Inc. Common Stock,NYQ
+CNY,Market Vectors Chinese Renminbi,PCX
+COB,CommunityOne Bancorp,NMS
+COE,China Online Education Group Am,NYQ
+COF,Capital One Financial Corporati,NYQ
+COG,Cabot Oil & Gas Corporation Com,NYQ
+COH,Coach, Inc. Common Stock,NYQ
+COL,Rockwell Collins, Inc. Common S,NYQ
+COO,Cooper Companies, Inc. (The) Co,NYQ
+COP,ConocoPhillips Common Stock,NYQ
+COR,CoreSite Realty Corporation Com,NYQ
+COT,Cott Corporation Common Stock,NYQ
+COW,iPath Bloomberg Livestock Total,PCX
+CPA,Copa Holdings, S.A. Copa Holdin,NYQ
+CPB,Campbell Soup Company Common St,NYQ
+CPE,Callon Petroleum Company Common,NYQ
+CPF,Central Pacific Financial Corp ,NYQ
+CPG,Crescent Point Energy Corporati,NYQ
+CPI,IQ Real Return ETF,PCX
+CPK,Chesapeake Utilities Corporatio,NYQ
+CPL,CPFL Energia S.A. CPFL Energia ,NYQ
+CPN,Calpine Corporation Common Stoc,NYQ
+CPP,Cancer Prevention Pharmaceutica,ASE
+CPS,Cooper-Standard Holdings Inc. C,NYQ
+CPT,Camden Property Trust Common St,NYQ
+CQH,Cheniere Energy Partners LP Hol,ASE
+CQP,Cheniere Energy Partners, LP Ch,ASE
+CRC,California Resources Corporatio,NYQ
+CRF,Cornerstone Total Return Fund, ,ASE
+CRH,CRH PLC American Depositary Sha,NYQ
+CRI,Carter's, Inc. Common Stock,NYQ
+CRK,Comstock Resources, Inc. Common,NYQ
+CRL,Charles River Laboratories Inte,NYQ
+CRM,Salesforce.com Inc Common Stock,NYQ
+CRR,Carbo Ceramics, Inc. Common Sto,NYQ
+CRS,Carpenter Technology Corporatio,NYQ
+CRT,Cross Timbers Royalty Trust Com,NYQ
+CRV,Coast Distribution System, Inc.,ASE
+CRY,CryoLife, Inc. Common Stock,NYQ
+CSA,Victory CEMP US Small Cap Volat,NGM
+CSB,Victory CEMP US Small Cap High ,NGM
+CSC,Computer Sciences Corporation C,NYQ
+CSD,Guggenheim S&P Spin-Off ETF,PCX
+CSF,Victory CEMP US Discovery Enhan,NGM
+CSH,Cash America International, Inc,NYQ
+CSI,Cutwater Select Income Fund,NYQ
+CSJ,iShares 1-3 Year Credit Bond ET,PCX
+CSL,Carlisle Companies Incorporated,NYQ
+CSM,ProShares Large Cap Core Plus,BTS
+CSQ,Calamos Strategic Total Return ,NMS
+CSS,CSS Industries, Inc. Common Sto,NYQ
+CST,CST Brands, Inc. Common Stock,NYQ
+CSU,Capital Senior Living Corporati,NYQ
+CSV,Carriage Services, Inc. Common ,NYQ
+CSX,CSX Corporation,NMS
+CTB,Cooper Tire & Rubber Company Co,NYQ
+CTF,Nuveen Long/Short Commodity Tot,ASE
+CTG,Computer Task Group, Incorporat,NMS
+CTL,CenturyLink, Inc. Common Stock,NYQ
+CTO,Consolidated-Tomoka Land Co. Co,ASE
+CTP,CTPartners Executive Search Inc,ASE
+CTQ,Qwest Corporation 7.375% Notes ,NYQ
+CTR,ClearBridge Energy MLP Total Re,NYQ
+CTS,CTS Corporation Common Stock,NYQ
+CTT,CatchMark Timber Trust, Inc. Cl,NYQ
+CTU,Qwest Corporation 7.00% Notes d,NYQ
+CTV,Qwest Corporation 6.875% Notes ,NYQ
+CTW,Qwest Corporation 7.50% Notes d,NYQ
+CTX,Qwest Corporation 7.00% Notes d,NYQ
+CTY,Qwest Corporation 6.125% Notes ,NYQ
+CTZ,Qwest Corporation 6.625% Notes ,NYQ
+CUB,Cubic Corporation Common Stock,NYQ
+CUI,CUI Global, Inc.,NCM
+CUK,Carnival Plc ADS ADS,NYQ
+CUO,Continental Materials Corporati,ASE
+CUR,Neuralstem, Inc.,NCM
+CUT,Guggenheim MSCI Global Timber E,PCX
+CUZ,Cousins Properties Incorporated,NYQ
+CVA,Covanta Holding Corporation Com,NYQ
+CVB,Lehman ABS Corporation 7.75% Co,NYQ
+CVC,Cablevision Systems Corporation,NYQ
+CVE,Cenovus Energy Inc Common Stock,NYQ
+CVG,Convergys Corporation Common St,NYQ
+CVI,CVR Energy Inc. Common Stock,NYQ
+CVM,Cel-Sci Corporation Common Stoc,ASE
+CVO,Cenveo Inc Common Stock,NYQ
+CVR,Chicago Rivet & Machine Co. Com,ASE
+CVS,CVS Health Corporation Common S,NYQ
+CVT,CVENT, INC.,NYQ
+CVU,CPI Aerostructures, Inc. Common,ASE
+CVV,CVD Equipment Corporation,NCM
+CVX,Chevron Corporation Common Stoc,NYQ
+CVY,Guggenheim Multi-Asset Income E,PCX
+CWB,SPDR Bloomberg Barclays Convert,PCX
+CWH,Camping World Holdings, Inc. Cl,NYQ
+CWI,SPDR MSCI ACWI ex-US ETF,PCX
+CWS,AdvisorShares Focused Equity ET,PCX
+CWT,California Water Service Group ,NYQ
+CXA,SPDR Nuveen Barclays California,PCX
+CXE,MFS High Income Municipal Trust,NYQ
+CXH,MFS Investment Grade Municipal ,NYQ
+CXO,Concho Resources Inc. Common St,NYQ
+CXP,Columbia Property Trust, Inc. C,NYQ
+CXW,CoreCivic, Inc. Common Stock,NYQ
+CYB,WisdomTree Chinese Yuan Strateg,PCX
+CYD,China Yuchai International Limi,NYQ
+CYH,Community Health Systems, Inc. ,NYQ
+CYS,CYS Investments, Inc. Common St,NYQ
+CZA,Guggenheim Mid-Cap Core ETF,PCX
+CZR,Caesars Entertainment Corporati,NMS
+CZZ,Cosan Limited Class A Common St,NYQ
+DAC,Danaos Corporation Common Stock,NYQ
+DAG,DB Agriculture Double Long ETN ,PCX
+DAL,Delta Air Lines, Inc. Common St,NYQ
+DAN,Dana Incorporated Common Stock ,NYQ
+DAR,Darling Ingredients Inc. Common,NYQ
+DAX,Recon Capital DAX Germany ETF,NGM
+DBA,PowerShares DB Agriculture Fund,PCX
+DBB,PowerShares DB Base Metals Fund,PCX
+DBC,PowerShares DB Commodity Index ,PCX
+DBD,Diebold Nixdorf Incorporated Co,NYQ
+DBE,PowerShares DB Energy Fund,PCX
+DBL,DoubleLine Opportunistic Credit,NYQ
+DBO,PowerShares DB Oil Fund,PCX
+DBP,PowerShares DB Precious Metals ,PCX
+DBS,PowerShares DB Silver Fund,PCX
+DBU,WisdomTree Global ex-US Utility,PCX
+DBV,PowerShares DB G10 Currency Har,PCX
+DCA,Virtus Total Return Fund,NYQ
+DCI,Donaldson Company, Inc. Common ,NYQ
+DCM,NTT DOCOMO, Inc American Deposi,NYQ
+DCO,Ducommun Incorporated Common St,NYQ
+DCT,DCT Industrial Trust Inc Common,NYQ
+DDC,Dominion Diamond Corporation Co,NYQ
+DDD,3D Systems Corporation Common S,NYQ
+DDE,Dover Downs Gaming & Entertainm,NYQ
+DDF,Delaware Investments Dividend &,NYQ
+DDG,ProShares Short Oil & Gas,PCX
+DDM,ProShares Ultra Dow30,PCX
+DDP,DB Commodity Short ETN due Apri,PCX
+DDR,DDR Corp. Common Stock,NYQ
+DDS,Dillard's, Inc. Common Stock,NYQ
+DDT,Dillard's Capital Trust I,NYQ
+DEA,Easterly Government Properties,,NYQ
+DEE,DB Commodity Double Short ETN d,PCX
+DEF,Guggenheim Defensive Equity ETF,PCX
+DEG,Etablissements Delhaize Freres ,NYQ
+DEI,Douglas Emmett, Inc. Common Sto,NYQ
+DEJ,Dejour Energy Inc. Ltd Ordinary,ASE
+DEL,Deltic Timber Corporation Commo,NYQ
+DEM,WisdomTree Emerging Markets Hig,PCX
+DEO,Diageo plc Common Stock,NYQ
+DES,WisdomTree Trust SmallCap Divid,PCX
+DEW,WisdomTree Global High Dividend,PCX
+DEX,Delaware Enhanced Global Divide,NYQ
+DFE,WisdomTree Europe SmallCap Divi,PCX
+DFF,Bank of America Corporation MIT,ASE
+DFJ,WisdomTree Japan SmallCap Fund,PCX
+DFP,Flaherty & Crumrine Dynamic Pre,NYQ
+DFS,Discover Financial Services Com,NYQ
+DFT,Dupont Fabros Technology, Inc. ,NYQ
+DGI,DigitalGlobe, Inc Common Stock,NYQ
+DGL,PowerShares DB Gold Fund,PCX
+DGP,DB Gold Double Long ETN due Feb,PCX
+DGS,WisdomTree Emerging Market Smal,PCX
+DGT,SPDR Global Dow ETF (based on T,PCX
+DGX,Quest Diagnostics Incorporated ,NYQ
+DGZ,DB Gold Short ETN due February ,PCX
+DHF,Dreyfus High Yield Strategies F,NYQ
+DHG,Deutsche High Income Opportunit,NYQ
+DHI,D.R. Horton, Inc. Common Stock,NYQ
+DHR,Danaher Corporation Common Stoc,NYQ
+DHS,WisdomTree High Dividend Fund,PCX
+DHT,DHT Holdings, Inc.,NYQ
+DHX,DHI Group, Inc. Common Stock,NYQ
+DHY,Credit Suisse High Yield Bond F,ASE
+DIA,SPDR Dow Jones Industrial Avera,PCX
+DIG,ProShares Ultra Oil & Gas,PCX
+DIM,WisdomTree International MidCap,PCX
+DIN,DineEquity, Inc Common Stock,NYQ
+DIS,Walt Disney Company (The) Commo,NYQ
+DIT,AMCON Distributing Company Comm,ASE
+DIV,Global X Super Dividend ETF,PCX
+DJD,Guggenheim Dow Jones Industrial,PCX
+DJP,iPath Bloomberg Commodity Index,PCX
+DKL,Delek Logistics Partners, L.P. ,NYQ
+DKS,Dick's Sporting Goods Inc Commo,NYQ
+DKT,Deutsch Bk Contingent Cap Tr V ,NYQ
+DLA,Delta Apparel, Inc. Common Stoc,ASE
+DLB,Dolby Laboratories Common Stock,NYQ
+DLN,WisdomTree LargeCap Dividend Fu,PCX
+DLR,Digital Realty Trust, Inc. Comm,NYQ
+DLS,WisdomTree International SmallC,PCX
+DLX,Deluxe Corporation Common Stock,NYQ
+DMB,Dreyfus Municipal Bond Infrastr,NYQ
+DMD,Demand Media Inc.,NYQ
+DMF,Dreyfus Municipal Income, Inc. ,ASE
+DMO,Western Asset Mortgage Defined ,NYQ
+DNB,Dun & Bradstreet Corporation (T,NYQ
+DNI,Dividend and Income Fund Common,NYQ
+DNL,WisdomTree Global ex-US Quality,PCX
+DNN,Denison Mines Corp Ordinary Sha,ASE
+DNO,United States Short Oil Fund,PCX
+DNP,DNP Select Income Fund, Inc. Co,NYQ
+DNR,Denbury Resources Inc. Common S,NYQ
+DOC,Physicians Realty Trust Common ,NYQ
+DOD,Deutsche Bank AG ELEMENTS Dogs ,PCX
+DOG,ProShares Short Dow30,PCX
+DOL,WisdomTree International LargeC,PCX
+DON,WisdomTree MidCap Dividend Fund,PCX
+DOO,WisdomTree International Divide,PCX
+DOV,Dover Corporation Common Stock,NYQ
+DOW,Dow Chemical Company (The) Comm,NYQ
+DOX,Amdocs Limited - Ordinary Share,NMS
+DPG,Duff & Phelps Global Utility In,NYQ
+DPK,Direxion Developed Markets Bear,PCX
+DPM,DCP Midstream Partners, LP DCP ,NYQ
+DPS,Dr Pepper Snapple Group, Inc Dr,NYQ
+DPU,DB Commodity Long ETN due April,PCX
+DPW,Digital Power Corporation Commo,ASE
+DPZ,Domino's Pizza Inc Common Stock,NYQ
+DRA,Diversified Real Asset Income F,NYQ
+DRC,Dresser-Rand Group Inc. Common ,NYQ
+DRD,DRDGOLD Limited American Deposi,NYQ
+DRE,Duke Realty Corporation Common ,NYQ
+DRH,Diamondrock Hospitality Company,NYQ
+DRI,Darden Restaurants, Inc. Common,NYQ
+DRN,Dexion Daily Real Estate Bull 3,PCX
+DRQ,Dril-Quip, Inc. Common Stock,NYQ
+DRR,Market Vectors Double Short Eur,PCX
+DRV,Drexion Daily Real Estate Bear ,PCX
+DRW,WisdomTree Global ex-US Real Es,PCX
+DSE,Duff & Phelps Select Energy MLP,NYQ
+DSI,iShares MSCI KLD 400 Social ETF,PCX
+DSL,DoubleLine Income Solutions Fun,NYQ
+DSM,Dreyfus Strategic Municipal Bon,NYQ
+DSS,Document Security Systems, Inc.,ASE
+DST,DST Systems, Inc. Common Stock,NYQ
+DSU,Blackrock Debt Strategies Fund,,NYQ
+DSW,DSW Inc. Common Stock,NYQ
+DSX,Diana Shipping inc. common stoc,NYQ
+DTD,WisdomTree Total Dividend Fund,PCX
+DTE,DTE Energy Company Common Stock,NYQ
+DTF,DTF Tax-Free Income, Inc. Commo,NYQ
+DTH,WisdomTree International High D,PCX
+DTJ,DTE Energy Company 2016 Series ,NYQ
+DTK,Deutsche Bk Contingent Cap Tr I,NYQ
+DTN,WisdomTree Dividend Ex-Financia,PCX
+DTO,DB Crude Oil Double Short ETN d,PCX
+DTQ,DTE Energy Company 2012 Series ,NYQ
+DTV,DTE Energy Company 2016 Corpora,NYQ
+DTY,DTE Energy Company 2016 Series ,NYQ
+DTZ,DTE Energy Company 2011 Series ,NYQ
+DUC,Duff & Phelps Utility & Corpora,NYQ
+DUG,ProShares UltraShort Oil & Gas,PCX
+DUK,Duke Energy Corporation (Holdin,NYQ
+DVA,DaVita Inc. Common Stock,NYQ
+DVD,Dover Motorsports, Inc. Common ,NYQ
+DVN,Devon Energy Corporation Common,NYQ
+DVP,Deep Value ETF,PCX
+DVY,iShares Select Dividend ETF,PCX
+DWA,Dreamworks Animation SKG, Inc.,NMS
+DWM,WisdomTree International Equity,PCX
+DWT,VelocityShares 3x Inverse Crude,PCX
+DWX,SPDR S&P International Dividend,PCX
+DXB,Deutsche Bk Contingent Cap TR I,NYQ
+DXD,ProShares UltraShort Dow30,PCX
+DXI,DXI Energy Inc. Ordinary Shares,ASE
+DXJ,WisdomTree Japan Hedged Equity ,PCX
+DXM,Dex Media, Inc.,NMS
+DXR,Daxor Corporation Common Stock,ASE
+DYB,WisdomTree Dynamic Bearish U.S.,BTS
+DYN,Dynegy Inc. Common Stock,NYQ
+DYY,DB Commodity Double Long ETN du,PCX
+DZK,Direxion Developed Markets Bull,PCX
+DZZ,DB Gold Double Short ETN due Fe,PCX
+EAA,Entergy Arkansas, Inc. First Mo,NYQ
+EAB,Entergy Arkansas, Inc. First Mo,NYQ
+EAC,Erickson Incorporated,NGM
+EAD,Wells Fargo Income Opportunitie,ASE
+EAE,Entergy Arkansas, Inc. First Mo,NYQ
+EAI,Entergy Arkansas, Inc. First Mo,NYQ
+EAT,Brinker International, Inc. Com,NYQ
+EBF,Ennis, Inc. Common Stock,NYQ
+EBR,Centrais Electricas Brasileiras,NYQ
+EBS,Emergent Biosolutions, Inc. Com,NYQ
+ECA,Encana Corporation,NYQ
+ECC,Eagle Point Credit Company Inc.,NYQ
+ECF,Ellsworth Growth and Income Fun,ASE
+ECH,iShares MSCI Chile Capped Inves,PCX
+ECL,Ecolab Inc. Common Stock,NYQ
+ECR,Eclipse Resources Corporation C,NYQ
+ECT,ECA Marcellus Trust I Common Un,NYQ
+EDC,Direxion Emerging Markets Bull ,PCX
+EDD,Morgan Stanley Emerging Markets,NYQ
+EDE,Empire District Electric Compan,NYQ
+EDF,Stone Harbor Emerging Markets I,NYQ
+EDI,Stone Harbor Emerging Markets T,NYQ
+EDN,Empresa Distribuidora Y Comerci,NYQ
+EDR,Education Realty Trust, Inc. Co,NYQ
+EDU,New Oriental Education & Techno,NYQ
+EDV,Vanguard Extended Duration Trea,PCX
+EDZ,Direxion Emerging Markets Bear ,PCX
+EEA,The European Equity Fund, Inc. ,NYQ
+EEB,Guggenheim BRIC ETF,PCX
+EEH,Aktiebolaget Svensk Exportkredi,PCX
+EEI,Ecology and Environment, Inc.,NGM
+EEM,iShares MSCI Emerging Index Fun,PCX
+EEP,Enbridge Energy, L.P. Class A C,NYQ
+EEQ,Enbridge Energy Management LLC ,NYQ
+EES,WisdomTree SmallCap Earnings Fu,PCX
+EET,ProShares Ultra MSCI Emerging M,PCX
+EEV,ProShares UltraShort MSCI Emerg,PCX
+EFA,iShares MSCI EAFE ETF,PCX
+EFC,Ellington Financial LLC Common ,NYQ
+EFF,Eaton vance Floating-Rate Incom,NYQ
+EFG,iShares MSCI EAFE Growth ETF,PCX
+EFM,Entergy Mississippi, Inc. First,NYQ
+EFO,ProShares Ultra MSCI EAFE,PCX
+EFR,Eaton Vance Senior Floating-Rat,NYQ
+EFT,Eaton Vance Floating Rate Incom,NYQ
+EFU,ProShares UltraShort MSCI EAFE,PCX
+EFV,iShares MSCI EAFE Value ETF,PCX
+EFX,Equifax, Inc. Common Stock,NYQ
+EFZ,ProShares Short MSCI EAFE,PCX
+EGF,Blackrock Enhanced Government F,NYQ
+EGI,Entree Gold Inc Ordinary Shares,ASE
+EGL,Engility Holdings, Inc. Common ,NYQ
+EGN,Energen Corporation Common Stoc,NYQ
+EGO,Eldorado Gold Corporation Ordin,NYQ
+EGP,EastGroup Properties, Inc. Comm,NYQ
+EGT,Entertainment Gaming Asia Incor,NCM
+EGY,Vaalco Energy Inc Common Stock,NYQ
+EHI,Western Asset Global High Incom,NYQ
+EHR,Energy Hunter Resources, Inc. C,NMS
+EHT,Eaton Vance High Income 2021 Ta,NYQ
+EIA,Eaton Vance California Municipa,ASE
+EIG,Employers Holdings Inc Common S,NYQ
+EIM,Eaton Vance Municipal Bond Fund,ASE
+EIO,Eaton Vance Ohio Municipal Bond,ASE
+EIP,Eaton Vance Pennsylvania Munici,ASE
+EIS,iShares MSCI Israel Capped Inve,PCX
+EIV,Eaton Vance Municipal Bond Fund,ASE
+EIX,Edison International Common Sto,NYQ
+ELA,Entergy Louisiana, LLC First Mo,NYQ
+ELB,Entergy Louisiana, Inc. 6.0% Se,NYQ
+ELC,Entergy Louisiana, Inc. Collate,NYQ
+ELD,WisdomTree Emerging Markets Loc,PCX
+ELF,e.l.f. Beauty, Inc. Common Stoc,NYQ
+ELJ,Entergy Louisiana, Inc. First M,NYQ
+ELP,Companhia Paranaense de Energia,NYQ
+ELS,Equity Lifestyle Properties, In,NYQ
+ELU,Entergy Louisiana, Inc. First M,NYQ
+ELY,Callaway Golf Company Common St,NYQ
+EMB,iShares J,P. Morgan USD Emergin,PCX
+EMC,EMC Corporation,NYQ
+EMD,Western Asset Emerging Markets ,NYQ
+EME,EMCOR Group, Inc. Common Stock,NYQ
+EMF,Templeton Emerging Markets Fund,NYQ
+EMG,Emergent Capital, Inc. Common S,NYQ
+EMI,Eaton Vance Michigan Municipal ,ASE
+EMJ,Eaton Vance New Jersey Municipa,ASE
+EML,Eastern Company (The),NGM
+EMN,Eastman Chemical Company Common,NYQ
+EMO,ClearBridge Energy MLP Opportun,NYQ
+EMP,Entergy Mississippi, Inc. First,NYQ
+EMQ,Entergy Mississippi, Inc. 1st M,NYQ
+EMR,Emerson Electric Company Common,NYQ
+EMX,Eurasian Minerals Inc Common Sh,NYS
+EMZ,Entergy Mississippi, Inc. First,NYQ
+ENB,Enbridge Inc Common Stock,NYQ
+ENG,ENGlobal Corporation,NCM
+ENH,Endurance Specialty Holdings Lt,NYQ
+ENI,Enersis Americas S.A. American ,NYQ
+ENJ,Entergy New Orleans, Inc. First,NYQ
+ENL,Reed Elsevier NV American Depos,NYQ
+ENO,Entergy New Orleans, Inc. First,NYQ
+ENR,Energizer Holdings, Inc. Common,NYQ
+ENS,Enersys Common Stock,NYQ
+ENT,Global Eagle Entertainment Inc.,NCM
+ENV,Envestnet, Inc Common Stock,NYQ
+ENX,Eaton Vance New York Municipal ,ASE
+ENY,Guggenheim Canadian Energy Inco,PCX
+ENZ,Enzo Biochem, Inc. Common Stock,NYQ
+EOC,Empresa Nacional de Electricida,NYQ
+EOD,Wells Fargo Global Dividend Opp,NYQ
+EOG,EOG Resources, Inc. Common Stoc,NYQ
+EOI,Eaton Vance Enhance Equity Inco,NYQ
+EOS,Eaton Vance Enhance Equity Inco,NYQ
+EOT,Eaton Vance Municipal Income Tr,NYQ
+EOX,Emerald Oil, Inc. Common Stock,ASE
+EPC,Edgewell Personal Care Company ,NYQ
+EPD,Enterprise Products Partners L.,NYQ
+EPE,EP Energy Corporation Class A C,NYQ
+EPI,WisdomTree India Earnings Fund,PCX
+EPM,Evolution Petroleum Corporation,ASE
+EPP,iShares MSCI Pacific Ex-Japan I,PCX
+EPR,EPR Properties Common Stock,NYQ
+EPS,WisdomTree Earnings 500 Fund,PCX
+EPU,iShares MSCI All Peru Capped ET,PCX
+EPV,ProShares UltraShort FTSE Europ,PCX
+EQC,Equity Commonwealth Common Shar,NYQ
+EQL,ALPS Equal Sector Weight ETF,PCX
+EQM,EQT Midstream Partners, LP Comm,NYQ
+EQR,Equity Residential Common Share,NYQ
+EQS,Equus Total Return, Inc. Common,NYQ
+EQT,EQT Corporation Common Stock,NYQ
+EQY,Equity One, Inc. Common Stock,NYQ
+ERA,Era Group, Inc. Common Stock,NYQ
+ERB,ERBA Diagnostics, Inc.,ASE
+ERC,Wells Fargo Multi-Sector Income,ASE
+ERF,Enerplus Corporation Common Sto,NYQ
+ERH,Wells Fargo Utilities and High ,ASE
+ERI,Eldorado Resorts, Inc.,NMS
+ERJ,Embraer S.A. Common Stock,NYQ
+ERN,Erin Energy Corp.,ASE
+ERO,SPDR MSCI Europe UCITS ETF,PCX
+ERS,Empire Resources, Inc.,NCM
+ERW,Janus Equal Risk Weighted Large,NMS
+ERX,Direxion Energy Bull 3X Shares,PCX
+ERY,Direxion Daily Energy Bear 3X S,PCX
+ESD,Western Asset Emerging Markets ,NYQ
+ESE,ESCO Technologies Inc. Common S,NYQ
+ESG,FlexShares STOXX US ESG Impact ,NGM
+ESI,ITT Educational Services, Inc.,NYQ
+ESL,Esterline Technologies Corporat,NYQ
+ESP,Espey Mfg. & Electronics Corp. ,ASE
+ESR,iShares MSCI Emerging Markets E,PCX
+ESS,Essex Property Trust, Inc. Comm,NYQ
+ESV,Ensco plc Class A Ordinary Shar,NYQ
+ETB,Eaton Vance Tax-Managed Buy-Wri,NYQ
+ETE,Energy Transfer Equity, L.P. En,NYQ
+ETF,Aberdeen Emerging Markets Compa,ASE
+ETG,Eaton Vance Tax-Advantaged Glob,NYQ
+ETH,Ethan Allen Interiors Inc. Comm,NYQ
+ETJ,Eaton Vance Risk-Managed Divers,NYQ
+ETM,Entercom Communications Corpora,NYQ
+ETN,Eaton Corporation, PLC Ordinary,NYQ
+ETO,Eaton Vance Tax-Advantage Globa,NYQ
+ETP,Energy Transfer Partners, L.P. ,NYQ
+ETR,Entergy Corporation Common Stoc,NYQ
+ETV,Eaton Vance Corporation Eaton V,NYQ
+ETW,Eaton Vance Corporation Eaton V,NYQ
+ETX,Eaton Vance Municipal Income 20,NYQ
+ETY,Eaton Vance Tax-Managed Diversi,NYQ
+EUM,ProShares Short MSCI Emerging M,PCX
+EUO,ProShares UltraShort Euro,PCX
+EVA,Enviva Partners, LP Common unit,NYQ
+EVC,Entravision Communications Corp,NYQ
+EVF,Eaton Vance Senior Income Trust,NYQ
+EVG,Eaton Vance Short Diversified I,NYQ
+EVH,Evolent Health, Inc Class A Com,NYQ
+EVI,EnviroStar, Inc.  Common Stock,ASE
+EVJ,Eaton Vance New Jersey Municipa,ASE
+EVK,Ever-Glory International Group,,NGM
+EVM,Eaton Vance California Municipa,ASE
+EVN,Eaton Vance Municipal Income Tr,NYQ
+EVO,Eaton Vance Ohio Municipal Inco,ASE
+EVP,Eaton Vance Pennsylvania Munici,ASE
+EVR,Evercore Partners Inc Class A C,NYQ
+EVT,Eaton Vance Tax Advantaged Divi,NYQ
+EVV,Eaton Vance Limited Duration In,ASE
+EVX,VanEck Vectors Environmental Se,PCX
+EVY,Eaton Vance New York Municipal ,ASE
+EWA,iShares MSCI Australia Index Fu,PCX
+EWC,iShares MSCI Canada Index Fund,PCX
+EWD,iShares MSCI Sweden Capped ETF,PCX
+EWG,iShares MSCI Germany Index Fund,PCX
+EWH,iShares MSCI Hong Kong Index Fu,PCX
+EWI,iShares MSCI Italy Capped Index,PCX
+EWJ,iShares MSCI Japan Index Fund,PCX
+EWK,iShares MSCI Belgium Capped Inv,PCX
+EWL,iShares MSCI Switzerland Capped,PCX
+EWM,iShares MSCI Malaysia Index Fun,PCX
+EWN,iShares MSCI Netherlands Index ,PCX
+EWO,iShares MSCI Austria Capped Inv,PCX
+EWP,iShares MSCI Spain Capped Index,PCX
+EWQ,iShares MSCI France Index Fund,PCX
+EWS,iShares MSCI Singapore Capped E,PCX
+EWT,iShares MSCI Taiwan Capped ETF,PCX
+EWU,iShares MSCI United Kingdom ETF,PCX
+EWV,ProShares UltraShort MSCI Japan,PCX
+EWW,iShares MSCI Mexico Capped Inve,PCX
+EWX,SPDR S&P Emerging Markets Small,PCX
+EWY,iShares MSCI South Korea Capped,PCX
+EWZ,iShares MSCI Brazil Capped Inde,PCX
+EXA,Exa Corporation,NGM
+EXC,Exelon Corporation Common Stock,NYQ
+EXD,Eaton Vance Tax-Advantaged Bond,NYQ
+EXG,Eaton Vance Tax-Managed Global ,NYQ
+EXI,iShares Global Industrials ETF,PCX
+EXK,Endeavour Silver Corporation Or,NYQ
+EXP,Eagle Materials Inc Common Stoc,NYQ
+EXR,Extra Space Storage Inc Common ,NYQ
+EXT,WisdomTree Total Earnings Fund,PCX
+EZA,iShares MSCI South Africa Index,PCX
+EZJ,ProShares Ultra MSCI Japan,PCX
+EZM,WisdomTree MidCap Earnings Fund,PCX
+EZR,WisdomTree Europe Local Recover,BTS
+EZT,Entergy Texas Inc First Mortgag,NYQ
+EZU,iShares MSCI Eurozone ETF,BTS
+EZY,WisdomTree Low P/E Fund,PCX
+FAB,First Trust Multi Cap Value Alp,NGM
+FAC,First Acceptance Corporation,NYQ
+FAD,First Trust Multi Cap Growth Al,NGM
+FAF,First American Corporation (New,NYQ
+FAM,First Trust/Aberdeen Global Opp,NYQ
+FAN,First Trust Global Wind Energy ,PCX
+FAS,Direxion Financial Bull 3X Shar,PCX
+FAV,First Trust Dividend and Income,NYQ
+FAX,Aberdeen Asia-Pacific Income Fu,ASE
+FAZ,Direxion Financial Bear 3X Shar,PCX
+FBC,Flagstar Bancorp, Inc. Common S,NYQ
+FBG,Fisher Enhanced Big Cap Growth,PCX
+FBK,FB Financial Corporation Common,NYQ
+FBP,First BanCorp. New Common Stock,NYQ
+FBR,Fibria Celulose S.A.,NYQ
+FBT,First Trust Amex Biotech Index ,PCX
+FBZ,First Trust Brazil AlphaDEX Fun,NGM
+FCA,First Trust China AlphaDEX Fund,NGM
+FCB,FCB Financial Holdings, Inc. Cl,NYQ
+FCF,First Commonwealth Financial Co,NYQ
+FCG,First Trust Natural Gas ETF,PCX
+FCH,FelCor Lodging Trust Incorporat,NYQ
+FCN,FTI Consulting, Inc. Common Sto,NYQ
+FCO,Aberdeen Global Income Fund, In,ASE
+FCS,Fairchild Semiconductor Interna,NMS
+FCT,First Trust Senior Floating Rat,NYQ
+FCX,Freeport-McMoRan, Inc. Common S,NYQ
+FDC,First Data Corporation Class A ,NYQ
+FDD,First Trust Dow Jones STOXX Sel,PCX
+FDI,Fort Dearborn Income Securities,NYQ
+FDL,First Trust Morningstar ETF,PCX
+FDM,First Trust DJ Select MicroCap ,PCX
+FDN,First Trust DJ Internet Index F,PCX
+FDO,Family Dollar Stores, Inc. Comm,NYQ
+FDP,Fresh Del Monte Produce, Inc. C,NYQ
+FDS,FactSet Research Systems Inc. C,NYQ
+FDT,First Trust Developed Markets E,NGM
+FDX,FedEx Corporation Common Stock,NYQ
+FEI,First Trust MLP and Energy Inco,NYQ
+FEM,First Trust Emerging Markets Al,NGM
+FEN,First Trust Energy Income and G,ASE
+FEO,First Trust/Aberdeen Emerging O,NYQ
+FEP,First Trust Europe AlphaDEX Fun,NGM
+FES,Forbes Energy Services Ltd,NCM
+FET,Forum Energy Technologies, Inc.,NYQ
+FEU,SPDR DJ STOXX 50 Etf,PCX
+FEX,First Trust Large Cap Core Alph,NGM
+FEZ,SPDR DJ Euro STOXX 50 Etf,PCX
+FFA,First Trust Enhanced Equity Inc,NYQ
+FFC,Flaherty & Crumrine Preferred S,NYQ
+FFG,FBL Financial Group, Inc. Commo,NYQ
+FFR,First Trust FTSE EPRA/NAREIT Gl,PCX
+FGB,First Trust Specialty Finance a,NYQ
+FGD,First Trust DJ Global Select Di,PCX
+FGL,Fidelity & Guaranty Life Common,NYQ
+FGM,First Trust Germany AlphaDEX Fu,NGM
+FGP,Ferrellgas Partners, L.P. Commo,NYQ
+FHB,First Hawaiian, Inc.,NMS
+FHK,First Trust Hong Kong AlphaDEX ,NGM
+FHN,First Horizon National Corporat,NYQ
+FHY,First Trust Strategic High Inco,NYQ
+FIA,Falah Russell-IdealRatings U.S.,PCX
+FIF,First Trust Energy Infrastructu,NYQ
+FIG,Fortress Investment Group LLC C,NYQ
+FII,Federated Investors, Inc. Commo,NYQ
+FIS,Fidelity National Information S,NYQ
+FIT,Fitbit, Inc. Class A Common Sto,NYQ
+FIV,First Trust Senior Floating Rat,NYQ
+FIW,First Trust Water ETF,PCX
+FIX,Comfort Systems USA, Inc. Commo,NYQ
+FJP,First Trust Japan AlphaDEX Fund,NGM
+FKO,First Trust South Korea AlphaDE,NGM
+FKU,First Trust United Kingdom Alph,NGM
+FLC,Flaherty & Crumrine Total Retur,NYQ
+FLL,Full House Resorts, Inc.,NCM
+FLM,First Trust Global Engineering ,PCX
+FLN,First Trust Latin America Alpha,NGM
+FLO,Flowers Foods, Inc. Common Stoc,NYQ
+FLR,Fluor Corporation Common Stock,NYQ
+FLS,Flowserve Corporation Common St,NYQ
+FLT,FleetCor Technologies, Inc. Com,NYQ
+FLY,Fly Leasing Limited,NYQ
+FMB,First Trust Managed Municipal E,NGM
+FMC,FMC Corporation Common Stock,NYQ
+FMD,First Marblehead Corporation (T,NYQ
+FMF,First Trust Morningstar Managed,PCX
+FMI,Foundation Medicine, Inc.,NMS
+FMK,First Trust Mega Cap AlphaDEX F,NGM
+FMN,Federated Premier Municipal Inc,NYQ
+FMO,Fiduciary/Claymore MLP Opportun,NYQ
+FMS,Fresenius Medical Care AG Commo,NYQ
+FMX,Fomento Economico Mexicano S.A.,NYQ
+FMY,First Trust Motgage Income Fund,NYQ
+FNB,F.N.B. Corporation Common Stock,NYQ
+FNF,FNF Group of Fidelity National ,NYQ
+FNI,First Trust Chindia ETF,PCX
+FNK,First Trust Mid Cap Value Alpha,NGM
+FNV,Franco-Nevada Corporation,NYQ
+FNX,First Trust Mid Cap Core AlphaD,NGM
+FNY,First Trust Mid Cap Growth Alph,NGM
+FOE,Ferro Corporation Common Stock,NYQ
+FOF,Cohen & Steers Closed-End Oppor,NYQ
+FOR,Forestar Group Inc Common Stock,NYQ
+FOX,Twenty-First Century Fox, Inc. ,NMS
+FPA,First Trust Asia Pacific Ex-Jap,NGM
+FPE,First Trust Preferred Securitie,PCX
+FPF,First Trust Intermediate Durati,NYQ
+FPI,Farmland Partners Inc. Common S,NYQ
+FPL,First Trust New Opportunities M,NYQ
+FPO,First Potomac Realty Trust Comm,NYQ
+FPP,FieldPoint Petroleum Corporatio,ASE
+FPT,Federated Premier Intermediate ,NYQ
+FPX,First Trust US Equity Opportuni,PCX
+FRA,Blackrock Floating Rate Income ,NYQ
+FRC,FIRST REPUBLIC BANK Common Stoc,NYQ
+FRD,Friedman Industries Inc. Common,ASE
+FRI,First Trust S&P REIT Index Fund,PCX
+FRN,Guggenheim Frontier Markets ETF,PCX
+FRO,Frontline Ltd. Ordinary Shares,NYQ
+FRP,FairPoint Communications, Inc.,NCM
+FRS,Frisch's Restaurants, Inc. Comm,ASE
+FRT,Federal Realty Investment Trust,NYQ
+FSB,Franklin Financial Network, Inc,NYQ
+FSC,Fifth Street Finance Corp.,NMS
+FSD,First Trust High Income Long Sh,NYQ
+FSI,Flexible Solutions Internationa,ASE
+FSM,Fortuna Silver Mines Inc Ordina,NYQ
+FSP,Franklin Street Properties Corp,ASE
+FSS,Federal Signal Corporation Comm,NYQ
+FSV,FirstService Corporation - Subo,NMS
+FSZ,First Trust Switzerland AlphaDE,NGM
+FTA,First Trust Large Cap Value Alp,NGM
+FTC,First Trust Large Cap Growth Al,NGM
+FTD,FTD Companies, Inc.,NMS
+FTF,Franklin Limited Duration Incom,ASE
+FTI,FMC Technologies, Inc. Common S,NYQ
+FTK,Flotek Industries, Inc. Common ,NYQ
+FTR,Frontier Communications Corpora,NMS
+FTS,Fortis Inc. Common Shares,NYQ
+FTV,Fortive Corporation Common Stoc,NYQ
+FTW,First Trust Taiwan AlphaDEX Fun,NGM
+FTY,iShares Real Estate 50 ETF,PCX
+FUD,E-TRACS USB Bloomberg Commodity,PCX
+FUE,AB Svensk Ekportkredit (Swedish,PCX
+FUL,H. B. Fuller Company Common Sto,NYQ
+FUN,Cedar Fair, L.P. Common Stock,NYQ
+FUR,Winthrop Realty Trust New,NYQ
+FUT,ProShares Managed Futures Strat,BTS
+FVC,First Trust Dorsey Wright Dynam,NGM
+FVD,First Trust VL Dividend,PCX
+FVE,Five Star Quality Care, Inc.,NCM
+FVI,First Trust VL Equity Allocatio,PCX
+FVL,First Trust Value Line 100 Fund,PCX
+FWM,Fairway Group Holdings Corp. - ,NGM
+FWP,Forward Pharma A/S - American D,NMS
+FWV,First West Virginia Bancorp, In,ASE
+FXA,Guggenheim CurrencyShares Austr,PCX
+FXB,Guggenheim CurrencyShares Briti,PCX
+FXC,Guggenheim CurrencyShares Canad,PCX
+FXD,First Trust Cons. Discret. Alph,PCX
+FXE,Guggenheim CurrencyShares Euro ,PCX
+FXF,Guggenheim CurrencyShares Swiss,PCX
+FXG,First Trust Cons. Staples Alpha,PCX
+FXH,First Trust Health Care AlphaDE,PCX
+FXI,iShares China Large-Cap ETF,PCX
+FXL,First Trust Technology AlphaDEX,PCX
+FXN,First Trust Energy AlphaDEX Fun,PCX
+FXO,First Trust Financials AlphaDEX,PCX
+FXP,ProShares Ultrashort FTSE China,PCX
+FXR,First Trust Industrials AlphaDE,PCX
+FXS,Guggenheim CurrencyShares Swedi,PCX
+FXU,First Trust Utilities AlphaDEX ,PCX
+FXY,Guggenheim CurrencyShares Japan,PCX
+FXZ,First Trust Materials AlphaDEX ,PCX
+FYC,First Trust Small Cap Growth Al,NGM
+FYT,First Trust Small Cap Value Alp,NGM
+FYX,First Trust Small Cap Core Alph,NGM
+GAA,Cambria Global Asset Allocation,PCX
+GAB,Gabelli Equity Trust, Inc. (The,NYQ
+GAF,SPDR S&P Middle East & Africa E,PCX
+GAI,Global-Tech Advanced Innovation,NGM
+GAL,SPDR SSgA Global Allocation ETF,PCX
+GAM,General American Investors, Inc,NYQ
+GAS,AGL Resources, Inc.,NYQ
+GAZ,iPath Bloomberg Natural Gas Sub,PCX
+GBB,iPath Goldman Sachs iPath GBP/U,PCX
+GBF,iShares Government/Credit Bond ,PCX
+GBL,Gamco Investors, Inc. Common St,NYQ
+GBR,New Concept Energy, Inc Common ,ASE
+GBT,Global Blood Therapeutics, Inc.,NMS
+GBX,Greenbrier Companies, Inc. (The,NYQ
+GCC,WisdomTree Continuous Commodity,PCX
+GCE,Clarymore CEF GS Connect ETN,PCX
+GCH,Aberdeen Greater China Fund, In,NYQ
+GCI,Gannett Co., Inc. Common Stock,NYQ
+GCO,Genesco Inc. Common Stock,NYQ
+GCP,GCP Applied Technologies Inc. C,NYQ
+GCV,Gabelli Convertible and Income ,NYQ
+GDF,Western Asset Global Partners I,NYQ
+GDL,GDL Fund, The Common Shares of ,NYQ
+GDO,Western Asset Global Corporate ,NYQ
+GDS,GDS HOLDINGS LTD,NGM
+GDV,Gabelli Dividend & Income Trust,NYQ
+GDX,VanEck Vectors Gold Miners ETF,PCX
+GEB,General Electric Company 4.875%,NYQ
+GEC,Great Elm Capital Group, Inc.,NMS
+GEF,Greif Inc. Class A Common Stock,NYQ
+GEH,General Electric Capital Corpor,NYQ
+GEK,General Electric Capital Corpor,NYQ
+GEL,Genesis Energy, L.P. Common Uni,NYQ
+GEM,Goldman Sachs ActiveBeta Emergi,PCX
+GEN,Genesis Healthcare, Inc. Common,NYQ
+GEO,Geo Group Inc (The) REIT,NYQ
+GEQ,Guggenheim Equal Weight Enhance,NYQ
+GER,Goldman Sachs MLP Energy Renais,NYQ
+GES,Guess?, Inc. Common Stock,NYQ
+GEX,VanEck Vectors Global Alternati,PCX
+GFA,Gafisa SA Gafisa S.A. American ,NYQ
+GFF,Griffon Corporation Common Stoc,NYQ
+GFI,Gold Fields Limited American De,NYQ
+GFN,General Finance Corporation,NGM
+GFY,Western Asset Variable Rate Str,NYQ
+GGB,Gerdau S.A. Common Stock,NYQ
+GGE,Guggenheim Enhanced Equity Stra,NYQ
+GGG,Graco Inc. Common Stock,NYQ
+GGM,Guggenheim Credit Allocation Fu,NYQ
+GGN,GAMCO Global Gold, Natural Reso,ASE
+GGO,The Gabelli Go Anywhere Trust C,ASE
+GGP,General Growth Properties, Inc.,NYQ
+GGT,Gabelli Multi-Media Trust, Inc.,NYQ
+GGZ,Gabelli Global Small and Mid Ca,NYQ
+GHC,Graham Holdings Company Common ,NYQ
+GHE,REX Gold Hedged FTSE Emerging M,PCX
+GHI,Global High Income Fund, Inc.,NYQ
+GHL,Greenhill & Co., Inc. Common St,NYQ
+GHM,Graham Corporation Common Stock,NYQ
+GHS,REX Gold Hedged S&P 500 ETF,PCX
+GHY,Prudential Global Short Duratio,NYQ
+GIB,CGI Group, Inc. Common Stock,NYQ
+GIG,GigPeak, Inc. Common Stock,ASE
+GII,SPDR S&P Global Infrastructure ,PCX
+GIL,Gildan Activewear, Inc. Class A,NYQ
+GIM,Templeton Global Income Fund, I,NYQ
+GIS,General Mills, Inc. Common Stoc,NYQ
+GJH,Synthetic Fixed-Income Securiti,NYQ
+GJO,Synthetic Fixed-Income Securiti,NYQ
+GJP,Synthetic Fixed-Income Securiti,NYQ
+GJR,Synthetic Fixed-Income Securiti,NYQ
+GJS,Goldman Sachs Group Securities ,NYQ
+GJT,Synthetic Fixed-Income Securiti,NYQ
+GJV,Synthetic Fixed-Income Securiti,NYQ
+GLD,SPDR Gold Trust,PCX
+GLF,GulfMark Offshore, Inc. New Com,NYQ
+GLL,ProShares UltraShort Gold,PCX
+GLO,Clough Global Opportunities Fun,ASE
+GLP,Global Partners LP Global Partn,NYQ
+GLQ,Clough Global Equity Fund Cloug,ASE
+GLT,Glatfelter Common Stock,NYQ
+GLU,Gabelli Global Utility Common S,ASE
+GLV,Clough Global Dividend and Inco,ASE
+GLW,Corning Incorporated Common Sto,NYQ
+GME,Gamestop Corporation Common Sto,NYQ
+GMF,SPDR S&P Emerging Asia Pacific ,PCX
+GML,SPDR S&P Emerging Latin America,PCX
+GMM,SPDR S&P Emerging Markets ETF,PCX
+GMO,General Moly, Inc. Common Stock,ASE
+GMS,GMS Inc. Common Stock,NYQ
+GMT,GATX Corporation,NYQ
+GMZ,Goldman Sachs MLP Income Opport,NYQ
+GNC,GNC Holdings, Inc. Class A Comm,NYQ
+GNE,Genie Energy Ltd. Class B Commo,NYQ
+GNK,Genco Shipping & Trading Limite,NYQ
+GNL,Global Net Lease, Inc. Common S,NYQ
+GNR,SPDR S&P Global Natural Resourc,PCX
+GNT,GAMCO Natural Resources, Gold &,NYQ
+GNW,Genworth Financial Inc Common S,NYQ
+GOF,Guggenheim Strategic Opportunit,NYQ
+GOL,Gol Linhas Aereas Inteligentes ,NYQ
+GOV,Government Properties Income Tr,NMS
+GPC,Genuine Parts Company Common St,NYQ
+GPI,Group 1 Automotive, Inc. Common,NYQ
+GPK,Graphic Packaging Holding Compa,NYQ
+GPL,Great Panther Silver Limited Or,ASE
+GPM,Guggenheim Enhanced Equity Inco,NYQ
+GPN,Global Payments Inc. Common Sto,NYQ
+GPP,Green Plains Partners LP,NGM
+GPS,Gap, Inc. (The) Common Stock,NYQ
+GPT,Gramercy Property Trust,NYQ
+GPX,GP Strategies Corporation Commo,NYQ
+GRA,W.R. Grace & Co. Common Stock,NYQ
+GRC,Gorman-Rupp Company (The) Commo,ASE
+GRF,Eagle Capital Growth Fund, Inc.,ASE
+GRH,GreenHunter Resources, Inc. Com,ASE
+GRI,Cohen & Steers Global Realty Ma,PCX
+GRN,iPath Global Carbon ETN,PCX
+GRO,Agria Corporation American Depo,NYQ
+GRR,Asia Tigers Fund, Inc. (The) Co,NYQ
+GRU,AB Svensk Ekportkredit (Swedish,PCX
+GRX,The Gabelli Healthcare & Wellne,NYQ
+GSB,GlobalSCAPE, Inc. Common Stock,ASE
+GSC,Goldman Sachs Connect S&P Enhan,PCX
+GSD,WisdomTree Global SmallCap Divi,BTS
+GSF,** SEE<GSF-CL>,NYQ
+GSG,iShares GSCI Commodity-Indexed ,PCX
+GSH,Guangshen Railway Company Limit,NYQ
+GSI,General Steel Holdings, Inc.,NYQ
+GSJ,Goldman Sachs Group, Inc. (The),NYQ
+GSK,GlaxoSmithKline PLC Common Stoc,NYQ
+GSL,Global Ship Lease Inc New Class,NYQ
+GSM,Ferroglobe PLC - Ordinary Share,NMS
+GSP,Barclays Bank PLC iPath Exchang,PCX
+GSS,Golden Star Resources, Ltd Comm,ASE
+GST,Gastar Exploration Inc Common S,ASE
+GSV,Gold Standard Ventures Corporat,ASE
+GSY,Guggenheim Enhanced Short Durat,PCX
+GTE,Gran Tierra Energy Inc. Common ,ASE
+GTN,Gray Communications Systems, In,NYQ
+GTO,Guggenheim Total Return Bond ET,PCX
+GTS,Triple-S Management Corporation,NYQ
+GTT,GTT Communications, Inc. Common,NYQ
+GTU,Central Gold Trust Ordinary Sha,ASE
+GTY,Getty Realty Corporation Common,NYQ
+GUA,Gulf Power Company Series 2011A,NYQ
+GUR,SPDR S&P Emerging Europe ETF,PCX
+GUT,Gabelli Utility Trust (The) Com,NYQ
+GVA,Granite Construction Incorporat,NYQ
+GVI,iShares Intermediate Government,PCX
+GVP,GSE Systems, Inc. Common Stock,ASE
+GVT,Columbia Select Large Cap Value,PCX
+GWB,Great Western Bancorp, Inc. Com,NYQ
+GWL,SPDR S&P World ex-US ETF,PCX
+GWR,Genesee & Wyoming Inc. Class A ,NYQ
+GWW,W.W. Grainger, Inc. Common Stoc,NYQ
+GWX,SPDR S&P International SmallCap,PCX
+GXC,SPDR S&P China ETF,PCX
+GXF,Global X FTSE Nordic Region ETF,PCX
+GXG,Global X MSCI Colombia ETF,PCX
+GXP,Great Plains Energy Incorporate,NYQ
+GYB,CABCO Series 2004-101 Trust Gol,NYQ
+GYC,Corporate Asset Backed Corp CAB,NYQ
+GZT,Gazit-Globe Ltd. Ordinary Share,NYQ
+HAE,Haemonetics Corporation Common ,NYQ
+HAL,Halliburton Company Common Stoc,NYQ
+HAO,Guggenheim China Small Cap Inde,PCX
+HAP,VanEck Vectors Natural Resource,PCX
+HAR,Harman International Industries,NYQ
+HAS,Hasbro, Inc.,NMS
+HBI,Hanesbrands Inc. Common Stock,NYQ
+HBK,Hamilton Bancorp, Inc.,NCM
+HBM,Hudbay Minerals Inc Ordinary Sh,NYQ
+HBP,Huttig Building Products, Inc.,NCM
+HBU,ProShares Ultra Homebuilders & ,PCX
+HBZ,ProShare UltraShort Homebuilder,PCX
+HCA,HCA Holdings, Inc. Common Stock,NYQ
+HCI,HCI Group, Inc. Common Stock,NYQ
+HCJ,HCI Group, Inc. 8% Senior Notes,NYQ
+HCM,Hutchison China MediTech Limite,NMS
+HCN,Welltower Inc. Common Stock,NYQ
+HCP,HCP, Inc. Common Stock,NYQ
+HDB,HDFC Bank Limited Common Stock,NYQ
+HDG,ProShares Hedge Replication ETF,PCX
+HDP,Hortonworks, Inc.,NMS
+HDS,HD Supply Holdings, Inc.,NMS
+HDV,iShares Core High Dividend ETF,PCX
+HEB,Hemispherx BioPharma, Inc. Comm,ASE
+HEI,Heico Corporation Common Stock,NYQ
+HEP,Holly Energy Partners, L.P. Com,NYQ
+HEQ,John Hancock Hedged Equity & In,NYQ
+HES,Hess Corporation Common Stock,NYQ
+HFC,HollyFrontier Corporation Commo,NYQ
+HGG,HHGregg, Inc. Common Stock (IN),NYQ
+HGH,Hartford Financial Services Gro,NYQ
+HGI,Guggenheim International Multi-,PCX
+HGT,Hugoton Royalty Trust Common St,NYQ
+HHC,Howard Hughes Corporation (The),NYQ
+HHS,Harte-Hanks, Inc. Common Stock,NYQ
+HHY,Brookfield High Income Fund Inc,NYQ
+HIE,Miller/Howard High Income Equit,NYQ
+HIG,Hartford Financial Services Gro,NYQ
+HII,Huntington Ingalls Industries, ,NYQ
+HIL,Hill International, Inc. Common,NYQ
+HIO,Western Asset High Income Oppor,NYQ
+HIW,Highwoods Properties, Inc. Comm,NYQ
+HIX,Western Asset High Income Fund ,NYQ
+HJV,MS Structured Asset Corp MS Str,NYQ
+HLF,Herbalife Ltd. Common Stock,NYQ
+HLG,Hailiang Education Group Inc. -,NGM
+HLI,Houlihan Lokey, Inc. Class A Co,NYQ
+HLS,HealthSouth Corporation Common ,NYQ
+HLT,Hilton Worldwide Holdings Inc. ,NYQ
+HLX,Helix Energy Solutions Group, I,NYQ
+HMC,Honda Motor Company, Ltd. Commo,NYQ
+HMG,HMG/Courtland Properties, Inc. ,ASE
+HMN,Horace Mann Educators Corporati,NYQ
+HMU,HomeUnion Holdings Inc. Common ,NMS
+HMY,Harmony Gold Mining Company Lim,NYQ
+HNH,Handy & Harman Ltd.,NCM
+HNI,HNI Corporation Common Stock,NYQ
+HNP,Huaneng Power Intl Common Stock,NYQ
+HNR,Harvest Natural Resources Inc,NYQ
+HNW,Pioneer Diversified High Income,ASE
+HOG,Harley-Davidson, Inc. Common St,NYQ
+HON,Honeywell International Inc. Co,NYQ
+HOS,Hornbeck Offshore Services Comm,NYQ
+HOT,Starwood Hotels & Resorts World,NYQ
+HOV,Hovnanian Enterprises, Inc. Cla,NYQ
+HPE,Hewlett Packard Enterprise Comp,NYQ
+HPF,John Hancock Pfd Income Fund II,NYQ
+HPI,John Hancock Preferred Income F,NYQ
+HPJ,Highpower International Inc,NGM
+HPP,Hudson Pacific Properties, Inc.,NYQ
+HPQ,HP Inc. Common Stock,NYQ
+HPS,John Hancock Preferred Income F,NYQ
+HPT,Hospitality Properties Trust - ,NMS
+HPY,Heartland Payment Systems, Inc.,NYQ
+HQH,Tekla Healthcare Investors Comm,NYQ
+HQL,TeklaLife Sciences Investors Co,NYQ
+HQY,HealthEquity, Inc.,NMS
+HRB,H&R Block, Inc. Common Stock,NYQ
+HRC,Hill-Rom Holdings Inc Common St,NYQ
+HRG,HRG Group, Inc. Common Stock,NYQ
+HRI,Herc Holdings Inc. Common Stock,NYQ
+HRL,Hormel Foods Corporation Common,NYQ
+HRS,Harris Corporation Common Stock,NYQ
+HRT,Arrhythmia Research Technology ,ASE
+HSC,Harsco Corporation Common Stock,NYQ
+HST,Host Hotels & Resorts, Inc. Com,NYQ
+HSY,The Hershey Company Common Stoc,NYQ
+HTA,Healthcare Trust of America, In,NYQ
+HTD,John Hancock Tax Advantaged Div,NYQ
+HTF,Horizon Technology Finance Corp,NYQ
+HTH,Hilltop Holdings Inc.,NYQ
+HTM,U.S. Geothermal Inc. Common Sto,ASE
+HTR,Brookfield Total Return Fund In,NYQ
+HTS,Hatteras Financial Corp Hattera,NYQ
+HTY,John Hancock Tax-Advantaged Glo,NYQ
+HTZ,Hertz Global Holdings, Inc Comm,NYQ
+HUM,Humana Inc. Common Stock,NYQ
+HUN,Huntsman Corporation Common Sto,NYQ
+HVB,Hudson Valley Holding Corp. Com,NYQ
+HVT,Haverty Furniture Companies, In,NYQ
+HXL,Hexcel Corporation Common Stock,NYQ
+HYB,New America High Income Fund, I,NYQ
+HYD,VanEck Vectors High Yield Munic,PCX
+HYF,Managed High Yield Plus Fund, I,NYQ
+HYG,iShares iBoxx $ High Yield Corp,PCX
+HYH,Halyard Health, Inc. Common Sto,NYQ
+HYI,Western Asset High Yield Define,NYQ
+HYS,PIMCO 0-5 Year High Yield Corpo,PCX
+HYT,Blackrock Corporate High Yield ,NYQ
+HZN,Horizon Global Corporation Comm,NYQ
+HZO,MarineMax, Inc.  (FL) Common St,NYQ
+IAC,IAC/InterActiveCorp,NMS
+IAE,Voya Asia Pacific High Dividend,NYQ
+IAF,Aberdeen Australia Equity Fund ,ASE
+IAG,Iamgold Corporation Ordinary Sh,NYQ
+IAI,iShares U.S. Broker-Dealers & S,PCX
+IAK,iShares U.S. Insurance ETF,PCX
+IAT,iShares U.S. Regional Banks ETF,PCX
+IAU,ishares Gold Trust,PCX
+IBA,Industrias Bachoco, S.A.B. de C,NYQ
+IBB,iShares Nasdaq Biotechnology In,NGM
+IBM,International Business Machines,NYQ
+IBN,ICICI Bank Limited Common Stock,NYQ
+IBO,IBO (Listing Market - NYSE Amex,ASE
+IBP,Installed Building Products, In,NYQ
+ICA,Empresas Ica Soc Contrladora,NYQ
+ICB,MS Income Securities, Inc. Comm,NYQ
+ICD,Independence Contract Drilling,,NYQ
+ICE,Intercontinental Exchange Inc. ,NYQ
+ICF,iShares Cohen & Steers REIT ETF,PCX
+ICI,iPath iPath Optimized Currency ,PCX
+ICL,Israel Chemicals Limited Ordina,NYQ
+ICN,WisdomTree Indian Rupee Strateg,PCX
+IDA,IDACORP, Inc. Common Stock,NYQ
+IDE,Voya Infrastructure, Industrial,NYQ
+IDG,** SEE<IDG-CL>,NYQ
+IDI,IDI, Inc.,ASE
+IDN,Intellicheck Mobilisa, Inc. Com,ASE
+IDT,IDT Corporation Class B Common ,NYQ
+IDU,iShares U.S. Utilities ETF,PCX
+IDV,iShares International Select Di,PCX
+IDX,VanEck Vectors Indonesia Index ,PCX
+IEC,IEC Electronics Corp. Common St,ASE
+IEF,iShares 7-10 Year Treasury Bond,PCX
+IEI,iShares 3-7 Year Treasury Bond ,PCX
+IEO,iShares U.S. Oil & Gas Explorat,PCX
+IEP,Icahn Enterprises L.P. - Deposi,NMS
+IEV,iShares Europe ETF,PCX
+IEX,IDEX Corporation Common Stock,NYQ
+IEZ,iShares U.S. Oil Equipment & Se,PCX
+IFF,Internationa Flavors & Fragranc,NYQ
+IFN,India Fund, Inc. (The) Common S,NYQ
+IFV,First Trust Dorsey Wright Inter,NGM
+IGA,Voya Global Advantage and Premi,NYQ
+IGC,India Globalization Capital Inc,ASE
+IGD,Voya Global Equity Dividend and,NYQ
+IGE,iShares North American Natural ,PCX
+IGF,iShares Global Infrastructure E,NGM
+IGI,Western Asset Investment Grade ,NYQ
+IGM,iShares North American Tech ETF,PCX
+IGN,iShares North American Tech-Mul,PCX
+IGR,CBRE Clarion Global Real Estate,NYQ
+IGS,ProShares Short Investment Grad,PCX
+IGT,International Game Technology O,NYQ
+IGU,ProShares Ultra Investment Grad,PCX
+IGV,iShares North American Tech-Sof,PCX
+IGZ,IGZ (Listing Market NYSE Arca N,PCX
+IHC,Independence Holding Company Co,NYQ
+IHD,Voya Emerging Markets High Inco,NYQ
+IHE,iShares U.S. Pharmaceutical ETF,PCX
+IHF,iShares U.S. Health Care Provid,PCX
+IHG,Intercontinental Hotels Group A,NYQ
+IHI,iShares U.S. Medical Devices ET,PCX
+IHS,IHS Inc. IHS Inc. Class A,NYQ
+IHT,InnSuites Hospitality Trust Sha,ASE
+IHY,VanEck Vectors International Hi,PCX
+IID,Voya International High Dividen,NYQ
+IIF,Morgan Stanley India Investment,NYQ
+III,Information Services Group, Inc,NGM
+IIM,Invesco Value Municipal Income ,NYQ
+IIN,IntriCon Corporation,NGM
+IJH,iShares Core S&P Mid-Cap ETF,PCX
+IJJ,iShares S&P Mid-Cap 400 Value E,PCX
+IJK,iShares S&P Mid-Cap 400 Growth ,PCX
+IJR,iShares Core S&P Small-Cap ETF,PCX
+IJS,iShares S&P SmallCap 600 Value ,PCX
+IJT,iShares S&P SmallCap 600 Growth,PCX
+ILB,PIMCO Global Advantage Inflatio,PCX
+ILF,iShares Latin America 40 ETF,PCX
+ILG,ILG, Inc,NMS
+IMH,Impac Mortgage Holdings, Inc. C,ASE
+IMI,Intermolecular, Inc.,NMS
+IMN,Imation Corporation Common Stoc,NYQ
+IMO,Imperial Oil Limited Common Sto,ASE
+IMS,IMS Health Holdings, Inc.,NYQ
+INB,Cohen & Steers Global Income Bu,NYQ
+INC,iShares U.S. Fixed Income Balan,ASE
+IND,ING Group, N.V. Perpetual Debt ,NYQ
+INF,Brookfield Global Listed Infras,NYQ
+ING,ING Group, N.V. Common Stock,NYQ
+INN,Summit Hotel Properties, Inc. C,NYQ
+INO,Inovio Pharmaceuticals, Inc.,NMS
+INP,Barclays Bank Plc iPath ETNs li,PCX
+INR,Market Vectors Indian Rupee/USD,PCX
+INS,Intelligent Systems Corporation,ASE
+INT,World Fuel Services Corporation,NYQ
+INY,SPDR Nuveen Barclays New York M,PCX
+INZ,Ing Groep NV Perpetual Debt Sec,NYQ
+IOC,InterOil Corporation,NYQ
+IOO,iShares Global 100 ETF,PCX
+IOT,Income Opportunity Realty Inves,ASE
+IPB,Merrill Lynch & Co., Inc. 6.051,ASE
+IPD,SPDR S&P International Consumer,PCX
+IPE,SPDR Bloomberg Barclays TIPS ET,PCX
+IPF,SPDR S&P International Financia,PCX
+IPG,Interpublic Group of Companies,,NYQ
+IPI,Intrepid Potash, Inc Common Sto,NYQ
+IPK,SPDR S&P International Technolo,PCX
+IPN,SPDR S&P International Industri,PCX
+IPO,Renaissance IPO ETF,PCX
+IPS,SPDR S&P International Consumer,PCX
+IPU,SPDR S&P International Utilitie,PCX
+IPW,SPDR S&P International Energy S,PCX
+IQI,Invesco Quality Municipal Incom,NYQ
+IRC,Inland Real Estate Corporation,NYQ
+IRG,Ignite Restaurant Group, Inc.,NMS
+IRL,New Ireland Fund, Inc (The) Com,NYQ
+IRM,Iron Mountain Incorporated (Del,NYQ
+IRR,Voya Natural Resources Equity I,NYQ
+IRS,IRSA Inversiones Y Representaci,NYQ
+IRT,Independence Realty Trust, Inc.,ASE
+IRV,SPDR S&P International Material,PCX
+IRY,SPDR S&P International Health C,PCX
+ISD,Prudential Short Duration High ,NYQ
+ISF,ING Group, N.V. Perp Hybrid Cap,NYQ
+ISG,ING Group, N.V. Perpetual Dent ,NYQ
+ISL,Aberdeen Israel Fund, Inc. (The,ASE
+ISM,SLM Corporation - Medium Term N,NGM
+ISP,ING Groep NV 6.20% Perpetual De,NYQ
+ISR,IsoRay, Inc. Common Stock,ASE
+IST,SPDR S&P International Telecomm,PCX
+ITA,iShares U.S. Aerospace & Defens,PCX
+ITB,iShares U.S. Home Construction ,PCX
+ITC,ITC Holdings Corp.,NYQ
+ITE,SPDR Bloomberg Barclays Interme,PCX
+ITF,iShares Japn Large-Cap ETF,PCX
+ITG,Investment Technology Group, In,NYQ
+ITI,Iteris, Inc.,NCM
+ITM,VanEck Vectors AMT-Free Interme,PCX
+ITR,SPDR Bloomberg Barclays Interme,PCX
+ITT,ITT Inc. Common Stock ,NYQ
+ITW,Illinois Tool Works Inc. Common,NYQ
+IVC,Invacare Corporation Common Sto,NYQ
+IVE,iShares S&P 500 Value ETF,PCX
+IVH,Ivy High Income Opportunities F,NYQ
+IVR,INVESCO MORTGAGE CAPITAL INC Co,NYQ
+IVV,iShares Core S&P 500 ETF,PCX
+IVW,iShares S&P 500 Growth ETF,PCX
+IVZ,Invesco Ltd Common Stock,NYQ
+IWB,iShares Russell 1000 ETF,PCX
+IWC,iShares Microcap ETF,PCX
+IWD,iShares Russell 1000 Value ETF,PCX
+IWF,iShares Russell 1000 Growth ETF,PCX
+IWL,iShares Russell Top 200 ETF,PCX
+IWM,iShares Russell 2000 ETF,PCX
+IWN,iShares Russell 2000 Value ETF,PCX
+IWO,iShares Russell 2000 Growth ETF,PCX
+IWP,iShares Russell Midcap Growth E,PCX
+IWR,iShares Russell Mid-Cap ETF,PCX
+IWS,iShares Russell Mid-cap Value E,PCX
+IWV,iShares Russell 3000 ETF,PCX
+IWW,iShares Russell 3000 Value ETF,PCX
+IWX,iShares Russell Top 200 Value E,PCX
+IWY,iShares Russell Top 200 Growth ,PCX
+IWZ,iShares Russell 3000 Growth ETF,PCX
+IXC,iShares Global Energy ETF,PCX
+IXG,iShares Global Financial ETF,PCX
+IXJ,iShares Global Healthcare ETF,PCX
+IXN,iShares Global Tech ETF,PCX
+IXP,iShares Global Telecom ETF,PCX
+IYC,iShares U.S. Consumer Services ,PCX
+IYE,iShares U.S. Energy ETF,PCX
+IYF,iShares U.S. Financial ETF,PCX
+IYG,iShares U.S. Financial Services,PCX
+IYH,iShares U.S. Healthcare ETF,PCX
+IYJ,iShares U.S. Industrials ETF,PCX
+IYK,iShares U.S. Consumer Goods ETF,PCX
+IYM,iShares U.S. Basic Materials ET,PCX
+IYR,iShares U.S. Real Estate ETF,PCX
+IYT,iShares Transportation AverageE,PCX
+IYW,iShares U.S. Technology ETF,PCX
+IYY,iShares Dow Jones U.S. ETF,PCX
+IYZ,iShares U.S. Telecommunications,PCX
+JAH,Jarden Corporation,NYQ
+JAX,J. Alexander's Holdings, Inc. C,NYQ
+JBK,Lehman ABS 3.50 3.50% Adjustabl,NYQ
+JBL,Jabil Circuit, Inc. Common Stoc,NYQ
+JBN,Select Asset Inc. Select Asset ,NYQ
+JBR,Select Asset Inc. Corporate Bac,NYQ
+JBT,John Bean Technologies Corporat,NYQ
+JCE,Nuveen Core Equity Alpha Fund N,NYQ
+JCI,Johnson Controls International ,NYQ
+JCP,J.C. Penney Company, Inc. Holdi,NYQ
+JCS,Communications Systems, Inc.,NGM
+JDD,Nuveen Diversified Dividend and,NYQ
+JDG,WisdomTree Japan Quality Divide,PCX
+JEC,Jacobs Engineering Group Inc. C,NYQ
+JEM,iPath GEMS Index ETN,PCX
+JEQ,Aberdeen Japan Equity Fund, Inc,NYQ
+JFC,JPMorgan China Region  Fund, In,NYQ
+JFR,Nuveen Floating Rate Income Fun,NYQ
+JGH,Nuveen Global High Income Fund ,NYQ
+JGV,Nuveen Global Equity Income Fun,NYQ
+JGW,J.G. Wentworth Company (The) Cl,NYQ
+JHA,Nuveen High Income December 201,NYQ
+JHB,Nuveen High Income November 202,NYQ
+JHD,Nuveen High Income December 201,NYQ
+JHI,John Hancock Investors Trust Co,NYQ
+JHP,Nuveen Quality Preferred Income,NYQ
+JHS,John Hancock Income Securities ,NYQ
+JHX,James Hardie Industries plc Ame,NYQ
+JHY,Nuveen High Income 2020 Target ,NYQ
+JJA,iPath Bloomberg Agriculture Tot,PCX
+JJC,iPath Bloomberg Copper Subindex,PCX
+JJE,iPath Bloomberg Energy Total Re,PCX
+JJG,iPath Bloomberg Grains Total Re,PCX
+JJM,iPath Bloomberg Industrial Meta,PCX
+JJN,iPath Bloomberg Nickel Subindex,PCX
+JJP,iPath Bloomberg Precious Metals,PCX
+JJS,iPath Bloomberg Softs Subindex ,PCX
+JJT,iPath Bloomberg Tin Subindex To,PCX
+JJU,iPath Bloomberg Aluminum Subind,PCX
+JKD,iShares Morningstar Large-Cap E,PCX
+JKE,iShares Morningstar Large-Cap G,PCX
+JKF,iShares Morningstar Large-Cap  ,PCX
+JKG,iShares Morningstar Mid-Cap ETF,PCX
+JKH,iShares Morningstar Mid-Cap Gro,PCX
+JKI,iShares Morningstar Mid-Cap Val,NGM
+JKJ,iShares Morningstar Small-Cap E,PCX
+JKK,iShares Morningstar Small-Cap G,PCX
+JKL,iShares Morningstar Small-Cap V,PCX
+JKS,JinkoSolar Holding Company Limi,NYQ
+JLL,Jones Lang LaSalle Incorporated,NYQ
+JLS,Nuveen Mortgage Opportunity Ter,NYQ
+JMF,Nuveen Energy MLP Total Return ,NYQ
+JMG,Journal Media Group, Inc.,PCX
+JMI,Javelin Mortgage Investment Cor,NYQ
+JMM,Nuveen Multi-Market Income Fund,NYQ
+JMP,JMP Group LLC Common Shares,NYQ
+JMT,Nuveen Mortgage Opportunity Ter,NYQ
+JMU,Wowo Limited - ADS,NGM
+JNJ,Johnson & Johnson Common Stock,NYQ
+JNK,SPDR Bloomberg Barclays High Yi,PCX
+JNP,Juniper Pharmaceuticals, Inc.,NMS
+JNS,Janus Capital Group, Inc. Cmn S,NYQ
+JOB,GEE Group Inc. Common Stock,ASE
+JOE,St. Joe Company (The) Common St,NYQ
+JOF,Japan Smaller Capitalization Fu,NYQ
+JOY,Joy Global Inc. Common Stock,NYQ
+JPC,Nuveen  Preferred Income Opport,NYQ
+JPI,Nuveen Preferred and Income Ter,NYQ
+JPM,JP Morgan Chase & Co. Common St,NYQ
+JPN,Deutsche X-trackers Japan JPX-N,PCX
+JPP,SPDR Russell/Nomura PRIME Japan,PCX
+JPS,Nuveen Preferred Securities Inc,NYQ
+JPW,Nuveen Flexible Investment Inco,NYQ
+JPX,ProShares UltraShort MSCI Pacif,PCX
+JQC,Nuveen Credit Strategies Income,NYQ
+JRI,Nuveen Real Asset Income and Gr,NYQ
+JRO,Nuveen Floating Rate Income Opp,NYQ
+JRS,Nuveen Real Estate Income Fund ,NYQ
+JSC,SPDR Russell/Nomura Small Cap J,PCX
+JSD,Nuveen Short Duration Credit Op,NYQ
+JSM,SLM Corporation - 6% Senior Not,NGM
+JST,Jinpan International Limited,NMS
+JTA,Nuveen Tax-Advantaged Total Ret,NYQ
+JTD,Nuveen Tax-Advantaged Dividend ,NYQ
+JTP,Nuveen Quality Preferred Income,NYQ
+JVA,Coffee Holding Co., Inc.,NCM
+JWA,John Wiley & Sons, Inc. Common ,NYQ
+JWB,John Wiley & Sons, Inc. Common ,NYQ
+JWN,Nordstrom, Inc. Common Stock,NYQ
+JXI,iShares Global Utilities ETF,PCX
+JYN,BARCLAYS BANK PLC iPath JPY/USD,PCX
+KAI,Kadant Inc Common Stock,NYQ
+KAP,KCAP Financial, Inc. 7.375% Sen,NYQ
+KAR,KAR Auction Services, Inc Commo,NYQ
+KBA,KraneShares Bosera MSCI China A,PCX
+KBE,SPDR S&P Bank ETF,PCX
+KBH,KB Home Common Stock,NYQ
+KBR,KBR, Inc. Common Stock,NYQ
+KCC,Structured Products Corp. 8.20%,NYQ
+KCE,SPDR S&P Capital Markets ETF,PCX
+KCG,KCG Holdings, Inc. Class A Comm,NYQ
+KED,Kayne Anderson Energy Developme,NYQ
+KEF,Korea Equity Fund, Inc. Common ,NYQ
+KEG,Key Energy Services, Inc. Commo,NYQ
+KEM,Kemet Corporation New Common St,NYQ
+KEN,Kenon Holdings Ltd. Ordinary Sh,NYQ
+KEP,Korea Electric Power Corporatio,NYQ
+KEX,Kirby Corporation Common Stock,NYQ
+KEY,KeyCorp Common Stock,NYQ
+KFH,KKR Financial Holdings LLC 8.37,NYQ
+KFI,KKR Financial Holdings LLC 7.50,NYQ
+KFS,Kingsway Financial Services, In,NYQ
+KFX,Kofax Limited,NMS
+KFY,Korn/Ferry International Common,NYQ
+KGC,Kinross Gold Corporation Common,NYQ
+KHC,The Kraft Heinz Company,NMS
+KHI,Deutsche High Income Trust Shar,NYQ
+KIE,SPDR S&P Insurance ETF,PCX
+KIM,Kimco Realty Corporation Common,NYQ
+KIN,Kindred Biosciences, Inc.,NCM
+KIO,KKR Income Opportunities Fund C,NYQ
+KIQ,Kelso Technologies Inc Ordinary,ASE
+KKD,Krispy Kreme Doughnuts, Inc.,NYQ
+KKR,KKR & Co. L.P. Common Units Rep,NYQ
+KLD,iShares MSCI USA ESG Select ETF,PCX
+KMB,Kimberly-Clark Corporation Comm,NYQ
+KME,SPDR S&P Mortgage Finance ETF,PCX
+KMF,Kayne Anderson Midstream Energy,NYQ
+KMG,KMG Chemicals, Inc. Common Stoc,NYQ
+KMI,Kinder Morgan, Inc. Common Stoc,NYQ
+KMM,Deutsche  Multi-Market Income T,NYQ
+KMT,Kennametal Inc. Common Stock,NYQ
+KMX,CarMax Inc,NYQ
+KND,Kindred Healthcare, Inc. Common,NYQ
+KNL,Knoll, Inc. Common Stock,NYQ
+KNX,Knight Transportation, Inc. Com,NYQ
+KOF,Coca Cola Femsa S.A.B. de C.V. ,NYQ
+KOL,VanEck Vectors Coal ETF,PCX
+KOP,Koppers Holdings Inc. Koppers H,NYQ
+KOR,AdvisorShares KIM Korea Equity ,PCX
+KOS,Kosmos Energy Ltd. Common Share,NYQ
+KRA,Kraton Corporation Common Stock,NYQ
+KRC,Kilroy Realty Corporation Commo,NYQ
+KRE,SPDR S&P Regional Banking ETF,PCX
+KRG,Kite Realty Group Trust Common ,NYQ
+KRO,Kronos Worldwide Inc Common Sto,NYQ
+KRS,ProShares Short S&P Regional Ba,PCX
+KRU,ProShares Ultra S&P Regional Ba,PCX
+KSA,iShares MSCI Saudi Arabia Cappe,PCX
+KSM,Deutsche Strategic Municiple In,NYQ
+KSS,Kohl's Corporation Common Stock,NYQ
+KST,Deutsche Strategic Income Trust,NYQ
+KSU,Kansas City Southern Common Sto,NYQ
+KTF,Deutsche Municiple Income Trust,NYQ
+KTH,Structures Products Cp 8% CorTS,NYQ
+KTN,Structured Products Corp 8.205%,NYQ
+KTP,Corts 7.625 Pfd Common Stock,NYQ
+KWN,Kennedy-Wilson Holdings Inc. 7.,NYQ
+KWR,Quaker Chemical Corporation Com,NYQ
+KWT,VanEck Vectors Solar Energy ETF,PCX
+KXI,iShares Global Consumer Staples,PCX
+KYE,Kayne Anderson Total Energy Ret,NYQ
+KYN,Kayne Anderson MLP Investment C,NYQ
+KYO,Kyocera Corporation Common Stoc,NYQ
+LGI,Lazard Global Total Return and ,NYQ
+LGL,LGL Group, Inc. (The) Common St,ASE
+LHO,LaSalle Hotel Properties Common,NYQ
+LII,Lennox International, Inc. Comm,NYQ
+LIT,Global X Lithium ETF,PCX
+LKQ,LKQ Corporation,NMS
+LLL,L-3 Communications Holdings, In,NYQ
+LLY,Eli Lilly and Company Common St,NYQ
+LMB,Limbach Holdings, Inc.,NCM
+LMT,Lockheed Martin Corporation Com,NYQ
+LNC,Lincoln National Corporation Co,NYQ
+LND,Brasilagro Brazilian Agric Real,NYQ
+LNG,Cheniere Energy, Inc. Common St,ASE
+LNN,Lindsay Corporation Common Stoc,NYQ
+LNT,Alliant Energy Corporation Comm,NYQ
+LOB,Live Oak Bancshares, Inc.,NMS
+LOR,Lazard World Dividend & Income ,NYQ
+LOV,Spark Networks, Inc. Common Sto,ASE
+LOW,Lowe's Companies, Inc. Common S,NYQ
+LPG,Dorian LPG Ltd. Common Stock,NYQ
+LPI,Laredo Petroleum, Inc. Common S,NYQ
+LPL,LG Display Co, Ltd AMERICAN DEP,NYQ
+LPT,Liberty Property Trust,NYQ
+LPX,Louisiana-Pacific Corporation C,NYQ
+LQD,iShares iBoxx $ Investment Grad,PCX
+LRN,K12 Inc Common Stock,NYQ
+LSC,HSBC Global Absolute Limited EL,PCX
+LSG,Lake Shore Gold Corp Ordinary S,ASE
+LSI,Life Storage, Inc. Common Stock,NYQ
+LTC,LTC Properties, Inc. Common Sto,NYQ
+LTL,ProShares Ultra Telecommunicati,PCX
+LTS,Ladenburg Thalmann Financial Se,ASE
+LUB,Luby's, Inc. Common Stock,NYQ
+LUK,Leucadia National Corporation C,NYQ
+LUV,Southwest Airlines Company Comm,NYQ
+LUX,Luxottica Group, S.p.A. Common ,NYQ
+LVL,Guggenheim Global Dividend Oppo,PCX
+LVS,Las Vegas Sands Corp. Common St,NYQ
+LWC,SPDR Bloomberg Barclays Long Te,PCX
+LXK,Lexmark International, Inc.,NYQ
+LXP,Lexington Realty Trust Common S,NYQ
+LXU,LSB Industries, Inc. Common Sto,NYQ
+LYB,LyondellBasell Industries NV Or,NYQ
+LYG,Lloyds Banking Group Plc Americ,NYQ
+LYV,Live Nation Entertainment, Inc.,NYQ
+LZB,La-Z-Boy Incorporated Common St,NYQ
+MAA,Mid-America Apartment Communiti,NYQ
+MAB,Eaton Vance Massachusetts Munic,ASE
+MAC,Macerich Company (The) Common S,NYQ
+MAG,MAG Silver Corporation Ordinary,ASE
+MAN,ManpowerGroup Common Stock,NYQ
+MAR,Marriott International,NMS
+MAS,Masco Corporation Common Stock,NYQ
+MAT,Mattel, Inc.,NMS
+MAV,Pioneer Municipal High Income A,NYQ
+MBB,iShares MBS ETF,PCX
+MBG,SPDR Bloomberg Barclays Mortgag,PCX
+MBI,MBIA Inc. Common Stock,NYQ
+MBT,Mobile TeleSystems PJSC,NYQ
+MCA,Blackrock MuniYield California ,NYQ
+MCC,Medley Capital Corporation Comm,NYQ
+MCD,McDonald's Corporation Common S,NYQ
+MCF,Contango Oil & Gas Company Comm,ASE
+MCI,Barings Corporate Investors Com,NYQ
+MCK,McKesson Corporation Common Sto,NYQ
+MCN,Madison Covered Call & Equity S,NYQ
+MCO,Moody's Corporation Common Stoc,NYQ
+MCQ,Medley Capital Corporation 7.12,NYQ
+MCR,MFS Charter Income Trust Common,NYQ
+MCS,Marcus Corporation (The) Common,NYQ
+MCV,Medley Capital Corporation 6.12,NYQ
+MCX,Medley Capital Corporation 6.50,NYQ
+MCY,Mercury General Corporation Com,NYQ
+MCZ,Mad Catz Interactive Inc Common,ASE
+MDC,M.D.C. Holdings, Inc. Common St,NYQ
+MDD,SPDR S&P International Mid Cap ,PCX
+MDM,Mountain Province Diamonds Inc.,NMS
+MDP,Meredith Corporation Common Sto,NYQ
+MDR,McDermott International, Inc. C,NYQ
+MDT,Medtronic plc. Ordinary Shares,NYQ
+MDU,MDU Resources Group, Inc. Commo,NYQ
+MDW,Midway Gold Corporation Ordinar,ASE
+MDY,SPDR MidCap Trust Series I,PCX
+MEA,Metalico Inc Common Stock,ASE
+MED,MEDIFAST INC Common Stock,NYQ
+MEG,Media General, Inc. Common Stoc,NYQ
+MEI,Methode Electronics, Inc. Commo,NYQ
+MEN,Blackrock MuniEnhanced Fund, In,NYQ
+MEP,Midcoast Energy Partners, L.P. ,NYQ
+MES,VanEck Vectors Gulf States Inde,ASE
+MET,MetLife, Inc. Common Stock,NYQ
+MFA,MFA Financial, Inc.,NYQ
+MFC,Manulife Financial Corporation ,NYQ
+MFD,Macquarie/First Trust Global Co,NYQ
+MFG,Mizuho Financial Group, Inc. Sp,NYQ
+MFL,Blackrock MuniHoldings Investme,NYQ
+MFM,MFS Municipal Income Trust Comm,NYQ
+MFO,MFA Financial, Inc. 8.00% Senio,NYQ
+MFS,Manitowoc Food Service, Inc. Co,NYQ
+MFT,Blackrock MuniYield Investment ,NYQ
+MFV,MFS Special Value Trust Common ,NYQ
+MGA,Magna International, Inc. Commo,NYQ
+MGC,Vanguard Mega Cap ETF,PCX
+MGF,MFS Government Markets Income T,NYQ
+MGH,Minco Gold Corporation Common S,ASE
+MGI,Moneygram International, Inc.,NMS
+MGK,Vanguard Mega Cap Growth ETF,PCX
+MGM,MGM Resorts International Commo,NYQ
+MGN,Mines Management, Inc.,ASE
+MGP,MGM Growth Properties LLC Class,NYQ
+MGR,Affiliated Managers Group, Inc.,NYQ
+MGT,MGT Capital Investments Inc,ASE
+MGU,Macquarie Global Infrastructure,NYQ
+MGV,Vanguard Mega Cap Value ETF,PCX
+MHD,Blackrock MuniHoldings Fund, In,NYQ
+MHE,BlackRock Massachusetts Tax-Exe,ASE
+MHF,Western Asset Municipal High In,NYQ
+MHG,Marine Harvest ASA Sponsored AD,NYQ
+MHH,Mastech Digital, Inc Common Sto,ASE
+MHI,Pioneer Municipal High Income T,NYQ
+MHK,Mohawk Industries, Inc. Common ,NYQ
+MHM,Bank of America Corporation Mar,ASE
+MHN,Blackrock MuniHoldings New York,NYQ
+MHO,M/I Homes, Inc. Common Stock,NYQ
+MHY,Western Asset Managed High Inco,NYQ
+MIC,Macquarie Infrastructure Compan,NYQ
+MIE,Cohen & Steers MLP Income and E,NYQ
+MIG,Meadowbrook Insurance Group, In,NYQ
+MIK,The Michaels Companies, Inc.,NMS
+MIL,** SEE<MFCB>,NYQ
+MIN,MFS Intermediate Income Trust C,NYQ
+MIW,Eaton Vance Michigan Municipal ,ASE
+MIY,Blackrock MuniYield Michigan Qu,NYQ
+MJN,Mead Johnson Nutrition Company ,NYQ
+MKC,McCormick & Company, Incorporat,NYQ
+MKL,Markel Corporation Common Stock,NYQ
+MLI,Mueller Industries, Inc. Common,NYQ
+MLM,Martin Marietta Materials, Inc.,NYQ
+MLN,VanEck Vectors AMT-Free Long Mu,PCX
+MLP,Maui Land & Pineapple Company, ,NYQ
+MLR,Miller Industries, Inc. Common ,NYQ
+MMC,Marsh & McLennan Companies, Inc,NYQ
+MMD,MainStay DefinedTerm Municipal ,NYQ
+MMI,Marcus & Millichap, Inc. Common,NYQ
+MMM,3M Company Common Stock,NYQ
+MMP,Magellan Midstream Partners L.P,NYQ
+MMS,Maximus, Inc. Common Stock,NYQ
+MMT,MFS Multimarket Income Trust Co,NYQ
+MMU,Western Asset Managed Municipal,NYQ
+MMV,Eaton Vance Massachusetts Munic,ASE
+MNA,IQ Merger Arbitrage ETF,PCX
+MNE,Blackrock Muni New York Interme,NYQ
+MNI,McClatchy Company (The) Common ,NYQ
+MNK,Mallinckrodt plc Ordinary Share,NYQ
+MNP,Western Asset Municipal Partner,NYQ
+MNR,Monmouth Real Estate Investment,NYQ
+MOC,Command Security Corporation Co,ASE
+MOD,Modine Manufacturing Company Co,NYQ
+MOH,Molina Healthcare Inc Common St,NYQ
+MOM,QuantShares U.S. Market Neutral,PCX
+MON,Monsanto Company Common Stock,NYQ
+MOO,VanEck Vectors Agribusiness ETF,PCX
+MOS,Mosaic Company (The) Common Sto,NYQ
+MOV,Movado Group Inc. Common Stock,NYQ
+MPA,Blackrock MuniYield Pennsylvani,NYQ
+MPB,Mid Penn Bancorp,NGM
+MPC,Marathon Petroleum Corporation ,NYQ
+MPG,Metaldyne Performance Group Inc,NYQ
+MPO,MIDSTATES PETROLEUM COMPANY, IN,ASE
+MPV,Barings Participation Investors,NYQ
+MPW,Medical Properties Trust, Inc. ,NYQ
+MPX,Marine Products Corporation Com,NYQ
+MQT,Blackrock MuniYield Quality Fun,NYQ
+MQY,Blackrock MuniYield Quality Fun,NYQ
+MRC,MRC Global Inc. Common Stock,NYQ
+MRD,Memorial Resource Development C,NMS
+MRK,Merck & Company, Inc. Common St,NYQ
+MRO,Marathon Oil Corporation Common,NYQ
+MRT,MedEquities Realty Trust, Inc. ,NYQ
+MSA,MSA Safety Incorporated Common ,NYQ
+MSB,Mesabi Trust Common Stock,NYQ
+MSC,Bank of America Corporation MIT,PCX
+MSD,Morgan Stanley Emerging Markets,NYQ
+MSF,Morgan Stanley Emerging Markets,NYQ
+MSG,The Madison Square Garden Compa,NYQ
+MSI,Motorola Solutions, Inc. Common,NYQ
+MSJ,** SEE<MSJ-CL>,NYQ
+MSK,Morgan Stanley Cap TR VIII GDT ,NYQ
+MSL,MidSouth Bancorp Common Stock,NYQ
+MSM,MSC Industrial Direct Company, ,NYQ
+MSN,Emerson Radio Corporation Commo,ASE
+MSP,Madison Strategic Sector Premiu,NYQ
+MTB,M&T Bank Corporation Common Sto,NYQ
+MTD,Mettler-Toledo International, I,NYQ
+MTG,MGIC Investment Corporation Com,NYQ
+MTH,Meritage Homes Corporation Comm,NYQ
+MTK,SPDR MS Technology,PCX
+MTL,Mechel PAO American Depositary ,NYQ
+MTN,Vail Resorts, Inc. Common Stock,NYQ
+MTP,Midatech Pharma PLC - American ,NCM
+MTR,Mesa Royalty Trust Common Stock,NYQ
+MTT,Western Asset Municipal Defined,NYQ
+MTU,Mitsubishi UFJ Financial Group,,NYQ
+MTW,Manitowoc Company, Inc. (The) C,NYQ
+MTX,Minerals Technologies Inc. Comm,NYQ
+MTZ,MasTec, Inc. Common Stock,NYQ
+MUA,Blackrock MuniAssets Fund, Inc ,NYQ
+MUB,iShares National Muni Bond ETF,PCX
+MUC,Blackrock MuniHoldings Californ,NYQ
+MUE,Blackrock MuniHoldings Quality ,NYQ
+MUH,Blackrock MuniHoldings Fund II,,NYQ
+MUI,Blackrock Muni Intermediate Dur,NYQ
+MUJ,Blackrock MuniHoldings New Jers,NYQ
+MUR,Murphy Oil Corporation Common S,NYQ
+MUS,Blackrock MuniHoldings Quality ,NYQ
+MUX,McEwen Mining Inc. Common Stock,NYQ
+MVC,MVC Capital, Inc. Common Stock,NYQ
+MVF,Blackrock MuniVest Fund, Inc. C,ASE
+MVG,Mag Silver Corporation Oridinar,ASE
+MVO,MV Oil Trust Units of Beneficia,NYQ
+MVT,Blackrock MuniVest Fund II, Inc,NYQ
+MVV,ProShares Ultra MidCap400,PCX
+MWA,MUELLER WATER PRODUCTS Common S,NYQ
+MWG,Morgan Stanley Cap Tr IV Gtd Ca,NYQ
+MWO,Morgan Stanley Cap Tr V Gtd Cap,NYQ
+MWR,Morgan Stanley Cap Tr III Capit,NYQ
+MWV,Meadwestvaco Corporation Common,NYQ
+MWW,Monster Worldwide, Inc.,NYQ
+MXC,Mexco Energy Corporation Common,ASE
+MXE,Mexico Equity and Income Fund, ,NYQ
+MXF,Mexico Fund, Inc. (The) Common ,NYQ
+MXI,iShares Global Materials ETF,PCX
+MXL,MaxLinear, Inc Class A Common S,NYQ
+MYC,Blackrock MuniYield California ,NYQ
+MYD,Blackrock MuniYield Fund, Inc. ,NYQ
+MYE,Myers Industries, Inc. Common S,NYQ
+MYF,Blackrock MuniYield Investment ,NYQ
+MYI,Blackrock MuniYield Quality Fun,NYQ
+MYJ,Blackrock MuniYield New Jersey ,NYQ
+MYL,Mylan N.V.,NMS
+MYN,Blackrock MuniYield New York Qu,NYQ
+MYY,ProShares Short MidCap400,PCX
+MZA,Blackrock MuniYield Arizona Fun,ASE
+MZF,Managed Duration Investment Gra,NYQ
+MZZ,ProShares UltraShort MidCap400,PCX
+NAC,Nuveen California Quality Munic,NYQ
+NAD,Nuveen Quality Municipal Income,NYQ
+NAK,Northern Dynasty Minerals, Ltd.,ASE
+NAN,Nuveen New York Quality Municip,NYQ
+NAO,Nordic Amern Offshore Ltd Ordin,NYQ
+NAP,Navios Maritime Midstream Partn,NYQ
+NAT,Nordic American Tankers Limited,NYQ
+NAV,Navistar International Corporat,NYQ
+NAZ,Nuveen Arizona Quality Municipa,NYQ
+NBB,Nuveen Build America Bond Fund ,NYQ
+NBD,Nuveen Build America Bond Oppor,NYQ
+NBH,Neuberger Berman Intermediate M,ASE
+NBL,Noble Energy Inc. Common Stock,NYQ
+NBN,Northeast Bancorp,NGM
+NBO,Neuberger Berman New York Inter,ASE
+NBR,Nabors Industries Ltd.,NYQ
+NBS,Neostem, Inc.,NCM
+NBW,Neuberger Berman California Int,ASE
+NBY,NovaBay Pharmaceuticals, Inc. C,ASE
+NCA,Nuveen California Municipal Val,NYQ
+NCB,Nuveen California Municipal Val,NYQ
+NCI,Navigant Consulting, Inc. Commo,NYQ
+NCQ,NovaCopper Inc.,ASE
+NCR,NCR Corporation Common Stock,NYQ
+NCS,NCI Building Systems, Inc. New ,NYQ
+NCT,Newcastle Investment Corporatio,NYQ
+NCV,AllianzGI Convertible & Income ,NYQ
+NCZ,AllianzGI Convertible & Income ,NYQ
+NDP,Tortoise Energy Independence Fu,NYQ
+NEA,Nuveen AMT-Free Quality Municip,NYQ
+NEE,NextEra Energy, Inc. Common Sto,NYQ
+NEM,Newmont Mining Corporation,NYQ
+NEN,New England Realty Associates L,ASE
+NEO,NeoGenomics, Inc.,NCM
+NEP,NextEra Energy Partners, LP Com,NYQ
+NEU,NewMarket Corp Common Stock,NYQ
+NEV,Nuveen Enhanced Municipal Value,NYQ
+NFG,National Fuel Gas Company Commo,NYQ
+NFJ,AllianzGI NFJ Dividend, Interes,NYQ
+NFO,Guggenheim Insider ETF,PCX
+NFX,Newfield Exploration Company Co,NYQ
+NGD,New Gold Inc.,ASE
+NGE,Global X MSCI Nigeria ETF,PCX
+NGG,National Grid Transco, PLC Nati,NYQ
+NGL,NGL ENERGY PARTNERS LP Common U,NYQ
+NGS,Natural Gas Services Group, Inc,NYQ
+NHA,Nuveen Municipal 2021 Target Te,NYQ
+NHC,National HealthCare Corporation,ASE
+NHF,NexPoint Credit Strategies Fund,NYQ
+NHI,National Health Investors, Inc.,NYQ
+NHS,Neuberger Berman High Yield Str,ASE
+NIB,iPath Bloomberg Cocoa Subindex ,PCX
+NID,Nuveen Intermediate Duration Mu,NYQ
+NIE,AllianzGI Equity & Convertible ,NYQ
+NIM,Nuveen Select Maturities Munici,NYQ
+NIO,Nuveen Municipal Opportunity Fu,NYQ
+NIQ,Nuveenn Intermediate Duration Q,NYQ
+NJR,NewJersey Resources Corporation,NYQ
+NJV,Nuveen New Jersey Municipal Val,ASE
+NKA,Niska Gas Storage Partners LLC ,NYQ
+NKE,Nike, Inc. Common Stock,NYQ
+NKG,Nuveen Georgia Quality Municipa,NYQ
+NKX,Nuveen California AMT-Free Qual,NYQ
+NKY,MAXIS Nikkei 225 Index Fund ETF,PCX
+NLR,VanEck Vectors Uranium & Nuclea,PCX
+NLS,Nautilus, Inc. Common Stock,NYQ
+NLY,Annaly Capital Management Inc C,NYQ
+NMA,Nuveen Municipal Advantage Fund,NYQ
+NMI,Nuveen Municipal Income Fund, I,NYQ
+NML,Neuberger Berman MLP Income Fun,ASE
+NMM,Navios Maritime Partners LP Com,NYQ
+NMO,Nuveen Municipal Market Opportu,NYQ
+NMR,Nomura Holdings Inc ADR America,NYQ
+NMS,Nuveen Minnesota Quality Munici,NYQ
+NMT,Nuveen Massachusetts Quality Mu,NYQ
+NMY,Nuveen Maryland Quality Municip,NYQ
+NMZ,Nuveen Municipal High Income Op,NYQ
+NNA,Navios Maritime Acquisition Cor,NYQ
+NNC,Nuveen North Carolina Quality M,NYQ
+NNI,Nelnet, Inc. Common Stock,NYQ
+NNN,National Retail Properties Comm,NYQ
+NNY,Nuveen New York Municipal Value,NYQ
+NOA,North American Energy Partners,,NYQ
+NOC,Northrop Grumman Corporation Co,NYQ
+NOG,Northern Oil and Gas, Inc. Comm,ASE
+NOK,Nokia Corporation Sponsored Ame,NYQ
+NOM,Nuveen Missouri Quality Municip,NYQ
+NOV,National Oilwell Varco, Inc. Co,NYQ
+NOW,ServiceNow, Inc. Common Stock,NYQ
+NPD,China Nepstar Chain Drugstore L,NYQ
+NPF,Nuveen Premier Municipal Income,NYQ
+NPI,Nuveen Premium Income Municipal,NYQ
+NPK,National Presto Industries, Inc,NYQ
+NPM,Nuveen Premium Income Municipal,NYQ
+NPN,Nuveen Pennsylvania Municipal V,ASE
+NPO,EnPro Industries Inc,NYQ
+NPP,Nuveen Performance Plus Municip,NYQ
+NPT,Nuveen Premium Income Municipal,NYQ
+NPV,Nuveen Virginia Quality Municip,NYQ
+NQI,Nuveen Quality Municipal Fund, ,NYQ
+NQM,Nuveen Investment Quality Munic,NYQ
+NQP,Nuveen Pennsylvania Quality Mun,NYQ
+NQS,Nuveen Select Quality Municipal,NYQ
+NQU,Nuveen Quality Income Municipal,NYQ
+NRE,NorthStar Realty Europe Corp. C,NYQ
+NRF,NorthStar Realty Finance Corp. ,NYQ
+NRG,NRG Energy, Inc. Common Stock,NYQ
+NRK,Nuveen New York AMT-Free Qualit,NYQ
+NRO,Neuberger Berman Real Estate Se,ASE
+NRP,Natural Resource Partners LP Li,NYQ
+NRT,North European Oil Royality Tru,NYQ
+NRX,NephroGenex, Inc.,NCM
+NRZ,New Residential Investment Corp,NYQ
+NSA,National Storage Affiliates Tru,NYQ
+NSC,Norfolk Southern Corporation Co,NYQ
+NSH,Nustar GP Holdings, LLC Units,NYQ
+NSL,Nuveen Senior Income Fund Commo,NYQ
+NSM,Nationstar Mortgage Holdings In,NYQ
+NSP,Insperity, Inc. Common Stock,NYQ
+NSR,Neustar, Inc. Neustar, Inc. Cla,NYQ
+NSS,NuStar Logistics, L.P. 7.625% F,NYQ
+NSU,Nevsun Resources Ltd Ordinary S,ASE
+NTB,Bank of N.T. Butterfield & Son ,NYQ
+NTC,Nuveen Connecticut Quality Muni,NYQ
+NTG,Tortoise MLP Fund, Inc. Common ,NYQ
+NTI,Northern Tier Energy LP Common ,NYQ
+NTK,Nortek Inc.,NMS
+NTL,Nortel Inversora SA, ADR Common,NYQ
+NTN,NTN Buzztime, Inc. Common Stock,ASE
+NTP,Nam Tai Property Inc. Common St,NYQ
+NTT,Nippon Telegraph and Telephone ,NYQ
+NTX,Nuveen Texas Quality Municipal ,NYQ
+NTZ,Natuzzi, S.p.A.,NYQ
+NUE,Nucor Corporation Common Stock,NYQ
+NUM,Nuveen Michigan Quality Municip,NYQ
+NUO,Nuveen Ohio Quality Municipal I,NYQ
+NUS,Nu Skin Enterprises, Inc. Commo,NYQ
+NUV,Nuveen Municipal Value Fund, In,NYQ
+NUW,Nuveen AMT-Free Municipal Value,NYQ
+NVG,Nuveen AMT-Free Municipal Credi,NYQ
+NVO,Novo Nordisk A/S Common Stock,NYQ
+NVR,NVR, Inc. Common Stock,NYQ
+NVS,Novartis AG Common Stock,NYQ
+NVX,Nuveen California Dividend Adva,ASE
+NWE,NorthWestern Corporation Common,NYQ
+NWL,Newell Brands Inc. Common Stock,NYQ
+NWN,Northwest Natural Gas Company C,NYQ
+NWS,News Corporation - Class B,NMS
+NWY,New York & Company, Inc. New Yo,NYQ
+NXC,Nuveen California Select Tax-Fr,NYQ
+NXJ,Nuveen New Jersey Qualified Mun,NYQ
+NXK,Nuveen New York Dividend Advant,ASE
+NXN,Nuveen New York Select Tax-Free,NYQ
+NXP,Nuveen Select Tax Free Income P,NYQ
+NXQ,Nuveen Select Tax Free Income P,NYQ
+NXR,Nuveen Select Tax Free Income P,NYQ
+NXZ,Nuveen Dividend Advantage Munic,ASE
+NYC,iShares NYSE Composite ETF,PCX
+NYF,iShares New York Muni Bond ETF,PCX
+NYH,Eaton Vance New York Municipal ,ASE
+NYT,New York Times Company (The) Co,NYQ
+NYV,Nuveen New York Municipal Value,NYQ
+NZF,Nuveen Municipal Credit Income ,NYQ
+NZH,Nuveen California Dividend Adva,ASE
+OAK,Oaktree Capital Group, LLC Clas,NYQ
+OAS,Oasis Petroleum Inc. Common Sto,NYQ
+OCC,Optical Cable Corporation,NGM
+OCN,Ocwen Financial Corporation NEW,NYQ
+OCX,OncoCyte Corporation Common Sto,ASE
+ODC,Oil-Dri Corporation Of America ,NYQ
+ODP,Office Depot, Inc.,NMS
+OEC,Orion Engineered Carbons S.A Co,NYQ
+OEF,iShares S&P 100 ETF,PCX
+OEW,Guggenheim ETF Trust ETF,PCX
+OFC,Corporate Office Properties Tru,NYQ
+OFF,ETRACS Fisher-Gartman Risk Off ,PCX
+OFG,OFG Bancorp Common Stock,NYQ
+OFS,OFS Capital Corporation,NMS
+OGE,OGE Energy Corporation Common S,NYQ
+OGS,ONE Gas, Inc. Common Stock,NYQ
+OHI,Omega Healthcare Investors, Inc,NYQ
+OIA,Invesco Municipal Income Opport,NYQ
+OIH,VanEck Vectors Oil Services ETF,ASE
+OII,Oceaneering International, Inc.,NYQ
+OIL,Barclays Bank Plc iPath Exchang,PCX
+OIS,Oil States International, Inc. ,NYQ
+OKE,ONEOK, Inc. Common Stock,NYQ
+OKS,ONEOK Partners, L.P. Common Sto,NYQ
+OLD,The Long-Term Care ETF,NGM
+OLN,Olin Corporation Common Stock,NYQ
+OLO,DB Crude Oil Long Exchange Trad,PCX
+OLP,One Liberty Properties, Inc. Co,NYQ
+OMC,Omnicom Group Inc. Common Stock,NYQ
+OME,Omega Protein Corporation Commo,NYQ
+OMF,OneMain Holdings, Inc. Common S,NYQ
+OMI,Owens & Minor, Inc. Common Stoc,NYQ
+OMN,OMNOVA Solutions Inc. Common St,NYQ
+ONB,Old National Bancorp,NMS
+ONE,Higher One Holdings, Inc.,NYQ
+ONG,iPath Pure Beta Energy ETN,PCX
+ONN,ETRACS Fisher-Gartman Risk On E,PCX
+ONP,Orient Paper, Inc. NEW Common S,ASE
+ONS,Oncobiologics, Inc.,NGM
+OPB,Opus Bank,NMS
+OPD,Guggenheim Large Cap Optimized ,PCX
+OPK,Opko Health, Inc.,NMS
+OPP,RiverNorth/DoubleLine Strategic,NYQ
+OPY,Oppenheimer Holdings, Inc. Clas,NYQ
+ORA,Ormat Technologies, Inc. Common,NYQ
+ORC,Orchid Island Capital, Inc. Com,NYQ
+ORG,The Organics ETF,NGM
+ORI,Old Republic International Corp,NYQ
+ORM,Owens Realty Mortgage, Inc. Com,ASE
+ORN,Orion Group Holdings, Inc. Comm,NYQ
+OSB,Norbord Inc. Common Stock,NYQ
+OSG,Overseas Shipholding Group, Inc,NYQ
+OSK,Oshkosh Corporation (Holding Co,NYQ
+OSM,SLM Corporation - Medium Term N,NGM
+OSN,Ossen Innovation Co., Ltd. - Am,NCM
+OUT,OUTFRONT Media Inc. Common Stoc,NYQ
+OXM,Oxford Industries, Inc. Common ,NYQ
+OXY,Occidental Petroleum Corporatio,NYQ
+OZM,Och-Ziff Capital Management Gro,NYQ
+PAA,Plains All American Pipeline, L,NYQ
+PAC,Grupo Aeroportuario Del Pacific,NYQ
+PAF,PowerShares FTSE RAFI Asia Paci,PCX
+PAG,Penske Automotive Group, Inc. C,NYQ
+PAH,Platform Specialty Products Cor,NYQ
+PAI,Western Asset Income Fund Commo,NYQ
+PAK,Global X MSCI Pakistan ETF,PCX
+PAM,Pampa Energia S.A. Pampa Energi,NYQ
+PAR,PAR Technology Corporation Comm,NYQ
+PAY,Verifone Systems, Inc. Common S,NYQ
+PBA,Pembina Pipeline Corp. Ordinary,NYQ
+PBB,Prospect Capital Corporation 6.,NYQ
+PBD,PowerShares Global Clean Energy,PCX
+PBE,PowerShares Dynamic Biotech &Ge,PCX
+PBF,PBF Energy Inc. Class A Common ,NYQ
+PBH,Prestige Brand Holdings, Inc. C,NYQ
+PBI,Pitney Bowes Inc. Common Stock,NYQ
+PBJ,PowerShares Dynamic Food & Beve,PCX
+PBM,Pacific Booker Minerals Inc Ord,ASE
+PBP,PowerShares S&P 500 BuyWrite Po,PCX
+PBR,Petroleo Brasileiro S.A.- Petro,NYQ
+PBS,PowerShares Dynamic Media,PCX
+PBT,Permian Basin Royalty Trust Com,NYQ
+PBW,PowerShares WilderHill Clean En,PCX
+PCF,Putnam High Income Securities F,NYQ
+PCG,Pacific Gas & Electric Co. Comm,NYQ
+PCH,Potlatch Corporation,NMS
+PCI,PIMCO Dynamic Credit and Mortga,NYQ
+PCK,Pimco California Municipal Inco,PCX
+PCM,PCM Fund, Inc. Common Stock,NYQ
+PCN,Pimco Corporate & Income Strate,NYQ
+PCO,Pendrell Corporation,NCM
+PCQ,PIMCO California Municipal Inco,NYQ
+PCY,PowerShares Emerging Markets So,PCX
+PDI,PIMCO Dynamic Income Fund Commo,NYQ
+PDM,Piedmont Office Realty Trust, I,NYQ
+PDN,PowerShares FTSE RAFI Developed,PCX
+PDP,PowerShares DWA Momentum Portfo,NGM
+PDS,Precision Drilling Corporation ,NYQ
+PDT,John Hancock Premium Dividend F,NYQ
+PEB,Pebblebrook Hotel Trust Common ,NYQ
+PED,Pedevco Corp. Common Stock,ASE
+PEG,Public Service Enterprise Group,NYQ
+PEI,Pennsylvania Real Estate Invest,NYQ
+PEJ,PowerShares Dynamic Leisure & E,PCX
+PEK,VanEck Vectors ChinaAMC CSI 300,PCX
+PEN,Penumbra, Inc. Common Stock,NYQ
+PEO,Adams Natural Resources Fund, I,NYQ
+PEP,Pepsico, Inc. Common Stock,NYQ
+PER,SandRidge Permian Trust Common ,NYQ
+PES,Pioneer Energy Services Corp. C,NYQ
+PEX,ProShares Global Listed Private,BTS
+PEY,PowerShares High Yield Dividend,NGM
+PEZ,PowerShares DWA Consumer Cyclic,NGM
+PFD,Flaherty & Crumrine Preferred I,NYQ
+PFE,Pfizer, Inc. Common Stock,NYQ
+PFF,iShares US Preferred Stock ETF,PCX
+PFG,Principal Financial Group Inc C,NYQ
+PFH,Cabco Tr Jcp 7.625 Common Stock,NYQ
+PFI,PowerShares DWA Financial Momen,NGM
+PFK,Prudential Financial Inflation-,NYQ
+PFL,PIMCO Income Strategy Fund Shar,NYQ
+PFM,PowerShares Dividend Achievers,NGM
+PFN,PIMCO Income Strategy Fund II,NYQ
+PFO,Flaherty & Crumrine Preferred I,NYQ
+PFS,Provident Financial Services, I,NYQ
+PFV,Amplify YieldShares Prime 5 Div,BTS
+PFX,Phoenix Companies, Inc. Phoenix,NYQ
+PGC,Peapack-Gladstone Financial Cor,NMS
+PGD,iPath Asian and Gulf Currency R,PCX
+PGF,PowerShares Financial Preferred,PCX
+PGH,Pengrowth Energy Corporation,NYQ
+PGJ,PowerShares Golden Dragon China,NGM
+PGM,iPath Bloomberg Platinum Subind,PCX
+PGP,Pimco Global Stocksplus & Incom,NYQ
+PGR,Progressive Corporation (The) C,NYQ
+PGX,PowerShares Preferred Portfolio,PCX
+PGZ,Principal Real Estate Income Fu,NYQ
+PHB,PowerShares High Yield Corporat,PCX
+PHD,Pioneer Floating Rate Trust Pio,NYQ
+PHF,Pacholder High Yield Fund, Inc.,ASE
+PHG,Koninklijke Philips N.V. NY Reg,NYQ
+PHH,PHH Corp Common Stock,NYQ
+PHI,PLDT Inc. Sponsored ADR,NYQ
+PHK,Pimco High Income Fund Pimco Hi,NYQ
+PHM,PulteGroup, Inc. Common Stock,NYQ
+PHO,PowerShares Water Resource Port,NGM
+PHT,Pioneer High Income Trust Commo,NYQ
+PHX,Panhandle Oil and Gas Inc Commo,NYQ
+PID,PowerShares Intl Dividend Achie,NGM
+PIE,PowerShares DWA Emerging Market,NGM
+PIH,1347 Property Insurance Holding,NGM
+PII,Polaris Industries Inc. Common ,NYQ
+PIM,Putnam Master Intermediate Inco,NYQ
+PIN,PowerShares India Portfolio,PCX
+PIO,PowerShares Global Water Portfo,NGM
+PIP,PharmAthene, Inc Common Stock,ASE
+PIR,Pier 1 Imports, Inc. Common Sto,NYQ
+PIY,Preferred Plus Trust (Ser CZN) ,NYQ
+PIZ,PowerShares DWA Developed Marke,NGM
+PJC,Piper Jaffray Companies Common ,NYQ
+PJH,Prudential Financial, Inc. 5.75,NYQ
+PJP,PowerShares Dynamic Pharmaceuti,PCX
+PJS,PreferredPlus Trust Ser FAR 1 T,NYQ
+PJT,PJT Partners Inc. Class A Commo,NYQ
+PKB,PowerShares Dynamic Build & Con,PCX
+PKD,Parker Drilling Company Common ,NYQ
+PKE,Park Electrochemical Corporatio,NYQ
+PKG,Packaging Corporation of Americ,NYQ
+PKI,PerkinElmer, Inc. Common Stock,NYQ
+PKO,Pimco Income Opportunity Fund C,NYQ
+PKT,Procera Networks, Inc.,NMS
+PKW,PowerShares Buyback Achievers,NGM
+PKX,POSCO Common Stock,NYQ
+PKY,Parkway, Inc. Common Stock ,NYQ
+PLD,ProLogis, Inc. Common Stock,NYQ
+PLG,Platinum Group Metals Ltd. Ordi,ASE
+PLM,Polymet Mining Corporation Ordi,ASE
+PLT,Plantronics, Inc. Common Stock,NYQ
+PLW,PowerShares 1-30 Treasury Ladde,NGM
+PLX,Protalix BioTherapeutics, Inc. ,ASE
+PMC,Pharmerica Corporation Common S,NYQ
+PMD,Psychemedics Corporation,NCM
+PME,Pingtan Marine Enterprise Ltd. ,NCM
+PMF,PIMCO Municipal Income Fund Com,NYQ
+PML,Pimco Municipal Income Fund II ,NYQ
+PMM,Putnam Managed Municipal Income,NYQ
+PMO,Putnam Municipal Opportunities ,NYQ
+PMR,PowerShares Dynamic Retail,PCX
+PMT,PennyMac Mortgage Investment Tr,NYQ
+PMX,PIMCO Municipal Income Fund III,NYQ
+PNC,PNC Financial Services Group, I,NYQ
+PNF,PIMCO New York Municipal Income,NYQ
+PNI,Pimco New York Municipal Income,NYQ
+PNK,Pinnacle Entertainment, Inc.,NMS
+PNM,PNM Resources, Inc. (Holding Co,NYQ
+PNR,Pentair plc. Ordinary Share,NYQ
+PNW,Pinnacle West Capital Corporati,NYQ
+PNX,Phoenix Companies, Inc. (The),NYQ
+PNY,Piedmont Natural Gas Company, I,NYQ
+POL,PolyOne Corporation Common Stoc,NYQ
+POR,Portland General Electric Co Co,NYQ
+POT,Potash Corporation of Saskatche,NYQ
+PPA,PowerShares Aerospace & Defense,PCX
+PPC,Pilgrim's Pride Corporation,NMS
+PPG,PPG Industries, Inc. Common Sto,NYQ
+PPH,VanEck Vectors Pharmaceutical E,ASE
+PPL,PPL Corporation Common Stock,NYQ
+PPP,Primero Mining Corp.  New Commo,NYQ
+PPR,Voya Prime Rate Trust Shares of,NYQ
+PPS,Post Properties, Inc.,NYQ
+PPT,Putnam Premier Income Trust Com,NYQ
+PPX,PPL Capital Funding, Inc. 2013 ,NYQ
+PRA,ProAssurance Corporation Common,NYQ
+PRB,VanEck Vectors Pre-refunded Mun,PCX
+PRF,Powershares FTSE RAFI US 1000 P,PCX
+PRH,Prudential Financial, Inc. 5.70,NYQ
+PRI,Primerica, Inc. Common Stock,NYQ
+PRK,Park National Corporation Commo,ASE
+PRN,PowerShares DWA Industrials Mom,NGM
+PRO,PROS Holdings, Inc. Common Stoc,NYQ
+PRU,Prudential Financial, Inc. Comm,NYQ
+PRY,** SEE<PRY-CL>,NYQ
+PSA,Public Storage Common Stock,NYQ
+PSB,PS Business Parks, Inc. Common ,NYQ
+PSC,Principal U.S. Small Cap Index,NGM
+PSF,Cohen & Steers Select Preferred,NYQ
+PSG,Performance Sports Group Ltd. O,NYQ
+PSI,PowerShares Dynamic Semiconduct,PCX
+PSJ,PowerShares Dynamic Software,PCX
+PSK,SPDR Wells Fargo Preferred Stoc,PCX
+PSL,PowerShares DWA Consumer Staple,NGM
+PSO,Pearson, Plc Common Stock,NYQ
+PSP,PowerShares Listed Private Equi,PCX
+PSQ,ProShares Short QQQ,PCX
+PSR,PowerShares Active U.S. Real Es,PCX
+PST,ProShares UltraShort Lehman 7-1,PCX
+PSX,Phillips 66 Common Stock,NYQ
+PTC,PTC Inc.,NMS
+PTF,PowerShares DWA Technology Mome,NGM
+PTH,PowerShares DWA Healthcare Mome,NGM
+PTI,Proteostasis Therapeutics, Inc.,NGM
+PTM,E-TRACS USB Bloomberg Commodity,PCX
+PTN,Palatin Technologies, Inc. Comm,ASE
+PTR,PetroChina Company Limited Comm,NYQ
+PTX,Pernix Therapeutics Holdings, I,NGM
+PTY,Pimco Corporate & Income Opport,NYQ
+PUB,People's Utah Bancorp,NCM
+PUI,PowerShares DWA Utilities Momen,NGM
+PUK,Prudential Public Limited Compa,NYQ
+PUW,PowerShares WilderHill Progress,PCX
+PVG,Pretium Resources, Inc. Ordinar,NYQ
+PVH,PVH Corp. Common Stock,NYQ
+PVI,PowerShares VRDO Tax Free Weekl,PCX
+PWB,PowerShares Dynamic LargeCap Gr,PCX
+PWC,PowerShares XTF: Dynamic Market,PCX
+PWE,Penn West Petroleum Ltd,NYQ
+PWR,Quanta Services, Inc. Common St,NYQ
+PWV,PowerShares Dynamic LargeCap Va,PCX
+PWX,Providence and Worcester Railro,NGM
+PWZ,PowerShares California AMT-Free,PCX
+PXD,Pioneer Natural Resources Compa,NYQ
+PXE,PowerShares Dynamic Energy E&P,PCX
+PXF,PowerShares FTSE RAFI Developed,PCX
+PXH,PowerShares FTSE RAFI Emerging ,PCX
+PXI,PowerShares DWA Energy Momentum,NGM
+PXJ,PowerShares Dynamic Oil Service,PCX
+PXQ,PowerShares Dynamic Networking,PCX
+PXR,PowerShares Global Emerging Mar,PCX
+PXS,Pyxis Tankers Inc.,NCM
+PYN,PIMCO New York Municipal Income,NYQ
+PYS,Merrill Lynch Depositor Inc PPl,NYQ
+PYT,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYQ
+PYZ,PowerShares DWA Basic Materials,NGM
+PZA,PowerShares National AMT-Free M,PCX
+PZC,PIMCO California Municipal Inco,NYQ
+PZD,PowerShares Cleantech Portfolio,PCX
+PZE,Petrobras Argentina S.A. ADS,NYQ
+PZG,Paramount Gold Nevada Corp. Com,ASE
+PZI,PowerShares Zacks Micro Cap,PCX
+PZN,Pzena Investment Management Inc,NYQ
+PZT,PowerShares New York AMT-Free M,PCX
+QAI,IQ Hedge MultiIQ Hedge Multi-St,PCX
+QAT,iShares MSCI Qatar Capped ETF,NGM
+QCP,Quality Care Properties, Inc. C,NYQ
+QDF,FlexShares Quality Dividend Ind,PCX
+QED,IQ Hedge Event-Driven Tracker E,PCX
+QEH,AdvisorShares QAM Equity Hedge,PCX
+QEM,Market Vectors MSCI Emerging Ma,PCX
+QEP,QEP Resources, Inc. Common Stoc,NYQ
+QHC,Quorum Health Corporation Commo,NYQ
+QID,ProShares UltraShort QQQ,PCX
+QLC,FlexShares US Quality Large Cap,NGM
+QLD,ProShares Ultra QQQ,PCX
+QLS,IQ Hedge Long Short Tracker ETF,PCX
+QMN,IQ Hedge Market Neutral Tracker,PCX
+QQQ,PowerShares QQQ Trust, Series 1,NGM
+QSR,Restaurant Brands International,NYQ
+QTM,Quantum Corporation Common Stoc,NYQ
+QTS,QTS Realty Trust, Inc. Class A ,NYQ
+QUS,SPDR MSCI USA StrategicFactors ,PCX
+QVM,Arrow QVM Equity Factor ETF,PCX
+RAD,Rite Aid Corporation Common Sto,NYQ
+RAI,Reynolds American Inc Common St,NYQ
+RAS,RAIT Financial Trust New Common,NYQ
+RAX,Rackspace Hosting, Inc,NYQ
+RBA,Ritchie Bros. Auctioneers Incor,NYQ
+RBC,Regal Beloit Corporation Common,NYQ
+RBL,SPDR S&P Russia ETF,PCX
+RBS,Royal Bank of Scotland Group Pl,NYQ
+RBY,Rubicon Minerals Corporation Or,ASE
+RCD,Guggenheim S&P 500 Equal Weight,PCX
+RCG,RENN Fund, Inc Common Stock,ASE
+RCI,Rogers Communication, Inc. Comm,NYQ
+RCL,Royal Caribbean Cruises Ltd. Co,NYQ
+RCS,PIMCO Strategic Income Fund, In,NYQ
+RDC,Rowan Companies plc Class A Ord,NYQ
+RDI,Reading International Inc - Cla,NCM
+RDN,Radian Group Inc. Common Stock,NYQ
+RDY,Dr. Reddy's Laboratories Ltd Co,NYQ
+REE,Rare Element Resources Ltd. Ord,ASE
+REG,Regency Centers Corporation Com,NYQ
+REI,Ring Energy, Inc. Common Stock,ASE
+REK,ProShares Short Real Estate,PCX
+REM,iShares Mortgage Real Estate Ca,PCX
+REN,Resolute Energy Corporation Com,NYQ
+RES,RPC, Inc. Common Stock,NYQ
+REV,Revlon, Inc. New Common Stock,NYQ
+REW,ProShares UltraShort Technology,PCX
+REX,REX American Resources Corporat,NYQ
+REZ,iShares Residential Real Estate,PCX
+RFG,Guggenheim S&P Midcap 400 Pure ,PCX
+RFI,Cohen & Steers Total Return Rea,NYQ
+RFP,Resolute Forest Products Inc. C,NYQ
+RFT,RAIT Financial Trust 7.625% Sen,NYQ
+RFV,Guggenheim S&P Midcap 400 Pure ,PCX
+RGA,Reinsurance Group of America, I,NYQ
+RGC,Regal Entertainment Group Class,NYQ
+RGI,Guggenheim S&P 500 Equal Weight,PCX
+RGR,Sturm, Ruger & Company, Inc. Co,NYQ
+RGS,Regis Corporation Common Stock,NYQ
+RGT,Royce Global Value Trust, Inc. ,NYQ
+RHI,Robert Half International Inc. ,NYQ
+RHP,Ryman Hospitality Properties, I,NYQ
+RHS,Guggenheim S&P 500 Equal Weight,PCX
+RHT,Red Hat, Inc. Common Stock,NYQ
+RIC,Richmont Mines, Inc. Common Sto,ASE
+RIF,RMR Real Estate Income Fund Com,ASE
+RIG,Transocean Ltd (Switzerland) Co,NYQ
+RIO,Rio Tinto Plc Common Stock,NYQ
+RIT,LMP Real Estate Income Fund Inc,NYQ
+RIV,RiverNorth Opportunities Fund, ,NYQ
+RJA,AB Svensk Ekportkredit (Swedish,PCX
+RJD,Raymond James Financial, Inc. 6,NYQ
+RJF,Raymond James Financial, Inc. C,NYQ
+RJI,AB Svensk Ekportkredit (Swedish,PCX
+RJN,AB Svensk Ekportkredit (Swedish,PCX
+RJZ,AB Svensk Ekportkredit (Swedish,PCX
+RKH,Market Vectors Bank and Brokera,ASE
+RKT,Rock-Tenn Company Common Stock,NYQ
+RLH,Red Lions Hotels Corporation Co,NYQ
+RLI,RLI Corp. Common Stock,NYQ
+RLJ,RLJ Lodging Trust Common Shares,NYQ
+RLY,SPDR SSgA Multi Asset Real Retu,PCX
+RMD,ResMed Inc. Common Stock,NYQ
+RMP,Rice Midstream Partners LP Comm,NYQ
+RMR,The RMR Group Inc.,NCM
+RMT,Royce Micro-Cap Trust, Inc. Com,NYQ
+RNF,Rentech Nitrogen Partners, L.P.,NYQ
+RNG,Ringcentral, Inc. Class A Commo,NYQ
+RNN,Rexahn Pharmaceuticals, Inc. Co,ASE
+RNP,Cohen & Steers Reit and Preferr,NYQ
+RNR,RenaissanceRe Holdings Ltd. Com,NYQ
+ROG,Rogers Corporation Common Stock,NYQ
+ROK,Rockwell Automation, Inc. Commo,NYQ
+ROL,Rollins, Inc. Common Stock,NYQ
+ROM,ProShares Ultra Technology,PCX
+ROP,Roper Technologies, Inc. Common,NYQ
+ROX,Castle Brands, Inc. Castle Bran,ASE
+RPD,Rapid7, Inc.,NGM
+RPG,Guggenheim S&P 500 Pure Growth ,PCX
+RPM,RPM International Inc. Common S,NYQ
+RPT,Ramco-Gershenson Properties Tru,NYQ
+RPV,Guggenheim S&P 500 Pure Value E,PCX
+RPX,Columbia Large Cap Growth ETF,PCX
+RQI,Cohen & Steers Quality Income R,NYQ
+RRC,Range Resources Corporation Com,NYQ
+RRD,R.R. Donnelley & Sons Company C,NYQ
+RRF,WisdomTree Global Real Return F,PCX
+RRM,RR Media Ltd. - Ordinary Shares,NMS
+RRR,Red Rock Resorts, Inc.,NMS
+RSE,Rouse Properties, Inc.,NYQ
+RSG,Republic Services, Inc. Common ,NYQ
+RSO,Resource Capital Corp. Resource,NYQ
+RSP,Guggenheim S&P 500 Equal Weight,PCX
+RST,Rosetta Stone Rosetta Stone, In,NYQ
+RSX,VanEck Vectors Russia ETF,PCX
+RTH,VanEck Vectors Retail ETF,ASE
+RTK,Rentech, Inc.,NCM
+RTL,iShares Retail Real Estate Capp,PCX
+RTM,Guggenheim S&P 500 Equal Weight,PCX
+RTN,Raytheon Company Common Stock,NYQ
+RTR,Oppenheimer ADR Revenue ETF,PCX
+RUK,Reed Elsevier PLC American Depo,NYQ
+RUN,Sunrun Inc.,NMS
+RVM,Revett Mining Company, Inc. (DE,ASE
+RVP,Retractable Technologies, Inc. ,ASE
+RVT,Royce Value Trust, Inc. Common ,NYQ
+RWC,RELM Wireless Corporation Commo,ASE
+RWG,Columbia  Select Large Cap Grow,PCX
+RWJ,Oppenheimer Small Cap Revenue E,PCX
+RWK,Oppenheimer Mid Cap Revenue ETF,PCX
+RWL,Oppenheimer Large Cap Revenue E,PCX
+RWM,ProShares Short Russell2000,PCX
+RWO,SPDR DJ Wilshire Global Real Es,PCX
+RWR,SPDR DJ Wilshire REIT ETF,PCX
+RWT,Redwood Trust, Inc. Common Stoc,NYQ
+RWV,Oppenheimer Navallier Overall A,PCX
+RWW,Oppenheimer Financials Sector R,PCX
+RWX,SPDR DJ Wilshire Intl Real Esta,PCX
+RXD,ProShares UltraShort Health Car,PCX
+RXI,iShares Global Consumer Discret,PCX
+RXL,ProShares Ultra Health Care,PCX
+RXN,Rexnord Corporation Common Stoc,NYQ
+RYE,Guggenheim S&P 500 Equal Weight,PCX
+RYF,Guggenheim S&P 500 Equal Weight,PCX
+RYH,Guggenheim S&P 500 Equal Weight,PCX
+RYI,Ryerson Holding Corporation Com,NYQ
+RYJ,Guggenheim Raymond James SB-1 E,PCX
+RYN,Rayonier Inc. REIT Common Stock,NYQ
+RYT,Guggenheim S&P 500 Equal Weight,PCX
+RYU,Guggenheim S&P 500 Equal Weight,PCX
+RZA,Reinsurance Group of America, I,NYQ
+RZB,Reinsurance Group of America, I,NYQ
+RZG,Guggenheim S&P Smallcap 600 Pur,PCX
+RZV,Guggenheim S&P Smallcap 600 Pur,PCX
+SAA,ProShares Ultra SmallCap600,PCX
+SAB,Saratoga Investment Corp 6.75% ,NYQ
+SAH,Sonic Automotive, Inc. Common S,NYQ
+SAL,Salisbury Bancorp, Inc.,NCM
+SAM,Boston Beer Company, Inc. (The),NYQ
+SAN,Banco Santander, S.A. Sponsored,NYQ
+SAP,SAP  SE ADS,NYQ
+SAQ,Saratoga Investment Corp 7.50% ,NYQ
+SAR,Saratoga Investment Corp New,NYQ
+SBB,ProShares Short SmallCap600,PCX
+SBH,Sally Beauty Holdings, Inc. (Na,NYQ
+SBI,Western Asset Intermediate Muni,ASE
+SBM,Short Basic Materials,PCX
+SBR,Sabine Royalty Trust Common Sto,NYQ
+SBS,Companhia de saneamento Basico ,NYQ
+SBV,iPath Pure Beta Broad Commodity,PCX
+SBW,Western Asset Worldwide Income ,NYQ
+SBY,Silver Bay Realty Trust Corp. C,NYQ
+SCC,ProShares UltraShort Consumer S,PCX
+SCD,LMP Capital and Income Fund Inc,NYQ
+SCG,SCANA Corporation Common Stock,NYQ
+SCI,Service Corporation Internation,NYQ
+SCJ,iShares MSCI Japan Sm Cap,PCX
+SCL,Stepan Company Common Stock,NYQ
+SCM,Stellus Capital Investment Corp,NYQ
+SCO,ProShares UltraShort Bloomberg ,PCX
+SCQ,Stellus Capital Investment Corp,NYQ
+SCS,Steelcase Inc. Common Stock,NYQ
+SCX,L.S. Starrett Company (The) Com,NYQ
+SCZ,iShares MSCI EAFE Small-Cap ETF,NGM
+SDD,ProShares UltraShort SmallCap60,PCX
+SDK,ProShares UltraShort Russell Mi,PCX
+SDP,ProShares UltraShort Utilities,PCX
+SDR,SandRidge Mississippian Trust I,NYQ
+SDS,ProShares UltraShort S&P500,PCX
+SDT,SandRidge Mississippian Trust I,NYQ
+SDY,SPDR S&P Dividend ETF,PCX
+SEA,Guggenheim Shipping ETF,PCX
+SEB,Seaboard Corporation Common Sto,ASE
+SEE,Sealed Air Corporation Common S,NYQ
+SEF,ProShares Short Financials,PCX
+SEM,Select Medical Holdings Corpora,NYQ
+SEP,Spectra Energy Partners, LP Com,NYQ
+SEV,Sevcon, Inc.,NCM
+SFE,Safeguard Scientifics, Inc. New,NYQ
+SFK,ProShares UltraShort Russell100,PCX
+SFL,Ship Finance International Limi,NYQ
+SFM,Sprouts Farmers Market, Inc.,NMS
+SFN,Stifel Financial Corporation 5.,NYQ
+SFR,Colony Starwood Homes Common Sh,NYQ
+SFS,Smart & Final Stores, Inc. Comm,NYQ
+SGA,Saga Communications, Inc. New C,ASE
+SGB,Southwest Georgia Financial Cor,ASE
+SGC,Superior Uniform Group, Inc.,NGM
+SGF,Aberdeen Singapore Fund, Inc. C,NYQ
+SGG,iPath Bloomberg Sugar Subindex ,PCX
+SGI,Silicon Graphics International ,NMS
+SGL,Strategic Global Income Fund, I,NYQ
+SGM,Stonegate Mortgage Corporation ,NYQ
+SGU,Star Gas Partners, L.P. Common ,NYQ
+SGY,Stone Energy Corporation Common,NYQ
+SHE,SPDR Series Trust SPDR SSGA Gen,PCX
+SHG,Shinhan Financial Group Co Ltd ,NYQ
+SHI,SINOPEC Shangai Petrochemical C,NYQ
+SHM,SPDR Nuveen Bloomberg Barclays ,PCX
+SHO,Sunstone Hotel Investors, Inc. ,NYQ
+SHV,iShares Short Treasury Bond ETF,PCX
+SHW,Sherwin-Williams Company (The) ,NYQ
+SHY,iShares 1-3 Year Treasury Bond ,PCX
+SID,Companhia Siderurgica Nacional ,NYQ
+SIF,SIFCO Industries, Inc. Common S,ASE
+SIG,Signet Jewelers Limited Common ,NYQ
+SIJ,ProShares UltraShort Industrial,PCX
+SIL,Global X Silver Miners ETF,PCX
+SIM,Grupo Simec, S.A.B. de C.V. Ame,ASE
+SIR,Select Income REIT  of Benefici,NMS
+SIX,Six Flags Entertainment Corpora,NYQ
+SIZ,QuantShares U.S. Market Neutral,PCX
+SJB,ProShares Short High Yield,PCX
+SJF,ProShares UltraShort Russell100,PCX
+SJH,ProShares UltraShort Russell200,ASE
+SJI,South Jersey Industries, Inc. C,NYQ
+SJL,ProShares UltraShort Russell Mi,PCX
+SJM,J.M. Smucker Company (The) New ,NYQ
+SJR,Shaw Communications Inc. Common,NYQ
+SJT,San Juan Basin Royalty Trust Co,NYQ
+SJW,SJW Group Common Stock (DE),NYQ
+SKF,ProShares UltraShort Financials,PCX
+SKK,ProShares UltraShort Russell200,PCX
+SKM,SK Telecom Co., Ltd. Common Sto,NYQ
+SKT,Tanger Factory Outlet Centers, ,NYQ
+SKX,Skechers U.S.A., Inc. Common St,NYQ
+SKY,Skyline Corporation Common Stoc,ASE
+SLB,Schlumberger N.V. Common Stock,NYQ
+SLD,Sutherland Asset Management Cor,NYQ
+SLF,Sun Life Financial Inc. Common ,NYQ
+SLG,SL Green Realty Corporation Com,NYQ
+SLI,SL Industries, Inc. (DE),ASE
+SLM,SLM Corporation,NMS
+SLP,Simulations Plus, Inc.,NCM
+SLV,iShares Silver Trust,PCX
+SLW,Silver Wheaton Corp Common Shar,NYQ
+SLX,VanEck Vectors Steel ETF ,PCX
+SLY,SPDR S&P 600 Small Cap ETF (bas,PCX
+SMB,VanEck Vectors AMT-Free Short M,PCX
+SMC,SPDR MSCI Europe Small Cap UCIT,NIM
+SMD,SPDR S&P 1000 ETF  ,PCX
+SMG,Scotts Miracle-Gro Company (The,NYQ
+SMH,VanEck Vectors Semiconductor ET,ASE
+SMI,Semiconductor  Manufacturing In,NYQ
+SMK,ProShares UltraShort MSCI Mexic,PCX
+SMM,Salient Midstream Common Shares,NYQ
+SMN,ProShares UltraShort Basic Mate,PCX
+SMP,Standard Motor Products, Inc. C,NYQ
+SMT,SMART Technologies Inc.,NCM
+SNA,Snap-On Incorporated Common Sto,NYQ
+SNC,State National Companies, Inc.,NMS
+SND,SMART SAND, INC.,NMS
+SNE,Sony Corporation Common Stock,NYQ
+SNH,Senior Housing Properties Trust,NMS
+SNI,Scripps Networks Interactive, I,NMS
+SNN,Smith & Nephew SNATS, Inc. Comm,NYQ
+SNP,China Petroleum & Chemical Corp,NYQ
+SNR,New Senior Investment Group Inc,NYQ
+SNV,Synovus Financial Corp. Common ,NYQ
+SNX,Synnex Corporation Common Stock,NYQ
+SNY,Sanofi American Depositary Shar,NYQ
+SOL,Renesola Ltd. Common Shares of ,NYQ
+SON,Sonoco Products Company Common ,NYQ
+SOP,ProShares UltraShort Oil & Gas ,PCX
+SOR,Source Capital, Inc. Common Sto,NYQ
+SPA,Sparton Corporation Common Stoc,NYQ
+SPB,Spectrum Brands Holdings, Inc. ,NYQ
+SPE,Special Opportunities Fund, Inc,NYQ
+SPG,Simon Property Group, Inc. Comm,NYQ
+SPH,Suburban Propane Partners, L.P.,NYQ
+SPI,SPI Energy Co., Ltd. - American,NMS
+SPN,Superior Energy Services, Inc. ,NYQ
+SPP,Sanchez Production Partners LP ,ASE
+SPR,Spirit Aerosystems Holdings, In,NYQ
+SPU,SkyPeople Fruit Juice, Inc.,NGM
+SPW,** SEE<SPXC>,NYQ
+SPY,SPDR S&P 500,PCX
+SQI,SciQuest, Inc.,NMS
+SQM,Sociedad Quimica y Minera S.A. ,NYQ
+SRC,Spirit Realty Capital, Inc. Com,NYQ
+SRE,Sempra Energy Common Stock,NYQ
+SRF,Cushing Energy Income Fund Comm,NYQ
+SRG,Seritage Growth Properties Clas,NYQ
+SRI,Stoneridge, Inc. Common Stock,NYQ
+SRS,ProShares UltraShort Real Estat,PCX
+SRT,StarTek, Inc. Common Stock,NYQ
+SRV,The Cushing MLP Total Return Fu,NYQ
+SSB,South State Corporation,NMS
+SSD,Simpson Manufacturing Company, ,NYQ
+SSE,Seventy Seven Energy Inc.,NYQ
+SSG,ProShares UltraShort Semiconduc,PCX
+SSH,Sunshine Heart Inc,NCM
+SSI,Stage Stores, Inc. Common Stock,NYQ
+SSL,Sasol Ltd. American Depositary ,NYQ
+SSN,Samson Oil & Gas Limited Sponso,ASE
+SSO,ProShares Ultra S&P500,PCX
+SSP,E.W. Scripps Company (The) Comm,NYQ
+SSS,Sovran Self Storage, Inc.,NYQ
+SST,SPDR Bloomberg Barclays Short T,PCX
+SSW,Seaspan Corporation Seaspan Cor,NYQ
+SSY,SunLink Health Systems, Inc. Co,ASE
+STB,Student Transportation Inc,NMS
+STC,Stewart Information Services Co,NYQ
+STE,STERIS plc Ordinary Shares,NYQ
+STI,SunTrust Banks, Inc. Common Sto,NYQ
+STJ,St. Jude Medical, Inc. Common S,NYQ
+STK,Columbia Seligman Premium Techn,NYQ
+STL,Sterling Bancorp,NYQ
+STM,STMicroelectronics N.V. Common ,NYQ
+STN,Stantec Inc Common Stock,NYQ
+STO,Statoil ASA,NYQ
+STP,SPDR MSCI Europe Materials UCIT,NIM
+STQ,SPDR MSCI Europe Industrials UC,NIM
+STR,Questar Corporation,NYQ
+STS,Supreme Industries, Inc. Common,ASE
+STT,State Street Corporation Common,NYQ
+STU,SPDR MSCI Europe Utilities UCIT,NIM
+STV,China Digital TV Holding Co., L,NYQ
+STW,SPDR MSCI Europe Health Care UC,NIM
+STX,Seagate Technology PLC - Ordina,NMS
+STZ,Constellation Brands, Inc. Comm,NYQ
+SUB,iShares Short-Term National Mun,PCX
+SUI,Sun Communities, Inc. Common St,NYQ
+SUM,Summit Materials, Inc. Class A ,NYQ
+SUN,Sunoco LP Common Units represen,NYQ
+SUP,Superior Industries Internation,NYQ
+SVA,Sinovac Biotech, Ltd. - Ordinar,NMS
+SVT,Servotronics, Inc. Common Stock,ASE
+SVU,SuperValu Inc. Common Stock,NYQ
+SWC,Stillwater Mining Company Commo,NYQ
+SWH,Stanley Black & Decker, Inc. Co,ASE
+SWJ,Stanley Black & Decker, Inc. 5.,NYQ
+SWK,Stanley Black & Decker, Inc. Co,NYQ
+SWM,Schweitzer-Mauduit Internationa,NYQ
+SWN,Southwestern Energy Company Com,NYQ
+SWX,Southwest Gas Corporation Commo,NYQ
+SWZ,Swiss Helvetia Fund, Inc. (The),NYQ
+SXC,SunCoke Energy, Inc. Common Sto,NYQ
+SXE,Southcross Energy Partners, L.P,NYQ
+SXI,Standex International Corporati,NYQ
+SXL,Sunoco Logistics Partners LP Co,NYQ
+SXT,Sensient Technologies Corporati,NYQ
+SYE,SPDR MFS Systematic Core Equity,PCX
+SYF,Synchrony Financial Common Stoc,NYQ
+SYG,SPDR MFS Systematic Growth Equi,PCX
+SYK,Stryker Corporation Common Stoc,NYQ
+SYN,Synthetic Biologics, Inc. Commo,ASE
+SYT,Syngenta AG Common Stock,NYQ
+SYV,SPDR MFS Systematic Value Equit,PCX
+SYX,Systemax Inc. Common Stock,NYQ
+SYY,Sysco Corporation Common Stock,NYQ
+SZC,Cushing Renaissance Fund (The) ,NYQ
+SZK,ProShares UltraShort Consumer G,PCX
+SZO,DB Crude Oil Short ETN due June,PCX
+TAC,TransAlta Corporation Ordinary ,NYQ
+TAL,TAL Education Group American De,NYQ
+TAN,Guggenheim Solar ETF,PCX
+TAO,Guggenheim China Real Estate ET,PCX
+TAP,Molson Coors Brewing Company Cl,NYQ
+TAS,Tasman Metals Ltd Ordinary Shar,ASE
+TAT,TransAtlantic Petroleum Ltd Ord,ASE
+TAX,Liberty Tax, Inc.,NMS
+TBF,ProShares Short 20+ Year Treasu,PCX
+TBI,TrueBlue, Inc. Common Stock,NYQ
+TBK,Triumph Bancorp, Inc.,NMS
+TBT,ProShares UltraShort Lehman 20 ,PCX
+TBX,ProShares Short 7 10 Year Treas,PCX
+TBZ,ProShares UltraShort 3 7 Year T,PCX
+TCB,TCF Financial Corporation Commo,NYQ
+TCC,** SEE<TCC-CL>,NYQ
+TCI,Transcontinental Realty Investo,NYQ
+TCK,Teck Resources Ltd Ordinary Sha,NYQ
+TCO,Taubman Centers, Inc. Common St,NYQ
+TCP,TC PipeLines, LP Common Units r,NYQ
+TCS,Container Store (The) Common St,NYQ
+TCX,Tucows Inc.,NCM
+TDA,Telephone and Data Systems, Inc,NYQ
+TDC,Teradata Corporation Common Sto,NYQ
+TDD,Deutsche X-trackers 2010 Target,PCX
+TDE,Telephone and Data Systems, Inc,NYQ
+TDF,Templeton Dragon Fund, Inc. Com,NYQ
+TDG,Transdigm Group Incorporated Tr,NYQ
+TDH,Deutsche X-trackers 2020 Target,PCX
+TDI,Telephone and Data Systems, Inc,NYQ
+TDJ,Telephone and Data Systems, Inc,NYQ
+TDN,Deutsche X-trackers 2030 Target,PCX
+TDS,Telephone and Data Systems, Inc,NYQ
+TDV,Deutsche X-trackers 2040 Target,PCX
+TDW,Tidewater Inc. Common Stock,NYQ
+TDX,Deutsche X-trackers In-Target D,PCX
+TDY,Teledyne Technologies Incorpora,NYQ
+TEF,Telefonica SA Common Stock,NYQ
+TEG,Integrys Energy Group, Inc. Com,NYQ
+TEI,Templeton Emerging Markets Inco,NYQ
+TEL,TE Connectivity Ltd. New Switze,NYQ
+TEN,Tenneco Inc. Common Stock,NYQ
+TEO,Telecom Argentina SA,NYQ
+TEP,Tallgrass Energy Partners, LP C,NYQ
+TER,Teradyne, Inc. Common Stock,NYQ
+TEX,Terex Corporation Common Stock,NYQ
+TFG,Fixed Income Trust for Goldman ,NYQ
+TFI,SPDR Nuveen Bloomberg Barclays ,PCX
+TFM,The Fresh Market, Inc.,NMS
+TFX,Teleflex Incorporated Common St,NYQ
+TGA,Transglobe Energy Corp - Ordina,NMS
+TGB,Taseko Mines, Ltd. Common Stock,ASE
+TGC,Tengasco, Inc. Common Stock,ASE
+TGD,Timmins Gold Corp Common Shares,ASE
+TGH,Textainer Group Holdings Limite,NYQ
+TGI,Triumph Group, Inc. Common Stoc,NYQ
+TGP,Teekay LNG Partners L.P.,NYQ
+TGR,iShares Target Date Retirement ,PCX
+TGS,Transportadora de Gas del Sur S,NYQ
+TGT,Target Corporation Common Stock,NYQ
+THC,Tenet Healthcare Corporation Co,NYQ
+THD,iShares MSCI Thailand Capped In,PCX
+THG,Hanover Insurance Group Inc,NYQ
+THM,International Tower Hill Mines,,ASE
+THO,Thor Industries, Inc. Common St,NYQ
+THQ,Tekla Healthcare Opportunies Fu,NYQ
+THR,Thermon Group Holdings, Inc. Co,NYQ
+THS,Treehouse Foods, Inc. Common St,NYQ
+THW,Tekla World Healthcare Fund Sha,NYQ
+TIA,Telecom Italia S.P.A. New,NYQ
+TIF,Tiffany & Co. Common Stock,NYQ
+TIG,TIGENIX NV,NMS
+TIK,Tel-Instrument Electronics Corp,ASE
+TIL,Till Capital Ltd. - Restricted ,NCM
+TIP,iShares TIPS Bond ETF,PCX
+TIS,Orchids Paper Products Company ,ASE
+TJX,TJX Companies, Inc. (The) Commo,NYQ
+TKC,Turkcell Iletisim Hizmetleri AS,NYQ
+TKF,Turkish Investment Fund, Inc. (,NYQ
+TKR,Timken Company (The) Common Sto,NYQ
+TLF,Tandy Leather Factory, Inc.,NGM
+TLH,iShares 10-20 Year Treasury Bon,PCX
+TLI,Western Asset Corporate Loan Fu,NYQ
+TLK,PT Telekomunikasi Indonesia, Tb,NYQ
+TLL,ProShares UltraShort Telecommun,PCX
+TLN,Talen Energy Corporation,NYQ
+TLO,SPDR Bloomberg Barclays Long Te,PCX
+TLP,TransMontaigne Partners L.P. Tr,NYQ
+TLR,Timberline Resources Corporatio,ASE
+TLT,iShares 20+ Year Treasury Bond,NGM
+TMF,Direxion Daily 20-Yr Treasury B,PCX
+TMH,Team Health Holdings, Inc. Team,NYQ
+TMK,Torchmark Corporation Common St,NYQ
+TMO,Thermo Fisher Scientific Inc Co,NYQ
+TMP,Tompkins Financial Corporation ,ASE
+TMQ,Trilogy Metals Inc. Common Stoc,ASE
+TMV,Direxion Daily 20-Year Treasury,PCX
+TNA,Direxion Small Cap Bull 3X Shar,PCX
+TNC,Tennant Company Common Stock,NYQ
+TNH,Terra Nitrogen Company, L.P. Co,NYQ
+TNK,Teekay Tankers Ltd.,NYQ
+TNP,Tsakos Energy Navigation Ltd Co,NYQ
+TOF,Tofutti Brands Inc.,ASE
+TOK,iShares MSCI Kokusai ETF,PCX
+TOL,Toll Brothers Inc. Common Stock,NYQ
+TOO,Teekay Offshore Partners L.P. C,NYQ
+TOR,Sutor Technology Group Limited,NCM
+TOT,Total S.A.,NYQ
+TPB,Turning Point Brands, Inc. Comm,NYQ
+TPC,Tutor Perini Corporation Common,NYQ
+TPH,TRI Pointe Group, Inc. Common S,NYQ
+TPI,Tianyin Pharmaceutical Co., Inc,ASE
+TPL,Texas Pacific Land Trust Common,NYQ
+TPS,ProShares UltraShort TIPS,PCX
+TPX,Tempur Sealy International, Inc,NYQ
+TPZ,Tortoise Power and Energy Infra,NYQ
+TRC,Tejon Ranch Co Common Stock,NYQ
+TRI,Thomson Reuters Corp Ordinary S,NYQ
+TRK,Speedway Motorsports, Inc. Comm,NYQ
+TRN,Trinity Industries, Inc. Common,NYQ
+TRP,TransCanada Corporation Common ,NYQ
+TRQ,Turquoise Hill Resources Ltd. O,NYQ
+TRR,TRC Companies, Inc. Common Stoc,NYQ
+TRS,TriMas Corporation,NMS
+TRT,Trio-Tech International Common ,ASE
+TRU,TransUnion Common Stock,NYQ
+TRV,The Travelers Companies, Inc. C,NYQ
+TRX,Tanzanian Royalty Exploration C,ASE
+TSC,TriState Capital Holdings, Inc.,NMS
+TSE,Trinseo S.A. Ordinary Shares,NYQ
+TSI,TCW Strategic Income Fund, Inc.,NYQ
+TSL,Trina Solar Limited Sponsored A,NYQ
+TSM,Taiwan Semiconductor Manufactur,NYQ
+TSN,Tyson Foods, Inc. Common Stock,NYQ
+TSO,Tesoro Corporation Common Stock,NYQ
+TSQ,Townsquare Media, Inc. Class A ,NYQ
+TSS,Total System Services, Inc. Com,NYQ
+TST,TheStreet, Inc.,NGM
+TSU,TIM Participacoes S.A. American,NYQ
+TTC,Toro Company (The) Common Stock,NYQ
+TTD,The Trade Desk, Inc.,NGM
+TTF,Thai Fund, Inc. (The) Common St,NYQ
+TTI,Tetra Technologies, Inc. Common,NYQ
+TTM,Tata Motors Ltd Tata Motors Lim,NYQ
+TTP,Tortoise Pipeline & Energy Fund,NYQ
+TTS,Tile Shop Hldgs, Inc.,NMS
+TTT,ProShares UltraPro Short 20 Yea,PCX
+TUP,Tupperware Brands Corporation C,NYQ
+TUR,iShares MSCI Turkey Investable ,PCX
+TUZ,PIMCO 1-3 Year US Treasury Inde,PCX
+TVC,Tennessee Valley Authority Comm,NYQ
+TVE,Tennessee Valley Authority,NYQ
+TWC,Time Warner Cable Inc,NYQ
+TWI,Titan International, Inc. (DE) ,NYQ
+TWM,ProShares UltraShort Russell200,PCX
+TWN,Taiwan Fund, Inc. (The) Common ,NYQ
+TWO,Two Harbors Investment Corp,NYQ
+TWQ,ProShares UltraShort Russell300,PCX
+TWX,Time Warner Inc. New Common Sto,NYQ
+TXN,Texas Instruments Incorporated,NMS
+TXT,Textron Inc. Common Stock,NYQ
+TYC,JOHNSON CONTROLS INTERNATIONAL ,NYQ
+TYD,Direxion Daily 10-Yr Treasury B,PCX
+TYG,Tortoise Energy Infrastructure ,NYQ
+TYL,Tyler Technologies, Inc. Common,NYQ
+TYO,Direxion Daily 10-Yr Treasury B,PCX
+TZA,Direxion Small Cap Bear 3X Shar,PCX
+TZD,iShares Target Date 2010 ETF,PCX
+TZE,iShares Target Date 2015 ETF,PCX
+TZF,** SEE<TZF-CL>,NYQ
+TZG,iShares Target Date 2020 ETF,PCX
+TZI,iShares Target Date 2025 ETF,ASE
+TZL,iShares Target Date 2030 ETF,PCX
+TZO,iShares Target Date 2035 ETF,PCX
+TZV,iShares Target Date 2040 ETF,PCX
+TZW,iShares Target Date 2045 ETF,PCX
+TZY,iShares Target Date 2050 ETF,PCX
+UAA,Under Armour, Inc. Class A Comm,NYQ
+UAE,iShares MSCI UAE Capped ETF,NGM
+UAG,E-TRACS USB Bloomberg Commodity,PCX
+UAL,United Continental Holdings,NYQ
+UAM,Universal American Corporation ,NYQ
+UAN,CVR Partners, LP Common Units r,NYQ
+UBA,Urstadt Biddle Properties Inc. ,NYQ
+UBC,E-TRACS USB Bloomberg Commodity,PCX
+UBG,E-TRACS USB Bloomberg Commodity,PCX
+UBM,E-TRACS USB Bloomberg Commodity,PCX
+UBN,E-TRACS USB Bloomberg Commodity,PCX
+UBP,Urstadt Biddle Properties Inc. ,NYQ
+UBR,ProShares Ultra MSCI Brazil Cap,PCX
+UBS,UBS Group AG Registered Ordinar,NYQ
+UBT,ProShares Ultra 20+ Year Treasu,PCX
+UCC,ProShares Ultra Consumer Servic,PCX
+UCD,ProShares Ultra Bloomberg Commo,PCX
+UCI,E-TRACS USB Bloomberg Commodity,PCX
+UCO,ProShares Ultra Bloomberg Crude,PCX
+UCP,UCP, Inc. Class A Common Stock,NYQ
+UDF,United Development Funding IV  ,NMS
+UDN,PowerShares DB USD Index Bearis,PCX
+UDR,UDR, Inc. Common Stock,NYQ
+UEC,Uranium Energy Corp. Common Sto,ASE
+UFI,Unifi, Inc. New Common Stock,NYQ
+UFS,Domtar Corporation (NEW) Common,NYQ
+UGA,United States Gasoline Fund LP,PCX
+UGE,ProShares Ultra Consumer Goods,PCX
+UGI,UGI Corporation Common Stock,NYQ
+UGL,ProShares Ultra Gold,PCX
+UGP,Ultrapar Participacoes S.A. (Ne,NYQ
+UHN,United States Diesel Heating Oi,PCX
+UHS,Universal Health Services, Inc.,NYQ
+UHT,Universal Health Realty Income ,NYQ
+UIS,Unisys Corporation New Common S,NYQ
+UJB,ProShares Ultra High Yield ETF,PCX
+UKF,ProShares Ultra Russell1000 Gro,PCX
+UKK,ProShares Ultra Russell2000 Gro,PCX
+UKW,ProShares Ultra Russell MidCap ,PCX
+ULE,ProShares Ultra Euro,PCX
+ULH,Universal Logistics Holdings, I,NMS
+UMC,United Microelectronics Corpora,NYQ
+UMH,UMH Properties, Inc. Common Sto,NYQ
+UMX,ProShares Ultra MSCI Mexico Cap,PCX
+UNB,Union Bankshares, Inc.,NGM
+UNF,Unifirst Corporation Common Sto,NYQ
+UNG,United States Natural Gas Fund ,PCX
+UNH,UnitedHealth Group Incorporated,NYQ
+UNL,United States 12 Month Natural ,PCX
+UNM,Unum Group Common Stock,NYQ
+UNP,Union Pacific Corporation Commo,NYQ
+UNT,Unit Corporation Common Stock,NYQ
+UOP,ProShares Ultra Oil & Gas Explo,PCX
+UPL,Ultra Petroleum Corp.,NYQ
+UPS,United Parcel Service, Inc. Com,NYQ
+UPV,ProShares Ultra FTSE Europe,PCX
+UPW,ProShares Ultra Utilities,PCX
+UQM,UQM TECHNOLOGIES INC Common Sto,ASE
+URA,Global X Uranium ETF,PCX
+URE,ProShares Ultra Real Estate,PCX
+URG,Ur Energy Inc Common Shares (Ca,ASE
+URI,United Rentals, Inc. Common Sto,NYQ
+URR,Market Vectors Double Long Euro,PCX
+URZ,Uranerz Energy Corporation Comm,ASE
+USA,Liberty All-Star Equity Fund Co,NYQ
+USB,U.S. Bancorp Common Stock,NYQ
+USD,ProShares Ultra Semiconductors,PCX
+USG,USG Corporation Common Stock,NYQ
+USL,United States 12 Month Oil,PCX
+USM,United States Cellular Corporat,NYQ
+USO,United States Oil Fund,PCX
+UST,ProShares Ultra 7-10 Year Treas,PCX
+USV,E-TRACS USB Bloomberg Commodity,PCX
+UTF,Cohen & Steers Infrastructure F,NYQ
+UTG,Reaves Utility Income Fund Comm,ASE
+UTI,Universal Technical Institute I,NYQ
+UTL,UNITIL Corporation Common Stock,NYQ
+UTX,United Technologies Corporation,NYQ
+UUP,PowerShares DB USD Index Bullis,PCX
+UUU,Universal Security Instruments,,ASE
+UVE,UNIVERSAL INSURANCE HOLDINGS IN,NYQ
+UVG,ProShares Ultra Russell1000 Val,PCX
+UVT,ProShares Ultra Russell2000 Val,PCX
+UVU,ProShares Ultra Russell MidCap ,PCX
+UVV,Universal Corporation Common St,NYQ
+UWC,ProShares Ultra Russell3000,PCX
+UWM,ProShares Ultra Russell2000,PCX
+UWN,Nevada Gold & Casinos, Inc. Com,ASE
+UWT,VelocityShares 3x Long Crude Oi,PCX
+UXI,ProShares Ultra Industrials,PCX
+UXJ,ProShares Ultra MSCI Pacific ex,PCX
+UYG,ProShares Ultra Financials,PCX
+UYM,ProShares Ultra Basic Materials,PCX
+UZA,United States Cellular Corporat,NYQ
+UZB,United States Cellular Corporat,NYQ
+UZC,United States Cellular Corporat,NYQ
+VAC,Marriot Vacations Worldwide Cor,NYQ
+VAL,Valspar Corporation (The) Commo,NYQ
+VAR,Varian Medical Systems, Inc. Co,NYQ
+VAW,Vanguard Materials ETF - DNQ,PCX
+VBF,Invesco Bond Fund Common Stock,NYQ
+VBK,Vanguard Small-Cap Growth ETF -,PCX
+VBR,Vanguard Small-Cap Value ETF - ,PCX
+VCF,Delaware Investments Colorado M,ASE
+VCO,Vina Concha Y Toro Common Stock,NYQ
+VCR,Vanguard Consumer Discretion ET,PCX
+VCV,Invesco California Value Munici,NYQ
+VDC,Vanguard Consumer Staples ETF -,PCX
+VDE,Vanguard Energy ETF,PCX
+VEA,Vanguard FTSE Developed Markets,PCX
+VEC,Vectrus, Inc. Common Stock,NYQ
+VER,VEREIT, Inc. Common Stock,NYQ
+VET,Vermilion Energy Inc. Common (C,NYQ
+VEU,Vanguard FTSE All World Ex US E,PCX
+VFC,V.F. Corporation Common Stock,NYQ
+VFH,Vanguard Financials ETF - DNQ,PCX
+VFL,Delaware Investments National M,ASE
+VGI,Virtus Global Multi-Sector Inco,NYQ
+VGK,Vanguard FTSEEuropean ETF,PCX
+VGM,Invesco Trust for Investment Gr,NYQ
+VGR,Vector Group Ltd. Common Stock,NYQ
+VGT,Vanguard Information Tech ETF -,PCX
+VGZ,Vista Gold Corp Common Stock,ASE
+VHC,VirnetX Holding Corp Common Sto,ASE
+VHI,Valhi, Inc. Common Stock,NYQ
+VHT,Vanguard Health Care ETF - DNQ,PCX
+VIA,Viacom Inc.,NMS
+VIG,Vanguard Div Appreciation ETF -,PCX
+VII,Vicon Industries, Inc, Common S,ASE
+VIP,VimpelCom Ltd. - American Depos,NMS
+VIS,Vanguard Industrials ETF - DNQ,PCX
+VIV,Telefonica Brasil, S.A. ADS,NYQ
+VKI,Invesco Advantage Municipal Inc,ASE
+VKQ,Invesco Municipal Trust Common ,NYQ
+VLO,Valero Energy Corporation Commo,NYQ
+VLP,Valero Energy Partners LP Commo,NYQ
+VLT,Invesco High Income Trust II,NYQ
+VLU,SPDR S&P 1500 Value Tilt ETF,PCX
+VLY,Valley National Bancorp Common ,NYQ
+VMC,Vulcan Materials Company (Holdi,NYQ
+VMI,Valmont Industries, Inc. Common,NYQ
+VMM,Delaware Investments Minnesota ,ASE
+VMO,Invesco Municipal Opportunity T,NYQ
+VMW,Vmware, Inc. Common stock, Clas,NYQ
+VNM,VanEck Vectors Vietnam ETF,PCX
+VNO,Vornado Realty Trust Common Sto,NYQ
+VNQ,Vanguard REIT ETF - DNQ,PCX
+VNR,Vanguard Natural Resources LLC,NMS
+VOC,VOC Energy Trust Units of Benef,NYQ
+VOD,Vodafone Group Plc - American D,NMS
+VOE,Vanguard Mid-Cap Value ETF - DN,PCX
+VOO,Vanguard S&P 500 ETF,PCX
+VOT,Vanguard Mid-Cap Growth ETF - D,PCX
+VOX,Vanguard Telecom ETF - DNQ,PCX
+VPG,Vishay Precision Group, Inc. Co,NYQ
+VPL,Vanguard FTSE Pacific ETF,PCX
+VPU,Vanguard Utilities ETF - DNQ,PCX
+VPV,Invesco Pennsylvania Value Muni,NYQ
+VQT,Barclays ETN S&P VEQTOR ETN,PCX
+VRA,Vera Bradley, Inc.,NMS
+VRD,SPDR S&P VRDO Municipal Bond ET,PCX
+VRP,PowerShares Variable Rate Prefe,PCX
+VRS,Verso Corporation Common Stock,NYQ
+VRX,Valeant Pharmaceuticals Interna,NYQ
+VSH,Vishay Intertechnology, Inc. Co,NYQ
+VSI,Vitamin Shoppe, Inc Common Stoc,NYQ
+VSM,Versum Materials, Inc. Common S,NYQ
+VSR,Versar, Inc. Common Stock,ASE
+VSS,Vanguard FTSE All-Wld ex-US SmC,PCX
+VTA,Invesco Credit Opportunities Fu,NYQ
+VTG,Vantage Drilling Company,ASE
+VTI,Vanguard Total Stock Market ETF,PCX
+VTL,Vital Therapies, Inc.,NMS
+VTN,Invesco Trust for Investment Gr,NYQ
+VTR,Ventas, Inc. Common Stock,NYQ
+VTV,Vanguard Value ETF - DNQ,PCX
+VUG,Vanguard Growth ETF - DNQ,PCX
+VVC,Vectren Corporation Common Stoc,NYQ
+VVI,Viad Corp Common Stock,NYQ
+VVR,Invesco Senior Income Trust Com,NYQ
+VVV,Valvoline Inc. Common Stock,NYQ
+VWO,Vanguard FTSE Emerging Markets ,PCX
+VWR,VWR Corporation,NMS
+VXF,Vanguard Extended Market ETF - ,PCX
+VXX,iPath S&P 500 VIX Short Term Fu,PCX
+VXZ,iPath S&P 500 VIX Mid-Term Futu,PCX
+VYM,Vanguard High Dividend Yield ET,PCX
+VZA,Verizon Communications Inc. 5.9,NYQ
+WAB,Westinghouse Air Brake Technolo,NYQ
+WAC,Walter Investment Management Co,NYQ
+WAL,Western Alliance Bancorporation,NYQ
+WAT,Waters Corporation Common Stock,NYQ
+WBA,Walgreens Boots Alliance, Inc.,NMS
+WBB,Westbury Bancorp, Inc.,NCM
+WBC,Wabco Holdings Inc. Common Stoc,NYQ
+WBK,Westpac Banking Corporation Com,NYQ
+WBS,Webster Financial Corporation C,NYQ
+WCC,WESCO International, Inc. Commo,NYQ
+WCG,Wellcare Health Plans, Inc. Com,NYQ
+WCN,Waste Connections, Inc. Common ,NYQ
+WDC,Western Digital Corporation,NMS
+WDR,Waddell & Reed Financial, Inc. ,NYQ
+WEA,Western Asset Bond Fund Share o,NYQ
+WEB,Web.com Group, Inc.,NMS
+WEC,WEC Energy Group, Inc. Common S,NYQ
+WEN,Wendy's Company (The),NMS
+WES,Western Gas Partners, LP Limite,NYQ
+WEX,WEX Inc. common stock,NYQ
+WFC,Wells Fargo & Company Common St,NYQ
+WFD,WESTERN NEW ENGLAND BANCORP INC,NMS
+WFM,Whole Foods Market, Inc.,NMS
+WFT,Weatherford International plc (,NYQ
+WGA,AG&E Holdings, Inc.,ASE
+WGL,WGL Holdings IncCommon Stock,NYQ
+WGO,Winnebago Industries, Inc. Comm,NYQ
+WGP,Western Gas Equity Partners, LP,NYQ
+WHF,WhiteHorse Finance, Inc.,NMS
+WHG,Westwood Holdings Group Inc Com,NYQ
+WHR,Whirlpool Corporation Common St,NYQ
+WIA,Western Asset/Claymore Inflatio,NYQ
+WIL,Barclays PLC Barclays Women in ,PCX
+WIN,Windstream Holdings, Inc.,NMS
+WIP,SPDR Citi International Governm,PCX
+WIT,Wipro Limited Common Stock,NYQ
+WIW,Western Asset/Claymore Inflatio,NYQ
+WIX,Wix.com Ltd. - Ordinary Shares,NMS
+WLB,Westmoreland Coal Company,NGM
+WLH,Lyon William Homes Common Stock,NYQ
+WLK,Westlake Chemical Corporation C,NYQ
+WLL,Whiting Petroleum Corporation C,NYQ
+WLT,Walter Energy, Inc. Common Stoc,NYQ
+WMB,Williams Companies, Inc. (The) ,NYQ
+WMC,Western Asset Mortgage Capital ,NYQ
+WMK,Weis Markets, Inc. Common Stock,NYQ
+WMS,Advanced Drainage Systems, Inc.,NYQ
+WMT,Wal-Mart Stores, Inc. Common St,NYQ
+WMW,DEUTSCHE BANK AKTIENGESELLSCHAF,PCX
+WNC,Wabash National Corporation Com,NYQ
+WNR,Western Refining Inc. Western R,NYQ
+WNS,WNS (Holdings) Limited Sponsore,NYQ
+WOR,Worthington Industries, Inc. Co,NYQ
+WPC,W.P. Carey Inc. REIT,NYQ
+WPG,Washington Prime Group Inc. Com,NYQ
+WPS,iShares International Developed,PCX
+WPT,World Point Terminals, LP Commo,NYQ
+WPX,WPX Energy, Inc. Common Stock,NYQ
+WPZ,Williams Partners, L.P. Common ,NYQ
+WRB,W.R. Berkley Corporation Common,NYQ
+WRD,WildHorse Resource Development ,NYQ
+WRE,Washington Real Estate Investme,NYQ
+WRI,Weingarten Realty Investors Com,NYQ
+WRK,Westrock Company Common Stock,NYQ
+WRN,Western Copper and Gold Corpora,ASE
+WRT,** SEE<WRT-CL>,NYQ
+WSM,Williams-Sonoma, Inc. Common St,NYQ
+WSO,Watsco, Inc. Common Stock,NYQ
+WSR,Whitestone REIT Common Shares,NYQ
+WST,West Pharmaceutical Services, I,NYQ
+WTI,W&T Offshore, Inc. Common Stock,NYQ
+WTM,White Mountains Insurance Group,NYQ
+WTR,Aqua America, Inc. Common Stock,NYQ
+WTS,Watts Water Technologies, Inc. ,NYQ
+WTT,Wireless Telecom Group,  Inc. C,ASE
+WTW,Weight Watchers International I,NYQ
+WVE,WAVE Life Sciences Ltd. - Ordin,NGM
+WWD,Woodward, Inc.,NMS
+WWE,World Wrestling Entertainment, ,NYQ
+WWW,Wolverine World Wide, Inc. Comm,NYQ
+WYN,Wyndham Worldwide Corp Common  ,NYQ
+WYY,WidePoint Corporation Common St,ASE
+XAR,SPDR S&P Aerospace & Defense ET,PCX
+XBI,SPDR Series Trust  SPDR S&P Bio,PCX
+XCO,EXCO Resources, Inc. Exco Resou,NYQ
+XEC,Cimarex Energy Co Common Stock,NYQ
+XEL,Xcel Energy Inc. Common Stock,NYQ
+XES,SPDR Series Trust SPDR S&P Oil ,PCX
+XHB,SPDR Series Trust SPDR Homebuil,PCX
+XHE,SPDR S&P Health Care Equipment,PCX
+XHR,Xenia Hotels & Resorts, Inc. Co,NYQ
+XHS,SPDR S&P Health Care Services E,PCX
+XIN,Xinyuan Real Estate Co Ltd Amer,NYQ
+XIV,Credit Suisse AG,PCX
+XKE,Lehman ABS Corporation Corporat,NYQ
+XLB,Materials Select Sector SPDR,PCX
+XLE,SPDR Select Sector Fund - Energ,PCX
+XLF,SPDR Select Sector Fund - Finan,PCX
+XLG,Guggenheim S&P 500 Top 50 ETF,PCX
+XLI,SPDR Select Sector Fund - Indus,PCX
+XLK,SPDR Select Sector Fund - Techn,PCX
+XLP,SPDR Select Sector Fund - Consu,PCX
+XLU,SPDR Select Sector Fund - Utili,PCX
+XLV,SPDR Select Sector Fund - Healt,PCX
+XLY,SPDR Select Sector Fund - Consu,PCX
+XME,SPDR S&P Metals & Mining ETF,PCX
+XNY,China Xiniya Fashion Limited Am,NYQ
+XOG,Extraction Oil & Gas, Inc.,NMS
+XOM,Exxon Mobil Corporation Common ,NYQ
+XON,Intrexon Corporation Common Sto,NYQ
+XOP,SPDR S&P Oil & Gas Explor & Pro,PCX
+XPH,SPDR S&P Pharmaceuticals ETF,PCX
+XPL,Solitario Exploration & Royalty,ASE
+XPO,XPO Logistics, Inc.,NYQ
+XPP,ProShares Ultra FTSE China 50,PCX
+XRA,Exeter Resource Corporation Ord,ASE
+XRM,Xerium Technologies, Inc. New C,NYQ
+XRS,TAL Education Group American De,NYQ
+XRT,SPDR S&P Retail ETF,PCX
+XRX,Xerox Corporation Common Stock,NYQ
+XSD,SPDR S&P Semiconductor ETF,PCX
+XSW,SPDR S&P Software & Services ET,PCX
+XTH,SPDR S&P Technology Hardware ET,PCX
+XTL,SPDR S&P Telecom ETF,PCX
+XTN,SPDR S&P Transportation ETF,PCX
+XUE,Xueda Education Group American ,NYQ
+XVZ,iPath S&P 500 Dynamic VIX ETN,PCX
+XXV,iPath Inverse S&P 500 VIX Short,PCX
+XYL,Xylem Inc. Common Stock New,NYQ
+YAO,Guggenheim China All-Cap ETF,PCX
+YCB,Your Community Bankshares, Inc.,NCM
+YCL,ProShares Ultra Yen,PCX
+YCS,ProShares UltraShort Yen New,PCX
+YGE,Yingli Green Energy Holding Com,NYQ
+YIN,Yintech Investment Holdings Lim,NMS
+YLD,Principal Exchange-Traded Funds,PCX
+YOD,WECAST NETWORK INC,NCM
+YPF,YPF Sociedad Anonima Common Sto,NYQ
+YRD,Yirendai Ltd. American Deposita,NYQ
+YUM,Yum! Brands, Inc.,NYQ
+YXI,ProShares Short FTSE China 50,PCX
+YYY,YieldShares High Income ETF,PCX
+YZC,Yanzhou Coal Mining Company Lim,NYQ
+ZBB,ZBB Energy Corporation Common S,ASE
+ZBH,Zimmer Biomet Holdings, Inc. Co,NYQ
+ZBK,Zions Bancorporation 6.95% Fixe,NYQ
+ZEN,Zendesk, Inc. Common Stock,NYQ
+ZEP,Zep Inc. Common Stock,NYQ
+ZFC,ZAIS Financial Corp.,NYQ
+ZIV,Credit Suisse AG,NGM
+ZMH,Zimmer Holdings, Inc. Common St,NYQ
+ZNH,China Southern Airlines Company,NYQ
+ZSL,ProShares UltraShort Silver,PCX
+ZTO,ZTO Express (Cayman) Inc. Ameri,NYQ
+ZTR,Virtus Global Dividend & Income,NYQ
+ZTS,Zoetis Inc. Class A Common Stoc,NYQ
