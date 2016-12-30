@@ -1,1 +1,4 @@
 git status
+git add                   --> adding a new file to git
+git commit -m "Message"   --> committing the file to the repository
+git push origin master    --> uploading the changes to the GIT repository online, to the relevant branch (master)
