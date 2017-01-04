@@ -42,8 +42,8 @@ def getYahooStockQuote(symbol):
 #getYahooStockQuote('intc')
 
 try:
-    db = client.test
-    collection = db.ystocks
+    db = client.yss_db
+    collection = db.yahoo_stocks
     print "Connected Successfuly"
 except pymongo.errors.ConnectionFailure, e:
     print "Could not connect to MongoDB: %s"
