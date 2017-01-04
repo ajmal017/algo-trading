@@ -9,9 +9,9 @@ import matplotlib.pyplot as plt
 import matplotlib.font_manager as font_manager
 
 
-startdate = datetime.date(2006, 1, 1)
+startdate = datetime.date(2010, 1, 1)
 today = enddate = datetime.date.today()
-ticker = 'SPY'
+ticker = 'A'
 
 
 fh = finance.fetch_historical_yahoo(ticker, startdate, enddate)
