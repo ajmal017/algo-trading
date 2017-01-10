@@ -15,7 +15,7 @@ import pandas as pd
 client = MongoClient('localhost',27017)
 
 def getYahooStockQuote(symbol):
-    url = "http://download.finance.yahoo.com/d/quotes.csv?s=" + symbol + "&f=sl1d1c1hgvr6r7j1"
+    url = "http://download.finance.yahoo.com/d/quotes.csv?s=" + symbol + "&f=sl1d1c1hgvr6r7j1b2b3a2ghm2m3"
     print url
     f = urllib2.urlopen(url)
     s = f.read()
@@ -34,6 +34,14 @@ def getYahooStockQuote(symbol):
     D['epsCurr'] = L[7]
     D['epsNext'] = L[8]
     D['marketCap'] = L[9]
+    D['realTimeAsk'] = L[10]
+    D['realTimeBid'] = L[11]
+    D['averageDailyVolume'] = L[12]
+    D['dailyLow'] = L[13]
+    D['dailyHigh'] = L[14]
+    D['reatimeDailyRange'] = L[15]
+    D['movingAverage50Days'] = L[16]
+
     print D
     return D
 
